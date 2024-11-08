@@ -7,18 +7,21 @@ main:
   - name: 主任介绍
     url: director
     weight: 10
-  - name: News
-    url: post
+  - name: 团队成员
+    url: post #需要改，以及下面的
     weight: 20
-  - name: People
+  - name: 毕业成员
     url: people
     weight: 30
-  - name: Events
+  - name: 科研项目
     url: event
     weight: 40
-  - name: Publications
+  - name: 著作论文
     url: publication
     weight: 50
-  - name: Contact
+  - name: 学术报告
     url: contact
     weight: 60
+  - name: 加入我们
+    url: contact
+    weight: 70
