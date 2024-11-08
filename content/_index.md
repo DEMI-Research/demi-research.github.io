@@ -21,8 +21,7 @@ sections:
     content:
       title: 研究方向
       subtitle: Research Directions
-      text: Bold with **asterisks**.
-      Combined emphasis with **asterisks and _underscores_**.
+      text: "Bold with **asterisks**. Combined emphasis with **asterisks and _underscores_**."
   
   # - block: markdown
   #   content:
