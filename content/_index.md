@@ -21,33 +21,23 @@ sections:
     content:
       title: 研究方向
       subtitle: Research Directions
-      text: {{% <!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <title>我的第一个网页</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #0056b3;
-        }
-        p {
-            font-size: 16px;
-            line-height: 1.6;
-        }
-    </style>
-</head>
-<body>
-    <h1>欢迎来到我的网页</h1>
-    <p>这是一个简单的 HTML 和 CSS 组合示例。</p>
-</body>
-</html> %}}
+      text: <table>
+  <tr>
+    <th>名称</th>
+    <th>年龄</th>
+    <th>职业</th>
+  </tr>
+  <tr>
+    <td>张三</td>
+    <td>25</td>
+    <td>工程师</td>
+  </tr>
+  <tr>
+    <td>李四</td>
+    <td>30</td>
+    <td>设计师</td>
+  </tr>
+</table>
   
   # - block: markdown
   #   content:
