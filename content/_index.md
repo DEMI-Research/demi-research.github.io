@@ -21,23 +21,9 @@ sections:
     content:
       title: 研究方向
       subtitle: Research Directions
-      text: <table>
-  <tr>
-    <th>名称</th>
-    <th>年龄</th>
-    <th>职业</th>
-  </tr>
-  <tr>
-    <td>张三</td>
-    <td>25</td>
-    <td>工程师</td>
-  </tr>
-  <tr>
-    <td>李四</td>
-    <td>30</td>
-    <td>设计师</td>
-  </tr>
-</table>
+      text: Bold with **asterisks**.
+
+Combined emphasis with **asterisks and _underscores_**.
   
   # - block: markdown
   #   content:
