@@ -24,7 +24,7 @@ sections:
       title: 研究方向
       subtitle: Research Directions
       text: 
-      <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -97,40 +97,40 @@ sections:
         }
     </style>
 </head>
-<body>
+# <body>
 
-    <div class="container">
-        <div class="title">主研方向</div>
-        <div class="subtitle">我们做什么</div>
-        <div class="research-directions">
-            <!-- 多模态智能信息处理 -->
-            <div class="direction">
-                <div class="icon">🔗</div> <!-- 使用 Emoji 图标表示 -->
-                <div class="direction-title">多模态智能信息处理</div>
-                <div class="description">
-                    基于文本、语音、视频（图片）等模态的信息情感分类、情绪分析和意图识别等模型。
-                </div>
-            </div>
-            <!-- 智能移动机器人关键技术 -->
-            <div class="direction">
-                <div class="icon">🤖</div> <!-- 使用 Emoji 图标表示 -->
-                <div class="direction-title">智能移动机器人关键技术</div>
-                <div class="description">
-                    人机对话技术，智能移动机器人的控制技术和场景应用（商业智能服务机器人、双模式智能消毒机器人）
-                </div>
-            </div>
-            <!-- 智能优化方法研究 -->
-            <div class="direction">
-                <div class="icon">💾</div> <!-- 使用 Emoji 图标表示 -->
-                <div class="direction-title">智能优化方法研究</div>
-                <div class="description">
-                    基于演化的优化理论，（高维、稀疏、昂贵）多目标优化问题
-                </div>
-            </div>
-        </div>
-    </div>
+#     <div class="container">
+#         <div class="title">主研方向</div>
+#         <div class="subtitle">我们做什么</div>
+#         <div class="research-directions">
+#             <!-- 多模态智能信息处理 -->
+#             <div class="direction">
+#                 <div class="icon">🔗</div> <!-- 使用 Emoji 图标表示 -->
+#                 <div class="direction-title">多模态智能信息处理</div>
+#                 <div class="description">
+#                     基于文本、语音、视频（图片）等模态的信息情感分类、情绪分析和意图识别等模型。
+#                 </div>
+#             </div>
+#             <!-- 智能移动机器人关键技术 -->
+#             <div class="direction">
+#                 <div class="icon">🤖</div> <!-- 使用 Emoji 图标表示 -->
+#                 <div class="direction-title">智能移动机器人关键技术</div>
+#                 <div class="description">
+#                     人机对话技术，智能移动机器人的控制技术和场景应用（商业智能服务机器人、双模式智能消毒机器人）
+#                 </div>
+#             </div>
+#             <!-- 智能优化方法研究 -->
+#             <div class="direction">
+#                 <div class="icon">💾</div> <!-- 使用 Emoji 图标表示 -->
+#                 <div class="direction-title">智能优化方法研究</div>
+#                 <div class="description">
+#                     基于演化的优化理论，（高维、稀疏、昂贵）多目标优化问题
+#                 </div>
+#             </div>
+#         </div>
+#     </div>
 
-</body>
+# </body>
 </html>
   
   # - block: markdown
