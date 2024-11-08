@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        数据工程与多模态智能实验室
       image:
         filename: welcome.jpg
       text: |
