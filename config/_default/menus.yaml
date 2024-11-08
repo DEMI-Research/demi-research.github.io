@@ -19,9 +19,12 @@ main:
   - name: 著作论文
     url: publication
     weight: 50
-  - name: 学术报告
+  - name: 开源成果
     url: contact
     weight: 60
-  - name: 加入我们
+  - name: 团队活动
     url: contact
     weight: 70
+  - name: 加入我们
+    url: contact
+    weight: 80
