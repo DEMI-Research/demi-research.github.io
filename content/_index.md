@@ -23,7 +23,8 @@ sections:
     content:
       title: 研究方向
       subtitle: Research Directions
-      text: <!DOCTYPE html>
+      text: "
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -50,6 +51,7 @@ sections:
     <p>这是一个简单的 HTML 和 CSS 组合示例。</p>
 </body>
 </html>
+"
   
   # - block: markdown
   #   content:
