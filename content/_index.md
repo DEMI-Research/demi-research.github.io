@@ -21,7 +21,8 @@ sections:
     content:
       title: 研究方向
       subtitle: Research Directions
-      text: "<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><title>测试页面</title></head><body><p>你好，世界！</p></body></html>"
+      # text: "<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><title>测试页面</title></head><body><p>你好，世界！</p></body></html>"
+      text: "测试测试"
   
   # - block: markdown
   #   content:
