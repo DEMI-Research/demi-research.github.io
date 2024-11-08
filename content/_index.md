@@ -10,7 +10,7 @@ sections:
       title: |
         数据工程与多模态智能实验室
       image:
-        filename: welcome.jpg
+        filename: 人大照片.png
       text: |
         <br>
         
