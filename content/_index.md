@@ -20,8 +20,7 @@ sections:
     content:
       title: 研究方向
       subtitle: Research Directions
-      text: |
-      <!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=10"><title>Simple Page</title></head><body><h1>Hello, World!</h1><p>This is a simple HTML page.</p></body></html>
+      text: 智慧治理与行业智能（SG&DI）、大模型与数据治理（LLM&DG）、多模态与知识工程（MM&KE）、大小模型协同学习（ModelCollab）
 
   - block: markdown
     content:
