@@ -20,7 +20,7 @@ sections:
     content:
       title: 研究方向
       subtitle: Research Directions
-      text: {{% include "snippet/intro" %}}
+      text: {{% include "snippet/direction" %}}
 
   - block: markdown
     content:
