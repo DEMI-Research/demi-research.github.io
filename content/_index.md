@@ -21,9 +21,9 @@ sections:
     content:
       title: 研究方向
       subtitle: Research Directions
-      text: {{% include "snippet/direction" %}}
+      text: |
+      {{% include "snippet/direction" %}}
 
-      # text: "测试测试" <!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=10"><title>Simple Page</title></head><body><h1>Hello, World!</h1><p>This is a simple HTML page.</p></body></html>
   
   # - block: markdown
   #   content:
@@ -44,6 +44,8 @@ sections:
   #     spacing:
   #       padding: ['20px', '0', '20px', '0']
   #     css_class: fullscreen
+
+  # text: "测试测试" <!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=10"><title>Simple Page</title></head><body><h1>Hello, World!</h1><p>This is a simple HTML page.</p></body></html>
 
   # - block: collection
   #   content:
