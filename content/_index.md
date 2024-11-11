@@ -66,8 +66,20 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+  
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{<  myshortcode `This is some <b>HTML</b>, and a new line with a "quoted string".` >}}
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{< highlight go >}} A bunch of code here {{< /highlight >}}
 
 ---
 
-
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=10"><title>Simple Page</title></head><body><h1>Hello, World!</h1><p>This is a simple HTML page.</p></body></html>
