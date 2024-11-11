@@ -74,12 +74,12 @@ sections:
       text: |
         {{<  myshortcode `This is some <b>HTML</b>, and a new line with a "quoted string".` >}}
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{< highlight go >}} A bunch of code here {{< /highlight >}}
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle:
+  #     text: |
+  #       {{< highlight go >}} A bunch of code here {{< /highlight >}}
 
 ---
 
