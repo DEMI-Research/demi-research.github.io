@@ -66,23 +66,15 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+  
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% <!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=10"><title>Simple Page</title></head><body><h1>Hello, World!</h1><p>This is a simple HTML page.</p></body></html> %}}
+    design:
+      columns: '1'
 ---
+abcsbadsbasdaksdasbdaks
 
-
----
-widget: blank
-headless: true
-
-# ... Put Your Section Options Here (title etc.) ...
-title: My New Section
-subtitle:
-weight: 10  # section position on page
-
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
----
-
-Add any content here - text, images, videos, galleries - and even HTML code!
-
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=10"><title>Simple Page</title></head><body><h1>Hello, World!</h1><p>This is a simple HTML page.</p></body></html>
