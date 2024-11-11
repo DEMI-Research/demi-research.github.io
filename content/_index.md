@@ -67,19 +67,19 @@ sections:
     design:
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{<  myshortcode `This is some <b>HTML</b>, and a new line with a "quoted string".` >}}
-
   # - block: markdown
   #   content:
   #     title:
   #     subtitle:
   #     text: |
-  #       {{< highlight go >}} A bunch of code here {{< /highlight >}}
+  #       {{<  myshortcode `This is some <b>HTML</b>, and a new line with a "quoted string".` >}}
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{< highlight go >}} A bunch of code here {{< /highlight >}}
 
 ---
 
