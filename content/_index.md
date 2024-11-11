@@ -79,7 +79,15 @@ sections:
       title:
       subtitle:
       text: |
-        {{< highlight go >}} A bunch of code here {{< /highlight >}}
+        {{< myshortcode >}}<p>Hello <strong>World!</strong></p>{{< /myshortcode >}}
+  
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{< myshortcode >}}<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=10"><title>Simple Page</title></head><body><h1>Hello, World!</h1><p>This is a simple HTML page.</p></body></html>{{< /myshortcode >}}
+
 
 ---
 
