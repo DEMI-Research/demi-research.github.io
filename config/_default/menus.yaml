@@ -8,10 +8,10 @@ main:
     url: author/zhixu-li
     weight: 10
   - name: 团队成员
-    url: post #需要改，以及下面的
+    url: people
     weight: 20
   - name: 毕业成员
-    url: people
+    url: graduate
     weight: 30
   - name: 科研项目
     url: event
