@@ -20,15 +20,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
-研究方向:
-  - 大语言模型(LLMs) & 多模态大模型
-  - 知识图谱(KGs) & 多模态知识图谱
-  - 跨模态认知智能
-  - 自然语言处理（NLP）
-  - 数据挖掘与大数据分析
-  - 数据治理 & 数据质量
+interests:
+  - Large Language Models (LLMs) & Multimodal LLMs
+  - Knowledge Graphs (KGs) & Multimodal KGs
+  - Cross-Modal (Vision, Language, Speech) Understanding
+  - Natural Language Processing (NLP)
+  - Data Mining and Big Data Analysis
+  - Data Governance & Data Quality
 
-教育背景:
+education:
   courses:
     - course: PhD in Computer Science
       institution: The University of Queensland
