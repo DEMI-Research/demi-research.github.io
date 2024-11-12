@@ -1,54 +1,76 @@
 ---
-title: Director
-date: 2022-10-24
+# Display name
+title: ZhiXu Li
 
-type: landing
+# Full Name (for SEO)
+first_name: ZhiXu
+last_name: Li
 
-sections:
-  - block: slider
-    content:
-      slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position
+role: Professor & Ph.D Supervisor in Computer Science
+
+# Organizations/Affiliations
+organizations:
+  - name: Renmin University of China
+    url: ''
+
+# Short bio (displayed in user profile at end of posts)
+bio: ...
+
+interests:
+  - Large Language Models (LLMs) & Multimodal LLMs
+  - Knowledge Graphs (KGs) & Multimodal KGs
+  - Cross-Modal (Vision, Language, Speech) Understanding
+  - Natural Language Processing (NLP)
+  - Data Mining and Big Data Analysis
+  - Data Governance & Data Quality
+
+education:
+  courses:
+    - course: PhD in Computer Science
+      institution: The University of Queensland
+      year: 2013
+    - course: Master in Computer Science
+      institution: Renmin University of China
+      year: 2009
+    - course: Bachelor in Computer Science
+      institution: Renmin University of China
+      year: 2006
+
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'zhixuli@ruc.edu.cn'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=P1N6z0oAAAAJ&hl=zh-CN&oi=ao
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
+  
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Researchers
 ---
+
+李直旭，中国人民大学信息学院、智慧治理学院双聘教授，博士生导师，中国人民大学数据工程与多模态智能实验室主任，苏州市人工智能与社会治理技术重点实验室副主任。主要研究方向为大模型、知识图谱、大数据治理等。李直旭博士毕业于澳大利亚知名学府昆士兰大学，曾在复旦大学和苏州大学等高校计算机学院担任教授职务，并曾兼任过科大讯飞苏州研究院副院长。主持国家和省部级科研项目10余项，在领域主流期刊和国际会议上发表论文200余篇，拥有发明专利60余项，长期与人工智能头部公司保持产学研合作，有着丰富的人工智能与大数据技术的研究与实践经验。
