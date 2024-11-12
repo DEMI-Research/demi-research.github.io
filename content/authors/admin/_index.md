@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - 实验室主任
 ---
 
 <p style="font-size: 22px;">李直旭，中国人民大学信息学院、智慧治理学院双聘教授，博士生导师，中国人民大学数据工程与多模态智能实验室主任，苏州市人工智能与社会治理技术重点实验室副主任。主要研究方向为大模型、知识图谱、大数据治理等。</p>
