@@ -5,7 +5,7 @@
 
 main:
   - name: 主任介绍
-    url: authors/zhixu-li
+    url: author/zhixu-li
     weight: 10
   - name: 团队成员
     url: post #需要改，以及下面的
