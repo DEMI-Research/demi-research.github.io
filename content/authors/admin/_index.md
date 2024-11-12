@@ -1,41 +1,44 @@
 ---
 # Display name
-title: TianJun Pan
+title: ZhiXu Li
 
 # Full Name (for SEO)
-first_name: TianJun
-last_name: Pan
+first_name: ZhiXu
+last_name: Li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Master of Artificial Intelligence
+role: Professor & Ph.D Supervisor in Computer Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Renmin University of China
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ...
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Large Language Models (LLMs) & Multimodal LLMs
+  - Knowledge Graphs (KGs) & Multimodal KGs
+  - Cross-Modal (Vision, Language, Speech) Understanding
+  - Natural Language Processing (NLP)
+  - Data Mining and Big Data Analysis
+  - Data Governance & Data Quality
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Computer Science
+      institution: The University of Queensland
+      year: 2013
+    - course: Master in Computer Science
+      institution: Renmin University of China
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor in Computer Science
+      institution: Renmin University of China
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +47,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'zhixuli@ruc.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=P1N6z0oAAAAJ&hl=zh-CN&oi=ao
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +73,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+李直旭，中国人民大学信息学院、智慧治理学院双聘教授，博士生导师，中国人民大学数据工程与多模态智能实验室主任，苏州市人工智能与社会治理技术重点实验室副主任。主要研究方向为大模型、知识图谱、大数据治理等。李直旭博士毕业于澳大利亚知名学府昆士兰大学，曾在复旦大学和苏州大学等高校计算机学院担任教授职务，并曾兼任过科大讯飞苏州研究院副院长。主持国家和省部级科研项目10余项，在领域主流期刊和国际会议上发表论文200余篇，拥有发明专利60余项，长期与人工智能头部公司保持产学研合作，有着丰富的人工智能与大数据技术的研究与实践经验。
