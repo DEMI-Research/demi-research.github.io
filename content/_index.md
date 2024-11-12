@@ -20,7 +20,7 @@ sections:
     content:
       title: 研究方向
       subtitle: Research Directions
-      text: <div style="text-align: center; font-size: 24px; font-weight: bold;">智慧治理与行业智能（SG&DI）、大模型与数据治理（LLM&DG、多模态与知识工程（MM&KE）、大小模型协同学习（ModelCollab）</div>
+      text: "<div style=\"text-align: center;font-size: 24px; font-weight: bold;\">智慧治理与行业智能（SG&DI）、大模型与数据治理（LLM&DG、多模态与知识工程（MM&KE）、大小模型协同学习（ModelCollab）</div>"
 
   - block: markdown
     content:
