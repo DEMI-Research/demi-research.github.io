@@ -1,20 +1,20 @@
 ---
 # Display name
-title: ShiSong Chen
+title: ZhiXu Li
 
 # Full Name (for SEO)
-first_name: ShiSong
-last_name: Chen
+first_name: ZhiXu
+last_name: Li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Ph.D
+role: Professor & Ph.D Supervisor in Computer Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Fudan University
+  - name: Renmin University of China
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
