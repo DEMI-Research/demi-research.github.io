@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        数据工程与多模态智能实验室
+        <font size="4">数据工程与多模态智能实验室</font>
       image:
         filename: 人大照片.png
       text: |
