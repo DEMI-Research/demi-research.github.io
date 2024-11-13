@@ -5,7 +5,7 @@
 
 main:
   - name: 主任介绍
-    url: author/zhixu-li
+    url: author/李直旭
     weight: 10
   - name: 团队成员
     url: people

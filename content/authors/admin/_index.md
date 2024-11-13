@@ -10,7 +10,7 @@ last_name: 李
 superuser: true
 
 # Role/position
-role: Professor & Ph.D Supervisor in Computer Science
+role: 教授，博士生导师
 
 # Organizations/Affiliations
 organizations:
@@ -22,22 +22,22 @@ bio: ...
 
 interests:
   - 大语言模型 & 多模态大模型
-  - Knowledge Graphs (KGs) & Multimodal KGs
-  - Cross-Modal (Vision, Language, Speech) Understanding
-  - Natural Language Processing (NLP)
-  - Data Mining and Big Data Analysis
-  - Data Governance & Data Quality
+  - 知识图谱(KGs) & 多模态知识图谱
+  - 跨模态(视觉, 语言, 语音) 理解
+  - 自然语言处理(NLP)
+  - 数据挖掘与大数据分析
+  - 数据治理 & 数据质量
 
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: The University of Queensland
+    - course: 计算机科学与技术 博士学位
+      institution: 昆士兰大学
       year: 2013
-    - course: Master in Computer Science
-      institution: Renmin University of China
+    - course: 计算机科学与技术 硕士学位
+      institution: 中国人民大学
       year: 2009
-    - course: Bachelor in Computer Science
-      institution: Renmin University of China
+    - course: 计算机科学与技术 硕士学位
+      institution: 中国人民大学
       year: 2006
 
 # Social/Academic Networking
