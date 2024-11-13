@@ -1,10 +1,10 @@
 ---
 # Display name
-title: ZhiXu Li
+title: 李直旭
 
 # Full Name (for SEO)
-first_name: ZhiXu
-last_name: Li
+first_name: 直旭
+last_name: 李
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,14 +14,14 @@ role: Professor & Ph.D Supervisor in Computer Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Renmin University of China
+  - name: 中国人民大学
     url: 'https://www.ruc.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
 interests:
-  - Large Language Models (LLMs) & Multimodal LLMs
+  - 大语言模型 & 多模态大模型
   - Knowledge Graphs (KGs) & Multimodal KGs
   - Cross-Modal (Vision, Language, Speech) Understanding
   - Natural Language Processing (NLP)
