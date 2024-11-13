@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 陈石松
+title: 何莹
 
 # Full Name (for SEO)
-first_name: 石松
-last_name: 陈
+first_name: 莹
+last_name: 何
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: 博士
@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.fudan.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 领域知识抽取算法与系统
+bio: 知识增强的领域大模型研究与应用
 
 interests:
   - 大语言模型（LLMs）
