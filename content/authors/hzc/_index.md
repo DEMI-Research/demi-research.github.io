@@ -1,18 +1,17 @@
 ---
 # Display name
-title: 潘天俊
+title: 胡哲诚
 
 # Full Name (for SEO)
-first_name: 天俊
-last_name: 潘
+first_name: 哲诚
+last_name: 胡
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: 硕士
 grade: 1
-
 # Organizations/Affiliations
 organizations:
   - name: 复旦大学
@@ -27,9 +26,9 @@ interests:
 
 education:
   courses:
-    - course: 软件工程 学士学位
-      institution: 中国地质大学（武汉）
-      year: 2024
+    # - course: 软件工程 学士学位
+    #   institution: 中国地质大学（武汉）
+    #   year: 2024
 
 
 # Social/Academic Networking

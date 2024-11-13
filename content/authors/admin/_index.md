@@ -11,6 +11,7 @@ superuser: true
 
 # Role/position
 role: 教授，博士生导师
+grade: 1
 
 # Organizations/Affiliations
 organizations:

@@ -17,7 +17,7 @@ sections:
           - 在读硕士生
           - 访问实习生
           - 优秀本科生
-      sort_by: Params.last_name
+      sort_by: Params.grade
       sort_ascending: true
     design:
       show_interests: false

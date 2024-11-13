@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position
 role: 硕士
+grade: 1
 
 # Organizations/Affiliations
 organizations:

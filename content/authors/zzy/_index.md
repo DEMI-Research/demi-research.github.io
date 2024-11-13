@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position
 role: 本科生
+grade: 4
 
 # Organizations/Affiliations
 organizations:

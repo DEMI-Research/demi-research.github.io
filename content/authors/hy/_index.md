@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position
 role: 博士
+grade: 4
 
 # Organizations/Affiliations
 organizations:
