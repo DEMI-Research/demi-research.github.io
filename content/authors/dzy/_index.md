@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 陈石松
+title: 杜梓义
 
 # Full Name (for SEO)
-first_name: 石松
-last_name: 陈
+first_name: 梓义
+last_name: 杜
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 博士
-grade: 3
+role: 硕士
+grade: 2
 
 # Organizations/Affiliations
 organizations:
@@ -26,16 +26,11 @@ interests:
   - 人工智能
 
 education:
-  # courses:
-  #   - course: PhD in Computer Science
-  #     institution: The University of Queensland
-  #     year: 2013
-  #   - course: Master in Computer Science
-  #     institution: Renmin University of China
-  #     year: 2009
-  #   - course: Bachelor in Computer Science
-  #     institution: Renmin University of China
-  #     year: 2006
+  courses:
+    # - course: 软件工程 学士学位
+    #   institution: 中国地质大学（武汉）
+    #   year: 2024
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -67,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 在读博士生
+  - 在读硕士生
 ---
 
 略

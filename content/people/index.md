@@ -18,7 +18,7 @@ sections:
           - 访问实习生
           - 优秀本科生
       sort_by: Params.grade
-      sort_ascending: true
+      sort_ascending: false
     design:
       show_interests: false
       show_role: true

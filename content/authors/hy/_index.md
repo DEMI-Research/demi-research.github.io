@@ -19,7 +19,7 @@ organizations:
     url: 'https://www.fudan.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 知识增强的领域大模型研究与应用
+bio: ...
 
 interests:
   - 大语言模型（LLMs）
