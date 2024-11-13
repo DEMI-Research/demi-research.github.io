@@ -1,16 +1,16 @@
 ---
 # Display name
-title: ShiSong Chen
+title: ZiYu Zhou
 
 # Full Name (for SEO)
-first_name: ShiSong
-last_name: Chen
+first_name: ZiYu
+last_name: Zhou
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Ph.D
+role: Undergraduate
 
 # Organizations/Affiliations
 organizations:
@@ -26,15 +26,10 @@ interests:
 
 education:
   # courses:
-  #   - course: PhD in Computer Science
-  #     institution: The University of Queensland
-  #     year: 2013
-  #   - course: Master in Computer Science
-  #     institution: Renmin University of China
-  #     year: 2009
-  #   - course: Bachelor in Computer Science
-  #     institution: Renmin University of China
-  #     year: 2006
+  #   - course: Bachelor in Software Engineering
+  #     institution: China University of Geosciences
+  #     year: 2024
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 在读博士生
+  - 优秀本科生
 ---
 
 略

@@ -15,7 +15,7 @@ role: Professor & Ph.D Supervisor in Computer Science
 # Organizations/Affiliations
 organizations:
   - name: Renmin University of China
-    url: ''
+    url: 'https://www.ruc.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
