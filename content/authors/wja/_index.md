@@ -1,28 +1,28 @@
 ---
 # Display name
-title: Jiaan Wang
+title: 王佳安
 
 # Full Name (for SEO)
-first_name: Jiaan
-last_name: Wang
+first_name: 佳安
+last_name: 王
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master
+role: 硕士
 
 # Organizations/Affiliations
 organizations:
-  - name: Soochow University
+  - name: 苏州大学
     url: 'https://www.suda.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
 interests:
-  - Large Language Models (LLMs) 
-  - Artificial Intelligence
+  - 大语言模型（LLMs）
+  - 人工智能
 
 education:
   # courses:

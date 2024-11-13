@@ -1,33 +1,33 @@
 ---
 # Display name
-title: TianJun Pan
+title: 潘天俊
 
 # Full Name (for SEO)
-first_name: TianJun
-last_name: Pan
+first_name: 天俊
+last_name: 潘
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Master
+role: 硕士
 
 # Organizations/Affiliations
 organizations:
-  - name: Fudan University
+  - name: 复旦大学
     url: 'https://www.fudan.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
 interests:
-  - Large Language Models (LLMs) 
-  - Artificial Intelligence
+  - 大语言模型（LLMs）
+  - 人工智能
 
 education:
   courses:
-    - course: Bachelor in Software Engineering
-      institution: China University of Geosciences
+    - course: 软件工程 学士学位
+      institution: 中国地质大学（武汉）
       year: 2024
 
 

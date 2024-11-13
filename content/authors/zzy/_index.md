@@ -1,28 +1,28 @@
 ---
 # Display name
-title: ZiYu Zhou
+title: 周子羽
 
 # Full Name (for SEO)
-first_name: ZiYu
-last_name: Zhou
+first_name: 子羽
+last_name: 周
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate
+role: 本科生
 
 # Organizations/Affiliations
 organizations:
-  - name: Fudan University
+  - name: 复旦大学
     url: 'https://www.fudan.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
 interests:
-  - Large Language Models (LLMs) 
-  - Artificial Intelligence
+  - 大语言模型（LLMs）
+  - 人工智能
 
 education:
   # courses:

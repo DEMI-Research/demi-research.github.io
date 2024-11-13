@@ -1,28 +1,28 @@
 ---
 # Display name
-title: ShiSong Chen
+title: 陈石松
 
 # Full Name (for SEO)
-first_name: ShiSong
-last_name: Chen
+first_name: 石松
+last_name: 陈
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Ph.D
+role: 博士
 
 # Organizations/Affiliations
 organizations:
-  - name: Fudan University
+  - name: 复旦大学
     url: 'https://www.fudan.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
 interests:
-  - Large Language Models (LLMs) 
-  - Artificial Intelligence
+  - 大语言模型（LLMs）
+  - 人工智能
 
 education:
   # courses:

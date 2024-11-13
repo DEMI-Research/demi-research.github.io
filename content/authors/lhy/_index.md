@@ -1,28 +1,28 @@
 ---
 # Display name
-title: HaoYu Liu
+title: 刘浩宇
 
 # Full Name (for SEO)
-first_name: HaoYu
-last_name: Liu
+first_name: 浩宇
+last_name: 刘
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Intern
+role: 硕士
 
 # Organizations/Affiliations
 organizations:
-  - name: Fudan University
+  - name: 复旦大学
     url: 'https://www.fudan.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
 interests:
-  - Large Language Models (LLMs) 
-  - Artificial Intelligence
+  - 大语言模型（LLMs）
+  - 人工智能
 
 education:
   # courses:
