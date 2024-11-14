@@ -1,5 +1,6 @@
 ---
-title: "An example journal article"
+# title: "An example journal article"
+title: ""
 authors:
 - admin
 - Robert Ford
