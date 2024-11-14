@@ -17,7 +17,7 @@ main:
     url: research_projects
     weight: 40
   - name: 著作论文
-    url: publication
+    url: papers
     weight: 50
   - name: 开源成果
     url: contact
