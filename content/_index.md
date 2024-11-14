@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <div style="font-size: 32px; font-weight: bold;">数据工程与多模态智能实验室   </div><div style="font-size: 18px; font-weight: bold; line-height: 2;">Data Engineering & Multimodal Intelligence Laboratory (DEMI)</div>
+        <div style="font-size: 32px; font-weight: bold;">数据工程与多模态智能实验室   </div><div style="font-size: 18px; font-weight: bold; line-height: 2.5;">Data Engineering & Multimodal Intelligence Laboratory (DEMI)</div>
       image:
         filename: 人大照片.png
       text: |
@@ -33,7 +33,7 @@ sections:
           - post
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       # Choose your content listing view - here we use the `showcase` view
       view: showcase
       # For the Showcase view, do you want to flip alternate rows?
