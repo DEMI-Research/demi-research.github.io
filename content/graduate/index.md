@@ -15,8 +15,7 @@ sections:
       sort_by: Params.last_name
       sort_ascending: true
     design:
-      show_jobs: true
-      show_interests: true
+      show_interests: false
       show_role: true
-      show_social: false
+      show_social: true
 ---
