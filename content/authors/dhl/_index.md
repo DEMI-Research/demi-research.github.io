@@ -10,7 +10,7 @@ last_name: 杜
 superuser: false
 
 # Role/position
-role: 硕士
+role: 22级专硕
 grade: 3
 
 # Organizations/Affiliations

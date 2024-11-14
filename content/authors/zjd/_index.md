@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 张竟丹
+title: 张竞丹
 
 # Full Name (for SEO)
-first_name: 竟丹
+first_name: 竞丹
 last_name: 张
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 硕士
+role: 22级专硕
 grade: 3
 
 # Organizations/Affiliations

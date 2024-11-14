@@ -10,7 +10,7 @@ last_name: 许
 superuser: false
 
 # Role/position
-role: 硕士
+role: 24级学硕
 grade: 1
 
 # Organizations/Affiliations

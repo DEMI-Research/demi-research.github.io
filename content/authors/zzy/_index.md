@@ -10,7 +10,7 @@ last_name: 周
 superuser: false
 
 # Role/position
-role: 本科生
+role: 21级本科生
 grade: 4
 
 # Organizations/Affiliations

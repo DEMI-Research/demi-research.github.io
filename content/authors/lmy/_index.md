@@ -10,7 +10,7 @@ last_name: 李
 superuser: false
 
 # Role/position
-role: 硕士
+role: 23级专硕
 grade: 2
 
 # Organizations/Affiliations

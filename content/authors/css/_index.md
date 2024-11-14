@@ -10,7 +10,7 @@ last_name: 陈
 superuser: true
 
 # Role/position
-role: 博士
+role: 22级博士
 grade: 3
 
 # Organizations/Affiliations

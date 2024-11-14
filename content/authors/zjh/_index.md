@@ -10,7 +10,7 @@ last_name: 张
 superuser: false
 
 # Role/position
-role: 硕士
+role: 24级专硕
 grade: 1
 
 # Organizations/Affiliations

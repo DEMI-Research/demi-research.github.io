@@ -10,7 +10,7 @@ last_name: 王
 superuser: false
 
 # Role/position
-role: 硕士
+role: 20级专硕
 grade: 1
 
 # Organizations/Affiliations
