@@ -20,7 +20,7 @@ main:
     url: papers
     weight: 50
   - name: 开源成果
-    url: contact
+    url: os_achieve
     weight: 60
   - name: 团队活动
     url: activities
