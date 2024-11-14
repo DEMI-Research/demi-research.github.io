@@ -52,10 +52,10 @@ bio: ...
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zhixuli@ruc.edu.cn'
+    link: 'http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/8172c4ada4ec4952b550e76f3a120d8c.htm'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=P1N6z0oAAAAJ&hl=zh-CN&oi=ao
+    link: https://sites.google.com/site/zhixuli
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen

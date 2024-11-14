@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <div style="font-size: 36px; font-weight: bold;">数据工程与多模态智能实验室</div><br><div style="font-size: 36px; font-weight: bold;">Data Engineering & Multimodal Intelligence Laboratory (DEMI)</div>
+        <div style="font-size: 36px; font-weight: bold;">数据工程与多模态智能实验室</div><br><div style="font-size: 16px; font-weight: bold;">Data Engineering & Multimodal Intelligence Laboratory (DEMI)</div>
       image:
         filename: 人大照片.png
       text: |
