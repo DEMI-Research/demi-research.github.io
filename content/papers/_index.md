@@ -116,3 +116,47 @@ banner:
 16. Xueyao Jiang, Ailisi Li, Jiaqing Liang, Bang Liu, Rui Xie, Wei Wu, **Zhixu Li***, Yanghua Xiao: Visualizable or Non-visualizable? Exploring the Visualizability of Concepts in Multi-modal Knowledge Graph. **DASFAA 2022**
 
 17. Xuwu Wang, Junfeng Tian, Min Gui, **Zhixu Li**, Jiabo Ye, Ming Yan, Yanghua Xiao: PromptMNER: Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition. **DASFAA 2022**
+
+**2021**
+
+1. Binbin Gu, **Zhixu Li***, An Liu, Jiajie Xu, Lei Zhao, Xiaofang Zhou: Improving the Quality of Web-Based Data Imputation With Crowd Intervention. **IEEE TKDE 2021**
+
+2. Lei Niu, Chenpeng Fu, Qiang Yang, **Zhixu Li***, Zhigang Chen, Qingsheng Liu, Kai Zheng: Open-world knowledge graph completion with multiple interaction attention. **World Wide Web 2021**
+
+3. Jiawei Wang, Xin Zheng, Qiang Yang, Jianfeng Qu, Jiajie Xu, Zhigang Chen, **Zhixu Li***: Towards Nested and Fine-Grained Open Information Extraction. **CCKS 2021**
+
+4. Jiaan Wang, **Zhixu Li***, Qiang Yang, Jianfeng Qu, Zhigang Chen, Qingsheng Liu, Guoping Hu: SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary. **CIKM 2021**
+
+5. Shisong Chen, Binbin Gu, Jianfeng Qu, **Zhixu Li***, An Liu, Lei Zhao, Zhigang Chen: Tackling Zero Pronoun Resolution and Non-Zero Coreference Resolution Jointly. **CoNLL 2021**
+
+6. Dawei Chen, **Zhixu Li***, Binbin Gu, Zhigang Chen: Multimodal Named Entity Recognition with Image Attributes and Image Knowledge. **DASFAA 2021**
+
+7. Li Zhang, **Zhixu Li***, Qiang Yang: Attention-Based Multimodal Entity Linking with High-Quality Images. **DASFAA 2021**
+
+8. Jiaan Wang, **Zhixu Li***, Binbin Gu, Tingyi Zhang, Qingsheng Liu, Zhigang Chen: Multi-modal Chorus Recognition for Improving Song Search. **ICANN 2021**
+
+**2020**
+
+1. Yanan Zhang, Guanfeng Liu, An Liu, Yifan Zhang, **Zhixu Li**, Xiangliang Zhang, Qing Li: Personalized Geographical Influence Modeling for POI Recommendation. IEEE Intell. **Syst. 2020**
+
+2. Yi-Ting Wang, Jie Shen, **Zhixu Li***, Qiang Yang, An Liu, Pengpeng Zhao, Jia-Jie Xu, Lei Zhao, Xun-Jie Yang: Enriching Context Information for Entity Linking with Web Data. **JCST 2020**
+
+3. An Liu, Xindi Shen, Haoran Xie, Zhixu Li, Guanfeng Liu, Jia-Jie Xu, Lei Zhao, Fu Lee Wang: Privacy-preserving shared collaborative web services QoS prediction. J. Intell. Inf. **Syst. 2020**
+
+4. Guanfeng Liu, Yurong Wang, Bolong Zheng, **Zhixu Li**, Kai Zheng: Strong Social Graph Based Trust-Oriented Graph Pattern Matching With Multiple Constraints. IEEE Trans. Emerg. Top. Comput. **Intell. 2020**
+
+5. Mingjun Xiao, Kai Ma, An Liu, Hui Zhao, **Zhixu Li**, Kai Zheng, Xiaofang Zhou: SRA: Secure Reverse Auction for Task Assignment in Spatial Crowdsourcing. **IEEE TKDE 2020**
+
+6. Maolong Li, **Zhixu Li***, Qiang Yang, Zhigang Chen, Pengpeng Zhao, Lei Zhao: A crowd-efficient learning approach for NER based on online encyclopedia. **World Wide Web 2020**
+
+7. Shuangli Shan, **Zhixu Li***, Qiang Yang, An Liu, Lei Zhao, Guanfeng Liu, Zhigang Chen: Geographical address representation learning for address matching. **World Wide Web 2020**
+
+8. Ying He, **Zhixu Li***, Qiang Yang, Zhigang Chen, An Liu, Lei Zhao, Xiaofang Zhou: End-to-end relation extraction based on bootstrapped multi-level distant supervision. **World Wide Web 2020**
+
+9. Siyuan Cao, Qiang Yang, **Zhixu Li***, Guanfeng Liu, Detian Zhang, Jiajie Xu: MemTimes: Temporal Scoping of Facts with Memory Network. **DASFAA 2020**
+
+10. Lei Niu, Binbin Gu, **Zhixu Li***, Wei Chen, Ying He, Zhaoyin Zhang, Zhigang Chen: Fine-Grained Entity Typing for Relation-Sparsity Entities. **DASFAA 2020**
+
+11. Jia Chen, Binbin Gu, **Zhixu Li***, Pengpeng Zhao, An Liu, Lei Zhao: SAEA: Self-Attentive Heterogeneous Sequence Learning Model for Entity Alignment. **DASFAA 2020**
+
+12. Jia Chen, **Zhixu Li***, Pengpeng Zhao, An Liu, Lei Zhao, Zhigang Chen, Xiangliang Zhang: Learning Short-Term Differences and Long-Term Dependencies for Entity Alignment. **ISWC 2020**
