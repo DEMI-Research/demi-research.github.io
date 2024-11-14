@@ -10,7 +10,7 @@ last_name: 王
 superuser: false
 
 # Role/position
-role: 20级专硕<br>上海米哈游天命科技有限公司
+role: 20级专硕<br><div style="font-weight: bold; line-height: 2;">上海米哈游天命科技有限公司</div>
 grade: 1
 
 # Organizations/Affiliations
