@@ -160,3 +160,66 @@ banner:
 11. Jia Chen, Binbin Gu, **Zhixu Li***, Pengpeng Zhao, An Liu, Lei Zhao: SAEA: Self-Attentive Heterogeneous Sequence Learning Model for Entity Alignment. **DASFAA 2020**
 
 12. Jia Chen, **Zhixu Li***, Pengpeng Zhao, An Liu, Lei Zhao, Zhigang Chen, Xiangliang Zhang: Learning Short-Term Differences and Long-Term Dependencies for Entity Alignment. **ISWC 2020**
+
+**2019**
+
+1. Qiang Yang, **Zhixu Li***, An Liu, Guanfeng Liu, Lei Zhao, Xiangliang Zhang, Min Zhang, Xiaofang Zhou: A novel hybrid publication recommendation system using compound information. **World Wide Web 2019**
+
+2. Pengpeng Zhao, Haifeng Zhu, **Zhixu Li**, Fuzhen Zhuang, Victor S. Sheng, Xiaofang Zhou: Where to Go Next: A Spatio-Temporal Gated Network for Next POI Recommendation. **AAAI 2019**
+
+3. Shuangli Shan, **Zhixu Li***, Qiang Yang, An Liu, Jiajie Xu, Zhigang Chen: DeepAM: Deep Semantic Address Representation for Address Matching. **APWeb/WAIM 2019 (Best Paper Award)**
+
+4. Fuzhen He, **Zhixu Li***, Qiang Yang, An Liu, Guanfeng Liu, Pengpeng Zhao, Lei Zhao, Min Zhang, Zhigang Chen: Unsupervised Entity Alignment Using Attribute Triples and Relation Triples. **DASFAA 2019**
+
+5. Jiapeng Li, Wei Chen, **Zhixu Li**, Lei Zhao: Measuring Semantic Relatedness with Knowledge Association Network. **DASFAA 2019**
+
+6. Hongzhi Yin, Qinyong Wang, Kai Zheng, **Zhixu Li**, Jiali Yang, Xiaofang Zhou: Social Influence-Based Group Representation Learning for Group Recommendation. **ICDE 2019 (Best Paper Award)**
+
+7. Shuangli Shan, **Zhixu Li***, Yang Li, Qiang Yang, Jia Zhu, Mohamed A. Sharaf, Xiaofang Zhou: WebPut: A Web-Aided Data Imputation System for the General Type of Missing String Attribute Values. **ICDE 2019**
+
+8. Huizhao Wang, Guanfeng Liu, An Liu, **Zhixu Li**, Kai Zheng: DMRAN: A Hierarchical Fine-Grained Attention-Based Network for Recommendation. **IJCAI 2019**
+
+9. Jiaxin Hu, **Zhixu Li***, Renshou Wu, Hongling Wang, An Liu, Jiajie Xu, Pengpeng Zhao, Lei Zhao: Distant Supervised Why-Question Generation with Passage Self-Matching Attention. **IJCNN 2019**
+
+10. Hongling Wang, Renshou Wu, **Zhixu Li***, Zhongqing Wang, Zhigang Chen, Guodong Zhou: Triple-Joint Modeling for Question Generation Using Cross-Task Autoencoder. **NLPCC 2019**
+
+**Eearlier than 2018****
+
+1. **Zhixu Li**, Ying He, Binbin Gu, An Liu, Hongsong Li, Haixun Wang, Xiaofang Zhou: Diagnosing and Minimizing Semantic Drift in Iterative Bootstrapping Extraction. **IEEE TKDE 2018**
+
+2. Guanfeng Liu, Yi Liu, Kai Zheng, An Liu, **Zhixu Li**, Yan Wang, Xiaofang Zhou: MCS-GPM: Multi-Constrained Simulation Based Graph Pattern Matching in Contextual Social Graphs. **IEEE TKDE 2018**
+
+3. Binbin Gu, **Zhixu Li***, Qiang Yang, Qing Xie, An Liu, Guanfeng Liu, Kai Zheng, Xiangliang Zhang: Web-ADARE: A web-aided data repairing system. **Neurocomputing 2017**
+
+4. **Zhixu Li**, Qiang Yang, An Liu, Guanfeng Liu, Jia Zhu, Jia-Jie Xu, Kai Zheng, Min Zhang: Crowd-Guided Entity Matching with Consolidated Textual Data. **JCST 2017**
+
+5. Binbin Gu, **Zhixu Li***, Xiangliang Zhang, An Liu, Guanfeng Liu, Kai Zheng, Lei Zhao, Xiaofang Zhou: The Interaction Between Schema Matching and Record Matching in Data Integration. **IEEE TKDE 2017**
+
+6. Meng Hu, **Zhixu Li***, Yongxin Shen, An Liu, Guanfeng Liu, Kai Zheng, Lei Zhao: CNN-IETS: A CNN-based Probabilistic Approach for Information Extraction by Text Segmentation. **CIKM 2017**
+
+7. Binbin Gu, **Zhixu Li***, Xiangliang Zhang, An Liu, Guanfeng Liu, Kai Zheng, Lei Zhao, Xiaofang Zhou: The Interaction Between Schema Matching and Record Matching in Data Integration (Extended Abstract). **ICDE 2017**
+
+8. Qing Xie, Xiangliang Zhang, **Zhixu Li**, Xiaofang Zhou: Optimizing Cost of Continuous Overlapping Queries over Data Streams by Filter Adaption. **IEEE TKDE 2016**
+
+9. Jian Zhou, **Zhixu Li***, Binbin Gu, Qing Xie, Jia Zhu, Xiangliang Zhang, Guoliang Li: CrowdAidRepair: A Crowd-Aided Interactive Data Repairing Method. **DASFAA 2016**
+
+10. Qiang Yang, **Zhixu Li***, Binbin Gu, An Liu, Guanfeng Liu, Pengpeng Zhao, Lei Zhao: CTextEM: Using Consolidated Textual Data for Entity Matching. **DASFAA 2016**
+
+11. **Zhixu Li**, Lu Qin, Hong Cheng, Xiangliang Zhang, Xiaofang Zhou: TRIP: An interactive retrieving-inferring data imputation approach. **ICDE 2016**
+
+12. **Zhixu Li**, Lu Qin, Hong Cheng, Xiangliang Zhang, Xiaofang Zhou: TRIP: An Interactive Retrieving-Inferring Data Imputation Approach. **IEEE TKDE 2015**
+
+13. **Zhixu Li**, Xiangliang Zhang, Hai Huang, Qing Xie, Jia Zhu, Xiaofang Zhou: Addressing Instance Ambiguity in Web Harvesting. **WebDB 2015**
+
+14. **Zhixu Li**, Hongsong Li, Haixun Wang, Yi Yang, Xiangliang Zhang, Xiaofang Zhou: Overcoming Semantic Drift in Information Extraction, EDBT 2014
+
+15. **Zhixu Li**, Laurianne Sitbon, Liwei Wang, Xiaofang Zhou, Xiaoyong Du: AML: Efficient Approximate Membership Localization within a Web-Based Join Framework. **IEEE TKDE 2013**
+
+16. **Zhixu Li**, Mohamed A. Sharaf, Laurianne Sitbon, Xiaoyong Du, Xiaofang Zhou: CoRE: A Context-Aware Relation Extraction Method for Relation Completion. **IEEE TKDE 2012**
+
+17. **Zhixu Li**, Mohamed A. Sharaf, Laurianne Sitbon, Shazia Wasim Sadiq, Marta Indulska, Xiaofang Zhou: WebPut: Efficient Web-Based Data Imputation. **WISE 2012 (Best Paper Award)**
+
+18. **Zhixu Li**, Laurianne Sitbon, Xiaofang Zhou: Learning-based relevance feedback for web-based relation completion. **CIKM 2011**
+
+19. **Zhixu Li**, Laurianne Sitbon, Liwei Wang, Xiaofang Zhou, Xiaoyong Du: Approximate membership localization (AML) for web-based join. **CIKM 2010**
+
