@@ -1,13 +1,14 @@
 ---
 title: 科研项目
 # Listing view
-view: compact
+view: showcase
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
 ---
+<div style="font-size: 15px;">
 - 校方主持，国家自然科学基金（重点项目），“众包数据库的基础理论与关键技术研究”（2017.01-2021.12）
 
 - 主持，国家自然科学基金（面上项目），“开放多模态环境下动态知识图谱补全与更新关键技术研究”(2021.01－2024.12)
@@ -23,3 +24,4 @@ banner:
 - 主持，江苏省“双创博士”，“互联网大数据应用关键技术研究”（2015.01-2016.12）
 
 - 主持，CCF-之江实验室“智海计划”联合创新基金，“面向具身智能体的通用多模态知识表达与计算研究”(2023.01-2024.06)
+</div>
