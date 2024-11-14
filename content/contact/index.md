@@ -26,8 +26,8 @@ sections:
         city: 苏州
         region: 江苏
       coordinates:
-        latitude: '31.275030' # 31.283153
-        longitude: '120.724030' # 120.739299
+        latitude: '31.279030' # 31.283153
+        longitude: '120.728030' # 120.739299
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
