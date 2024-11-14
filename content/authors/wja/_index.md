@@ -10,7 +10,7 @@ last_name: 王
 superuser: false
 
 # Role/position
-role: 20级专硕<br><div style="font-weight: bold; line-height: 2;">上海米哈游天命科技有限公司</div>
+role: 20级专硕<br><br>上海米哈游天命科技有限公司
 grade: 1
 
 # Organizations/Affiliations
@@ -24,8 +24,6 @@ bio: ...
 interests:
   - 大语言模型（LLMs）
   - 人工智能
-
-jobs: 上海米哈游天命科技有限公司
 
 education:
   # courses:
