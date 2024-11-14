@@ -21,29 +21,29 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
-interests:
-  - 数据工程：数据治理、数据挖掘
-  - 知识工程：知识图谱、大语言模型
-  - 智慧治理：城市治理、行业治理
-  - 数据智能：数据与知识双驱动的行业智能化
+# interests:
+#   - 数据工程：数据治理、数据挖掘
+#   - 知识工程：知识图谱、大语言模型
+#   - 智慧治理：城市治理、行业治理
+#   - 数据智能：数据与知识双驱动的行业智能化
 
-interests:
-  - 数据工程：数据治理、数据挖掘
-  - 知识工程：知识图谱、大语言模型
-  - 智慧治理：城市治理、行业治理
-  - 数据智能：数据与知识双驱动的行业智能化
+# interests:
+#   - 数据工程：数据治理、数据挖掘
+#   - 知识工程：知识图谱、大语言模型
+#   - 智慧治理：城市治理、行业治理
+#   - 数据智能：数据与知识双驱动的行业智能化
 
-education:
-  courses:
-    - course: 计算机科学，博士学位
-      institution: 昆士兰大学
-      year: 2013
-    - course: 计算机软件与理论，硕士学位
-      institution: 中国人民大学
-      year: 2009
-    - course: 计算机科学与技术，学士学位
-      institution: 中国人民大学
-      year: 2006
+# education:
+#   courses:
+#     - course: 计算机科学，博士学位
+#       institution: 昆士兰大学
+#       year: 2013
+#     - course: 计算机软件与理论，硕士学位
+#       institution: 中国人民大学
+#       year: 2009
+#     - course: 计算机科学与技术，学士学位
+#       institution: 中国人民大学
+#       year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
