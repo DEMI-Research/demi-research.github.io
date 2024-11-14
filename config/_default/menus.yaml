@@ -23,7 +23,7 @@ main:
     url: contact
     weight: 60
   - name: 团队活动
-    url: contact
+    url: activities
     weight: 70
   - name: 加入我们
     url: contact

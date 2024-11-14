@@ -9,7 +9,16 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+        人才招聘：
+        DEMI研究组欢迎优秀学子加盟。形式包括：
+        博士生：如果你研究生期间发表过一篇以上的优秀论文，希望继续在数据工程与多模态智能领域攻读博士学位；
+        保研生：如果你大学期间成绩优异、有出色的科研或项目经历，希望研究生期间钻研数据工程与多模态智能前沿学术问题；
+        考研生：如果你希望努力成功上岸、有出色的科研或项目经历，动手能力很强，享受解决实际问题的快乐；
+        本科生：如果你来自复旦计科院的大二大三，希望本科期间接触科研与实际项目，为未来打好基础；
+        交流生：如果你的课余时间相对自由，希望有机会以交流生实习生名义参与DEMI团队的研究；
+        请符合以上任何一条，对大数据与人工智能研究与落地应用抱有好奇心、学习热情，能够自我驱动，态度积极乐观，请不要犹豫，直接写邮件给DEMI团队负责人表达意愿，你会很快得到回复（约面试、面谈或是无奈委拒）。
+
+
       email: test@example.org
       phone: 888 888 88 88
       address:

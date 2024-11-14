@@ -183,7 +183,7 @@ banner:
 
 10. Hongling Wang, Renshou Wu, **Zhixu Li***, Zhongqing Wang, Zhigang Chen, Guodong Zhou: Triple-Joint Modeling for Question Generation Using Cross-Task Autoencoder. **NLPCC 2019**
 
-**Eearlier than 2018****
+**Eearlier than 2018**
 
 1. **Zhixu Li**, Ying He, Binbin Gu, An Liu, Hongsong Li, Haixun Wang, Xiaofang Zhou: Diagnosing and Minimizing Semantic Drift in Iterative Bootstrapping Extraction. **IEEE TKDE 2018**
 
