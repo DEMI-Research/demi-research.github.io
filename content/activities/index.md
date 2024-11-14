@@ -33,7 +33,7 @@ sections:
         align: center
         background:
           image:
-            filename: welcome.jpg
+            filename: tuanjian3.jpg
             filters:
               brightness: 0.5
           position: right
@@ -41,7 +41,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: 加入我们
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
