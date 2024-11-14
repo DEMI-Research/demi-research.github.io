@@ -14,7 +14,7 @@ main:
     url: graduate
     weight: 30
   - name: 科研项目
-    url: event
+    url: research_projects
     weight: 40
   - name: 著作论文
     url: publication
