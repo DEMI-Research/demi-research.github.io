@@ -8,7 +8,7 @@ banner:
   caption: ''
   image: ''
 ---
-<div style="font-size: 17px;"> 
+<div style="font-size: 16px;"> 
 
 - 校方主持，国家自然科学基金（重点项目），“众包数据库的基础理论与关键技术研究”（2017.01-2021.12）
 
