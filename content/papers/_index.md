@@ -80,3 +80,39 @@ banner:
 14. Yuyan Chen, Qiang Fu, Yichen Yuan, Zhihao Wen, Ge Fan, Dayiheng Liu, **Zhixu Li***, Yanghua Xiao*, Dongmei Zhang: Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models. **CIKM 2023**
 
 15. Yuyan Chen, Qiang Fu, Ge Fan, Lun Du, Jian-Guang Lou, Shi Han, **Zhixu Li***, Yanghua Xiao*, Dongmei Zhang: Hadamard Adapter: An Extreme Parameter-Efficient Adapter Tuning Method for Pre-trained Language Models. **CIKM 2023**
+
+**2022**
+
+1. Jiaan Wang, Fandong Meng*, Duo Zheng, Yunlong Liang, **Zhixu Li***, Jianfeng Qu and Jie Zhou: A Survey on Cross-Lingual Summarization. **TACL 2022**
+
+2. Jiaan Wang, Fandong Meng, Ziyao Lu, Duo Zheng, **Zhixu Li***, Jianfeng Qu and Jie Zhou: ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization. **EMNLP 2022**
+
+3. Siyu Yuan, Deqing Yang*, Jiaqing Liang, **Zhixu Li**, Jinxi Liu, Jingyue Huang and Yanghua Xiao*: Generative Entity Typing with Curriculum Learning. **EMNLP 2022**
+
+4. Tianyu Xu, Wen Hua, Jianfeng Qu*, **Zhixu Li***, Jiajie Xu, An Liu and Lei Zhao: Evidence-aware Document-level Relation Extraction. **CIKM 2022 (Best Paper Candidate, Honorable Mention)**
+
+5. Yu Hong, **Zhixu Li***, Jianfeng Qu, Jiaqing Liang, Yi Luo, Miyu Zhang, Yanghua Xiao*, Wei Wang: Can We Have Both Fish and Bear's Paw? Improving Performance, Reliability, and both of them for Relation Extraction under Label Shift. **CIKM 2022**
+
+6. Kexin Wang, **Zhixu Li***, Jiaan Wang, Jianfeng Qu*, Ying He, An Liu and Lei Zhao:   RT-KGD: Relation Transition Aware Knowledge-Grounded Dialogue Generation. **ISWC 2022**
+
+7. An Liu, Yifan Zhang, Xiangliang Zhang, **Zhixu Li**, Lei Zhao, Qing Li, Xiaofang Zhou: Representation Learning With Multi-Level Attention for Activity Trajectory Similarity Computation. **IEEE TKDE 2022**
+
+8. Pengpeng Zhao, Anjing Luo, **Zhixu Li**, Fuzhen Zhuang, Victor S. Sheng, Xiaofang Zhou: Where to Go Next: A Spatio-Temporal Gated Network for Next POI Recommendation. **IEEE TKDE 2022**
+
+9. Hongzhi Yin, Qinyong Wang, Kai Zheng, **Zhixu Li**, Xiaofang Zhou: Overcoming Data Sparsity in Group Recommendation. **IEEE TKDE 2022**
+
+10. Xuwu Wang, Junfeng Tian, Min Gui, **Zhixu Li***, Rui Wang, Ming Yan, Lihan Chen, Yanghua Xiao: WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types. **ACL 2022**
+
+11. Qianyu He, Sijie Cheng, **Zhixu Li***, Rui Xie, Yanghua Xiao: Can Pre-trained Language Models Interpret Similes as Smart as Human? **ACL 2022**
+
+12. Jiaan Wang, **Zhixu Li***, Tingyi Zhang, Duo Zheng, Jianfeng Qu, An Liu, Lei Zhao, Zhigang Chen: Knowledge Enhanced Sports Game Summarization. **WSDM 2022**
+
+13. Jiaan Wang, Beiqi Zou, **Zhixu Li***, Jianfeng Qu, Pengpeng Zhao, An Liu, Lei Zhao: Incorporating Commonsense Knowledge into Story Ending Generation via Heterogeneous Graph Networks. **DASFAA 2022**
+
+14. Lin Yuan, **Zhixu Li***, Jianfeng Qu, Tingyi Zhang, An Liu, Lei Zhao, Zhigang Chen: TRHyTE: Temporal Knowledge Graph Embedding Based on Temporal-Relational Hyperplanes. **DASFAA 2022**
+
+15. Tingyi Zhang, **Zhixu Li***, Jiaan Wang, Jianfeng Qu, Lin Yuan, An Liu, Lei Zhao, Zhigang Chen: Aligning Internal Regularity and External Influence of Multi-granularity for Temporal Knowledge Graph Embedding. **DASFAA 2022**
+
+16. Xueyao Jiang, Ailisi Li, Jiaqing Liang, Bang Liu, Rui Xie, Wei Wu, **Zhixu Li***, Yanghua Xiao: Visualizable or Non-visualizable? Exploring the Visualizability of Concepts in Multi-modal Knowledge Graph. **DASFAA 2022**
+
+17. Xuwu Wang, Junfeng Tian, Min Gui, **Zhixu Li**, Jiabo Ye, Ming Yan, Yanghua Xiao: PromptMNER: Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition. **DASFAA 2022**
