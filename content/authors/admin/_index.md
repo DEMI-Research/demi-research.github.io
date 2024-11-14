@@ -27,6 +27,12 @@ interests:
   - 智慧治理：城市治理、行业治理
   - 数据智能：数据与知识双驱动的行业智能化
 
+interests:
+  - 数据工程：数据治理、数据挖掘
+  - 知识工程：知识图谱、大语言模型
+  - 智慧治理：城市治理、行业治理
+  - 数据智能：数据与知识双驱动的行业智能化
+
 education:
   courses:
     - course: 计算机科学，博士学位
@@ -39,11 +45,6 @@ education:
       institution: 中国人民大学
       year: 2006
 
-work:
-  - 数据工程：数据治理、数据挖掘
-  - 知识工程：知识图谱、大语言模型
-  - 智慧治理：城市治理、行业治理
-  - 数据智能：数据与知识双驱动的行业智能化
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -81,3 +82,6 @@ user_groups:
 
 <p style="font-size: 18px;">李直旭博士2013年获澳大利亚昆士兰大学计算机科学博士学位；2002-2009年就读于中国人民大学信息学院，获计算机科学与技术学士和硕士学位；曾在复旦大学和苏州大学等高校计算机学院担任教授职务，并曾兼任过科大讯飞苏州研究院副院长。主持国家和省部级科研项目10余项，在领域主流期刊和国际会议上发表论文200余篇，拥有发明专利60余项，长期与人工智能头部公司保持产学研合作，有着丰富的人工智能与大数据技术的研究与实践经验。长期担任领域主要国际期刊与国际会议审稿人，并多次担任领域国际会议组委会成员。</p>
 <br>
+
+- dsasa
+- kdaska
