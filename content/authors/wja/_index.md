@@ -25,6 +25,8 @@ interests:
   - 大语言模型（LLMs）
   - 人工智能
 
+jobs: 上海米哈游天命科技有限公司
+
 education:
   # courses:
   #   - course: Bachelor in Software Engineering
