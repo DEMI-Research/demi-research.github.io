@@ -1,35 +1,34 @@
 ---
 # Display name
-title: 潘天俊
+title: 牛雷
 
 # Full Name (for SEO)
-first_name: 天俊
-last_name: 潘
+first_name: 雷
+last_name: 牛
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 24级专硕
-grade: 1
+role: 18级专硕<br><br>上海米哈游天命科技有限公司
+grade: 18
 
 # Organizations/Affiliations
 organizations:
-  - name: 复旦大学
-    url: 'https://www.fudan.edu.cn/'
+  - name: 苏州大学
+    url: 'https://www.suda.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
 interests:
-  - 大小模型协同
-  - 自然语言处理
+  - 人工智能
 
 education:
-  courses:
-    - course: 软件工程 学士学位
-      institution: 中国地质大学（武汉）
-      year: 2024
+  # courses:
+  #   - course: Bachelor in Software Engineering
+  #     institution: China University of Geosciences
+  #     year: 2024
 
 
 # Social/Academic Networking
@@ -37,15 +36,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '24210240261@m.fudan.edu.cn'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'zhixuli@ruc.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
-  #   link: https://scholar.google.com/xxx
+  #   link: https://scholar.google.com/citations?user=P1N6z0oAAAAJ&hl=zh-CN&oi=ao
   # - icon: github
   #   icon_pack: fab
-  #   link: https://github.com/xxx
+  #   link: https://github.com/gcushen
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 在读硕士生
+  - 优秀毕业生
 ---
 
 略

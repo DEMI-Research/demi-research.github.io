@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: 20级专硕<br><br>上海合合信息科技股份有限公司
-grade: 1
+grade: 20
 
 # Organizations/Affiliations
 organizations:
