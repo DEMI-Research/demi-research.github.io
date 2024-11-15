@@ -1,22 +1,22 @@
 ---
 # Display name
-title: 王佳安
+title: 谢畅
 
 # Full Name (for SEO)
-first_name: 佳安
-last_name: 王
+first_name: 畅
+last_name: 谢
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 研究员<br><br>微信研究院
-grade: 1
+role: 25级专硕
+grade: 0
 
 # Organizations/Affiliations
 organizations:
-  - name: 苏州大学
-    url: 'https://www.suda.edu.cn/'
+  - name: 中国人民大学
+    url: 'https://www.ruc.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
@@ -26,10 +26,10 @@ interests:
   - 人工智能
 
 education:
-  # courses:
-  #   - course: Bachelor in Software Engineering
-  #     institution: China University of Geosciences
-  #     year: 2024
+  courses:
+    # - course: 软件工程 学士学位
+    #   institution: 中国地质大学（武汉）
+    #   year: 2024
 
 
 # Social/Academic Networking
@@ -62,8 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 优秀毕业生
-  - 合作研究者
+  - 在读硕士生
 ---
 
 略
