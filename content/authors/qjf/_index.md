@@ -1,22 +1,22 @@
 ---
 # Display name
-title: 潘天俊
+title: 瞿剑峰
 
 # Full Name (for SEO)
-first_name: 天俊
-last_name: 潘
+first_name: 剑峰
+last_name: 瞿
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 24级专硕
-grade: 1
+role: 副教授
+grade: 3
 
 # Organizations/Affiliations
 organizations:
-  - name: 复旦大学
-    url: 'https://www.fudan.edu.cn/'
+  - name: 苏州大学
+    url: 'https://www.suda.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
@@ -27,10 +27,18 @@ interests:
 
 education:
   courses:
-    - course: 软件工程 学士学位
-      institution: 中国地质大学（武汉）
-      year: 2024
-
+    - course: 计算机科学，博士学位
+      institution: 昆士兰大学
+      year: 2019
+    - course: 计算机软件与理论，博士学位
+      institution: 吉林大学
+      year: 2019
+    - course: 计算机软件与理论，硕士学位
+      institution: 吉林大学
+      year: 2016
+    - course: 软件学院，学士学位
+      institution: 吉林大学
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,13 +47,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'xxx@yyy'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/xxx
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/xxx
+    link: 'jfqu@suda.edu.cn'
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.com/citations?user=P1N6z0oAAAAJ&hl=zh-CN&oi=ao
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,33 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 在读硕士生
+  - 合作研究者
 ---
 
-略(自我简介)
-
-## 列表
-
-- 项目1
-- 项目2
-  - 子项目1
-  - 子项目2
-
-1. 有序列表项1
-2. 有序列表项2
-
-## 链接和图片
-
-这是一个链接示例：[访问OpenAI](https://www.openai.com)
-
-下面是一个图片示例：
-
-![图片说明文字](https://via.placeholder.com/150)
-
-## 代码
-
-这是代码块的示例：
-
-```python
-def hello_world():
-    print("Hello, World!")
+略

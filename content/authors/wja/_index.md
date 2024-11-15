@@ -10,7 +10,7 @@ last_name: 王
 superuser: false
 
 # Role/position
-role: 20级专硕<br><br>上海米哈游天命科技有限公司
+role: 研究员<br><br>微信研究院
 grade: 1
 
 # Organizations/Affiliations
