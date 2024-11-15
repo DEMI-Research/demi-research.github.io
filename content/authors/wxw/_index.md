@@ -10,8 +10,8 @@ last_name: 王
 superuser: false
 
 # Role/position
-role: 研究员<br><br>美团
-grade: 3
+role: 研究员<br><br>字节
+grade: 2
 
 # Organizations/Affiliations
 organizations:

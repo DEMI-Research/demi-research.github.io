@@ -1,22 +1,22 @@
 ---
 # Display name
-title: 陈石松
+title: 王佳安
 
 # Full Name (for SEO)
-first_name: 石松
-last_name: 陈
+first_name: 佳安
+last_name: 王
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 22级博士
-grade: 3
+role: 研究员<br><br>微信研究院
+grade: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: 复旦大学
-    url: 'https://www.fudan.edu.cn/'
+  - name: 苏州大学
+    url: 'https://www.suda.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
@@ -27,15 +27,10 @@ interests:
 
 education:
   # courses:
-  #   - course: PhD in Computer Science
-  #     institution: The University of Queensland
-  #     year: 2013
-  #   - course: Master in Computer Science
-  #     institution: Renmin University of China
-  #     year: 2009
-  #   - course: Bachelor in Computer Science
-  #     institution: Renmin University of China
-  #     year: 2006
+  #   - course: Bachelor in Software Engineering
+  #     institution: China University of Geosciences
+  #     year: 2024
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -67,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 在读博士生
+  - 合作研究者
 ---
 
 略

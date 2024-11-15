@@ -10,7 +10,7 @@ last_name: 沈
 superuser: false
 
 # Role/position
-role: 15级研究生<br><br>携程
+role: 15级研究生<br><br>今日头条
 grade: 15
 
 # Organizations/Affiliations

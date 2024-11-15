@@ -10,7 +10,7 @@ last_name: 李
 superuser: false
 
 # Role/position
-role: 20级研究生<br><br>待定
+role: 20级研究生<br><br>光明食品集团上海农场
 grade: 20
 
 # Organizations/Affiliations

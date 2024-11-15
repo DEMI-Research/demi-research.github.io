@@ -10,7 +10,7 @@ last_name: 王
 superuser: false
 
 # Role/position
-role: 研究员<br><br>微信研究院
+role: 20级研究生<br><br>微信研究院
 grade: 20
 
 # Organizations/Affiliations
@@ -63,7 +63,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - 优秀毕业生
-  - 合作研究者
 ---
 
 略

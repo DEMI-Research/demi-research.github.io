@@ -10,8 +10,8 @@ last_name: 陈
 superuser: true
 
 # Role/position
-role: 22级博士
-grade: 3
+role: 19级研究生<br><br>复旦大学计算机科学技术学院博士
+grade: 19
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 在读博士生
+  - 优秀毕业生
 ---
 
 略

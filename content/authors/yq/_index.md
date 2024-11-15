@@ -71,7 +71,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - 合作研究者
-  - 优秀毕业生
 ---
 
 略

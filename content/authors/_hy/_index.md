@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 陈石松
+title: 何莹
 
 # Full Name (for SEO)
-first_name: 石松
-last_name: 陈
+first_name: 莹
+last_name: 何
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 22级博士
-grade: 3
+role: 16级研究生<br><br>（科大讯飞苏州研究院）（复旦大学计算机科学技术学院博士）
+grade: 2
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 在读博士生
+  - 优秀毕业生
 ---
 
 略
