@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 李金亮
+title: 邹梦
 
 # Full Name (for SEO)
-first_name: 金亮
-last_name: 李
+first_name: 梦
+last_name: 邹
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 20级专硕<br><br>待定
+role: 20级专硕<br><br>中国电信苏州分公司
 grade: 1
 
 # Organizations/Affiliations
@@ -22,7 +22,6 @@ organizations:
 bio: ...
 
 interests:
-  - 大语言模型（LLMs）
   - 人工智能
 
 education:
