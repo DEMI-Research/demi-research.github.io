@@ -10,7 +10,7 @@ last_name: 袁
 superuser: false
 
 # Role/position
-role: 20级专硕<br><br>深圳证券交易所
+role: 20级研究生<br><br>深圳证券交易所
 grade: 20
 
 # Organizations/Affiliations

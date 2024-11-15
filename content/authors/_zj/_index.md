@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 邹梦
+title: 周剑
 
 # Full Name (for SEO)
-first_name: 梦
-last_name: 邹
+first_name: 剑
+last_name: 周
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 20级研究生<br><br>中国电信苏州分公司
-grade: 20
+role: 14级研究生<br><br>苏州银行
+grade: 14
 
 # Organizations/Affiliations
 organizations:

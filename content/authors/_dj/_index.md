@@ -10,7 +10,7 @@ last_name: 董
 superuser: false
 
 # Role/position
-role: 19级专硕<br><br>四川大学华西医院
+role: 19级研究生<br><br>四川大学华西医院
 grade: 19
 
 # Organizations/Affiliations

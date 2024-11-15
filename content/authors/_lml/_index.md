@@ -10,7 +10,7 @@ last_name: 李
 superuser: false
 
 # Role/position
-role: 17级专硕<br><br>思必驰科技股份有限公司
+role: 17级研究生<br><br>思必驰科技股份有限公司
 grade: 17
 
 # Organizations/Affiliations

@@ -13,7 +13,7 @@ sections:
       user_groups:
           - 优秀毕业生
       sort_by: Params.grade
-      sort_ascending: true
+      sort_ascending: false
     design:
       show_interests: false
       show_role: true

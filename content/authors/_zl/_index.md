@@ -10,7 +10,7 @@ last_name: 张
 superuser: false
 
 # Role/position
-role: 19级专硕<br><br>中共苏州市委
+role: 19级研究生<br><br>中共苏州市委
 grade: 19
 
 # Organizations/Affiliations

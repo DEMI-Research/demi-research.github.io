@@ -10,7 +10,7 @@ last_name: 牛
 superuser: false
 
 # Role/position
-role: 18级专硕<br><br>上海米哈游天命科技有限公司
+role: 18级研究生<br><br>上海米哈游天命科技有限公司
 grade: 18
 
 # Organizations/Affiliations

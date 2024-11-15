@@ -10,7 +10,7 @@ last_name: 胡
 superuser: false
 
 # Role/position
-role: 17级专硕<br><br>同花顺
+role: 17级研究生<br><br>同花顺
 grade: 17
 
 # Organizations/Affiliations

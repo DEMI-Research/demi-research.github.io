@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 邹梦
+title: 蒋俊
 
 # Full Name (for SEO)
-first_name: 梦
-last_name: 邹
+first_name: 俊
+last_name: 蒋
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 20级研究生<br><br>中国电信苏州分公司
-grade: 20
+role: 13级研究生<br><br>苏州极智嘉机器人有限公司
+grade: 13
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ last_name: 陈
 superuser: false
 
 # Role/position
-role: 19级专硕<br><br>上海哔哩哔哩科技有限公司
+role: 19级研究生<br><br>上海哔哩哔哩科技有限公司
 grade: 19
 
 # Organizations/Affiliations

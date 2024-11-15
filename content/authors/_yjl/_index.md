@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 邹梦
+title: 杨佳莉
 
 # Full Name (for SEO)
-first_name: 梦
-last_name: 邹
+first_name: 佳莉
+last_name: 杨
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 20级研究生<br><br>中国电信苏州分公司
-grade: 20
+role: 16级研究生<br><br>微软苏州
+grade: 16
 
 # Organizations/Affiliations
 organizations:

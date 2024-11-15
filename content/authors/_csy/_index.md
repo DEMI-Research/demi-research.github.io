@@ -10,7 +10,7 @@ last_name: 曹
 superuser: false
 
 # Role/position
-role: 18级专硕<br><br>中建电子商务有限责任公司
+role: 18级研究生<br><br>中建电子商务有限责任公司
 grade: 18
 
 # Organizations/Affiliations

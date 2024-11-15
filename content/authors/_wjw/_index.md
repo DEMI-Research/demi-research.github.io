@@ -10,7 +10,7 @@ last_name: 王
 superuser: false
 
 # Role/position
-role: 19级专硕<br><br>上交所技术有限责任公司
+role: 19级研究生<br><br>上交所技术有限责任公司
 grade: 19
 
 # Organizations/Affiliations

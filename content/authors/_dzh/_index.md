@@ -10,7 +10,7 @@ last_name: 邓
 superuser: false
 
 # Role/position
-role: 18级专硕<br><br>镇江市税务局
+role: 18级研究生<br><br>镇江市税务局
 grade: 18
 
 # Organizations/Affiliations

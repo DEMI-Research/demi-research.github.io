@@ -10,7 +10,7 @@ last_name: 付
 superuser: false
 
 # Role/position
-role: 17级专硕<br><br>中共南通市崇川区委组织部
+role: 17级研究生<br><br>中共南通市崇川区委组织部
 grade: 17
 
 # Organizations/Affiliations

@@ -10,7 +10,7 @@ last_name: 何
 superuser: false
 
 # Role/position
-role: 17级专硕<br><br>苏州工业园区金鸡湖学校
+role: 17级研究生<br><br>苏州工业园区金鸡湖学校
 grade: 17
 
 # Organizations/Affiliations

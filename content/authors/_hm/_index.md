@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 邹梦
+title: 胡猛
 
 # Full Name (for SEO)
-first_name: 梦
-last_name: 邹
+first_name: 猛
+last_name: 胡
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 20级研究生<br><br>中国电信苏州分公司
-grade: 20
+role: 15级研究生<br><br>吉利
+grade: 15
 
 # Organizations/Affiliations
 organizations:
