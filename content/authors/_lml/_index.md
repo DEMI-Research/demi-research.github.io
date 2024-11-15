@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 张力
+title: 李茂龙
 
 # Full Name (for SEO)
-first_name: 力
-last_name: 张
+first_name: 茂龙
+last_name: 李
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 19级专硕<br><br>中共苏州市委
-grade: 19
+role: 17级专硕<br><br>思必驰科技股份有限公司
+grade: 17
 
 # Organizations/Affiliations
 organizations:
