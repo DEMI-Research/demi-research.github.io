@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: 14级研究生<br><br>KAUST, Saudi Arabia
-grade: 3
+grade: 14
 
 # Organizations/Affiliations
 organizations:

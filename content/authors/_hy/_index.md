@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: 16级研究生<br><br>（科大讯飞苏州研究院）（复旦大学计算机科学技术学院博士）
-grade: 2
+grade: 16
 
 # Organizations/Affiliations
 organizations:
