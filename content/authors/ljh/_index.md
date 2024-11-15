@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 潘天俊
+title: 罗江徽
 
 # Full Name (for SEO)
-first_name: 天俊
-last_name: 潘
+first_name: 江徽
+last_name: 罗
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: 24级专硕
@@ -15,21 +15,21 @@ grade: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: 复旦大学
-    url: 'https://www.fudan.edu.cn/'
+  - name: 中国人民大学
+    url: 'https://www.ruc.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
 interests:
-  - 大小模型协同
-  - 自然语言处理
+  - 大语言模型（LLMs）
+  - 人工智能
 
 education:
-  courses:
-    - course: 软件工程 学士学位
-      institution: 中国地质大学（武汉）
-      year: 2024
+  # courses:
+  #   - course: 软件工程 学士学位
+  #     institution: 中国地质大学（武汉）
+  #     year: 2024
 
 
 # Social/Academic Networking
@@ -37,15 +37,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'xxx@yyy'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/xxx
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/xxx
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'xxx@yyy'
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.com/xxx
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/xxx
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
