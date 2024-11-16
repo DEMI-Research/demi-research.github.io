@@ -53,6 +53,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-实验室成员登顶苏州穹窿山踏春实验室成员登顶苏州穹窿山踏春实验室成员登顶苏州穹窿山踏春
+
 <br>
 ![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.11.18：实验室部分老师同学参加苏州太湖马拉松.1ovgh9hipq.webp)
