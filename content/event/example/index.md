@@ -1,7 +1,7 @@
 ---
-title: Example Event
+title: https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春2.67xhk0w1f2.webp
 
-event: Wowchemy Conference
+event: 实验室成员登顶苏州穹窿山踏春
 event_url: https://example.org
 
 location: Wowchemy HQ
@@ -12,17 +12,17 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 
+abstract: '实验室成员登顶苏州穹窿山踏春'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2018-03-24T13:00:00Z'
+date_end: '2018-03-24T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-11-16T00:00:00Z'
 
 authors: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春2.67xhk0w1f2.webp)'
   focal_point: Right
 
 url_code: ''
@@ -54,10 +54,5 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春2.67xhk0w1f2.webp
+https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春1.77dkx78r0t.webp
