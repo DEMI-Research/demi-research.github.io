@@ -1,5 +1,5 @@
 ---
-title: 实验室部分老师同学参加苏州太湖马拉松
+title: 17级研究生毕业合影
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -12,13 +12,13 @@ event_url: https://example.org
 #   postcode: '94305'
 #   country: United States
 
-summary: '2018年11月18日'
+summary: '2020年06月29日'
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: '2018-11-18T13:00:00Z'
-# date_end: '2018-1-18T16:00:00Z'
+# date: '2018-03-24T13:00:00Z'
+# date_end: '2018-03-24T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -53,6 +53,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-实验室活动
+毕业生合影
 <br>
-![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.11.18：实验室部分老师同学参加苏州太湖马拉松.1ovgh9hipq.webp)
+![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2020.06.29：17级研究生毕业合影3.2verpwx0lg.webp)
+![图片2](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2020.06.29：17级研究生毕业合影2.9gwlgy12kj.webp)
+![图片3](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2020.06.29：17级研究生毕业合影.8l041hre4g.webp)

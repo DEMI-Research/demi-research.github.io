@@ -1,5 +1,5 @@
 ---
-title: 实验室部分老师同学参加苏州太湖马拉松
+title: DEMI实验室聚餐
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -12,13 +12,13 @@ event_url: https://example.org
 #   postcode: '94305'
 #   country: United States
 
-summary: '2018年11月18日'
+summary: '2021年06月04日'
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: '2018-11-18T13:00:00Z'
-# date_end: '2018-1-18T16:00:00Z'
+# date: '2018-03-24T13:00:00Z'
+# date_end: '2018-03-24T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -55,4 +55,5 @@ projects:
 ---
 实验室活动
 <br>
-![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.11.18：实验室部分老师同学参加苏州太湖马拉松.1ovgh9hipq.webp)
+![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2021.06.04：DEMI实验室聚餐2.5tr1tfgs9l.webp)
+![图片2](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2021.06.04：DEMI实验室聚餐1.3rb95di787.webp)
