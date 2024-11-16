@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春2.67xhk0w1f2.webp)'
+  caption: ''
   focal_point: Right
 
 url_code: ''
@@ -53,6 +53,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
+实验室成员登顶苏州穹窿山踏春
+<br>
 ![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春1.77dkx78r0t.webp)
 ![图片2](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春2.67xhk0w1f2.webp)

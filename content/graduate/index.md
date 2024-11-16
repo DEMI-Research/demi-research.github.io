@@ -7,13 +7,13 @@ type: landing
 sections:
   - block: people
     content:
-      title: 毕业研究生
+      title: 毕业成员
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - 优秀毕业生
-          - 原访问成员
-          
+          - 毕业研究生
+          - 访问见习生
+
       sort_by: Params.grade
       sort_ascending: false
     design:
