@@ -12,7 +12,7 @@ event_url: https://example.org
 #   postcode: '94305'
 #   country: United States
 
-summary: ''
+summary: '2018年11月18日'
 abstract: ''
 
 # Talk start and end times.
@@ -53,6 +53,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
+实验室活动
 <br>
 ![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.11.18：实验室部分老师同学参加苏州太湖马拉松.1ovgh9hipq.webp)
