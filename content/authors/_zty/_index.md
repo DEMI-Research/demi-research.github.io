@@ -10,7 +10,7 @@ last_name: 张
 superuser: false
 
 # Role/position
-role: 21级研究生<br><br>北京
+role: 21级研究生<br><br>北京电信
 grade: 21
 
 # Organizations/Affiliations
