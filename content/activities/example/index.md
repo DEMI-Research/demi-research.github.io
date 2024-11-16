@@ -1,7 +1,7 @@
 ---
 title: 实验室成员登顶苏州穹窿山踏春
 
-event: 实验室成员登顶苏州穹窿山踏春
+event: Wowchemy Conference
 event_url: https://example.org
 
 # location: Wowchemy HQ
@@ -12,7 +12,7 @@ event_url: https://example.org
 #   postcode: '94305'
 #   country: United States
 
-summary: 
+summary: '实验室成员登顶苏州穹窿山踏春1'
 abstract: ''
 
 # Talk start and end times.
@@ -53,7 +53,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-实验室成员登顶苏州穹窿山踏春
+实验室成员登顶苏州穹窿山踏春实验室成员登顶苏州穹窿山踏春实验室成员登顶苏州穹窿山踏春
 <br>
 ![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春1.77dkx78r0t.webp)
 ![图片2](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春2.67xhk0w1f2.webp)
