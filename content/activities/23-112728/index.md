@@ -53,7 +53,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-毕业生合影
+实验室活动
 <br>
 ![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2023.11.27-28：苏州太湖西山岛+灵白线团建3.6pnj8w7bme.webp)
 ![图片2](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2023.11.27-28：苏州太湖西山岛+灵白线团建2.3k819ycwph.webp)
