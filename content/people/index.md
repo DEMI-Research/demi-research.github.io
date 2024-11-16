@@ -15,8 +15,8 @@ sections:
           - 合作研究者
           - 在读博士生
           - 在读硕士生
-          - 访问实习生
-          - 优秀本科生
+          - 助理工程师
+          - 本科先锋队
       sort_by: Params.grade
       sort_ascending: false
     design:

@@ -1,19 +1,19 @@
 ---
-title: https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春2.67xhk0w1f2.webp
+title: 实验室成员登顶苏州穹窿山踏春
 
 event: 实验室成员登顶苏州穹窿山踏春
 event_url: https://example.org
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+# location: Wowchemy HQ
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
 summary: 
-abstract: '实验室成员登顶苏州穹窿山踏春'
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -54,5 +54,5 @@ slides:
 projects:
 ---
 
-https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春2.67xhk0w1f2.webp
-https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春1.77dkx78r0t.webp
+![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春1.77dkx78r0t.webp)
+![图片2](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春2.67xhk0w1f2.webp)
