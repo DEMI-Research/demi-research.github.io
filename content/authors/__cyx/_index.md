@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 严松舟
+title: 陈逸昕
 
 # Full Name (for SEO)
-first_name: 松舟
-last_name: 严
+first_name: 逸昕
+last_name: 陈
 
 # Is this the primary user of the site?
 superuser: false
