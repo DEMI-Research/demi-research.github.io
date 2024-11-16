@@ -15,8 +15,8 @@ grade: 3
 
 # Organizations/Affiliations
 organizations:
-  - name: 复旦大学
-    url: 'https://www.fudan.edu.cn/'
+  - name: 华东师范大学
+    url: 'https://www.ecnu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...

@@ -10,7 +10,7 @@ last_name: 张
 superuser: false
 
 # Role/position
-role: 18级研究生
+role: 18级研究生<br><br>华为
 grade: 18
 
 # Organizations/Affiliations

@@ -10,7 +10,7 @@ last_name: 瞿
 superuser: false
 
 # Role/position
-role: 副教授
+role: 副教授<br><br>苏州大学
 grade: 4
 
 # Organizations/Affiliations

@@ -10,13 +10,13 @@ last_name: 陈
 superuser: true
 
 # Role/position
-role: 19级研究生<br><br>复旦大学计算机科学技术学院博士
+role: 19级研究生<br><br>华东师范大学博士
 grade: 19
 
 # Organizations/Affiliations
 organizations:
-  - name: 复旦大学
-    url: 'https://www.fudan.edu.cn/'
+  - name: 华东师范大学
+    url: 'https://www.ecnu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...

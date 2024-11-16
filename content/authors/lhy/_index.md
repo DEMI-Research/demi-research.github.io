@@ -10,13 +10,13 @@ last_name: 刘
 superuser: false
 
 # Role/position
-role: 硕士
+role: 22级硕士
 grade: 4
 
 # Organizations/Affiliations
 organizations:
-  - name: 复旦大学
-    url: 'https://www.fudan.edu.cn/'
+  - name: 西交利物浦大学
+    url: 'https://www.xjtlu.edu.cn/zh/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
