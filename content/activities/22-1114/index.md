@@ -1,5 +1,5 @@
 ---
-title: 实验室成员参加南昌CCKS2020会议
+title: 4、实验室成员参加南昌CCKS2020会议
 
 event: Wowchemy Conference
 event_url: https://example.org
