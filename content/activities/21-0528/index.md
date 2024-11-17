@@ -1,5 +1,5 @@
 ---
-title: 7、18级研究生毕业合影
+title: g、18级研究生毕业合影
 
 event: Wowchemy Conference
 event_url: https://example.org

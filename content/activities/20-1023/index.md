@@ -1,5 +1,5 @@
 ---
-title: 9、实验室成员农家乐自助烧烤聚餐
+title: i、实验室成员农家乐自助烧烤聚餐
 
 event: Wowchemy Conference
 event_url: https://example.org

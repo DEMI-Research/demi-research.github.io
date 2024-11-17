@@ -1,5 +1,5 @@
 ---
-title: 6、DEMI实验室聚餐
+title: f、DEMI实验室聚餐
 
 event: Wowchemy Conference
 event_url: https://example.org

@@ -1,5 +1,5 @@
 ---
-title: 13、实验室部分老师同学参加苏州太湖马拉松
+title: m、实验室部分老师同学参加苏州太湖马拉松
 
 event: Wowchemy Conference
 event_url: https://example.org

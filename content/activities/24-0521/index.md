@@ -1,5 +1,5 @@
 ---
-title: 1、21级研究生毕业合影
+title: a、21级研究生毕业合影
 
 event: Wowchemy Conference
 event_url: https://example.org
