@@ -2,7 +2,9 @@
 
 [![Screenshot](demi_logo.png)](https://demi-research.github.io)
 
-The repository contains all files that used to build the DEMI Offcicial Website, which mainly based on Hugo Framework.
+The repository contains all files that used to build the [DEMI Official Website](https://demi-research.github.io).
+
+Our website is built using the Hugo framework and leverages the ["Research Group"](https://hugoblox.com/templates/details/research-group/) theme from Hugo Blox.
 
 **The website is made and maintained mainly by [@TianJ9](https://github.com/TianJ9).**
 
