@@ -23,7 +23,7 @@ abstract: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-11-16T00:00:00Z'
+publishDate: '2024-11-16'
 
 authors: []
 tags: []
