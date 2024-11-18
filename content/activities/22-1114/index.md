@@ -1,5 +1,5 @@
 ---
-title: d、实验室成员参加南昌CCKS2020会议
+title: 实验室成员参加南昌CCKS2020会议
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -56,4 +56,4 @@ projects:
 ---
 实验室活动
 <br>
-![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2022.11.14：实验室成员参加南昌CCKS2020会议.3k819y1351.webp)
+![图片1](https://www.helloimg.com/i/2024/11/18/673af844b1f50.jpg)

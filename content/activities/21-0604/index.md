@@ -1,5 +1,5 @@
 ---
-title: f、DEMI实验室聚餐
+title: DEMI实验室聚餐
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -56,5 +56,5 @@ projects:
 ---
 实验室活动
 <br>
-![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2021.06.04：DEMI实验室聚餐2.5tr1tfgs9l.webp)
-![图片2](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2021.06.04：DEMI实验室聚餐1.3rb95di787.webp)
+![图片1](https://www.helloimg.com/i/2024/11/18/673af8078c033.jpg)
+![图片2](https://www.helloimg.com/i/2024/11/18/673af8077a5fb.jpg)

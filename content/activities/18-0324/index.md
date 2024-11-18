@@ -1,5 +1,5 @@
 ---
-title: p、实验室成员登顶苏州穹窿山踏春
+title: 实验室成员登顶苏州穹窿山踏春
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -56,5 +56,5 @@ projects:
 ---
 实验室活动
 <br>
-![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春1.77dkx78r0t.webp)
-![图片2](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.03.24：实验室成员登顶苏州穹窿山踏春2.67xhk0w1f2.webp)
+![图片1](https://www.helloimg.com/i/2024/11/18/673af6a56659c.jpg)
+![图片2](https://www.helloimg.com/i/2024/11/18/673af6a58968d.jpg)

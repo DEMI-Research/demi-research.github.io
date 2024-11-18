@@ -1,5 +1,5 @@
 ---
-title: h、实验室成员登顶苏州东山莫厘峰
+title: 实验室成员登顶苏州东山莫厘峰
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -56,4 +56,4 @@ projects:
 ---
 实验室活动
 <br>
-![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2020.10.24：实验室成员登顶苏州东山莫厘峰.syz1v3rfp.webp)
+![图片1](https://www.helloimg.com/i/2024/11/18/673af7c703673.jpg)

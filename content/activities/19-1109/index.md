@@ -1,5 +1,5 @@
 ---
-title: k、实验室成员苏州西山秋游活动
+title: 实验室成员苏州西山秋游活动
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -56,6 +56,6 @@ projects:
 ---
 实验室活动
 <br>
-![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2019.11.09：实验室成员苏州西山秋游活动3.7pbfjtl99.webp)
-![图片2](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2019.11.09：实验室成员苏州西山秋游活动2.7zqgf6mjto.webp)
-![图片3](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2019.11.09：实验室成员苏州西山秋游活动.67xhka36xj.webp)
+![图片1](https://www.helloimg.com/i/2024/11/18/673af755e4707.jpg)
+![图片2](https://www.helloimg.com/i/2024/11/18/673af7560469d.jpg)
+![图片3](https://www.helloimg.com/i/2024/11/18/673af7562aff9.jpg)

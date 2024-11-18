@@ -1,5 +1,5 @@
 ---
-title: o、15级研究生毕业合影
+title: 15级研究生毕业合影
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -56,6 +56,6 @@ projects:
 ---
 毕业生合影
 <br>
-![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.05.13：15级研究生毕业合影3.9rjfa43qf6.webp)
-![图片2](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.05.13：15级研究生毕业合影2.70ad21hmdd.webp)
-![图片3](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.05.13：15级研究生毕业合影.51e6bpc41s.webp)
+![图片1](https://www.helloimg.com/i/2024/11/18/673af6cd3be65.jpg)
+![图片2](https://www.helloimg.com/i/2024/11/18/673af6cd35963.jpg)
+![图片3](https://www.helloimg.com/i/2024/11/18/673af6cd2be69.jpg)

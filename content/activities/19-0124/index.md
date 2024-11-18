@@ -1,5 +1,5 @@
 ---
-title: l、实验室期末聚餐
+title: 实验室期末聚餐
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -56,4 +56,4 @@ projects:
 ---
 实验室活动
 <br>
-![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2019.01.24：实验室期末聚餐.7ax6v5wmmd.webp)
+![图片1](https://www.helloimg.com/i/2024/11/18/673af73d936d7.jpg)

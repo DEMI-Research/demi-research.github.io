@@ -1,5 +1,5 @@
 ---
-title: i、实验室成员农家乐自助烧烤聚餐
+title: 实验室成员农家乐自助烧烤聚餐
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -13,7 +13,7 @@ event_url: https://example.org
 #   country: United States
 
 summary: '2020年10月23日'
-date: 20241023
+date: 20201023
 abstract: ''
 
 # Talk start and end times.
@@ -56,4 +56,4 @@ projects:
 ---
 实验室活动
 <br>
-![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2020.10.23：实验室成员农家乐自助烧烤聚餐.32hzlcmuse.webp)
+![图片1](https://www.helloimg.com/i/2024/11/18/673af7afca48b.jpg)

@@ -1,5 +1,5 @@
 ---
-title: b、苏州太湖西山岛+灵白线团建
+title: 苏州太湖西山岛+灵白线团建
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -56,6 +56,6 @@ projects:
 ---
 实验室活动
 <br>
-![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2023.11.27-28：苏州太湖西山岛+灵白线团建3.6pnj8w7bme.webp)
-![图片2](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2023.11.27-28：苏州太湖西山岛+灵白线团建2.3k819ycwph.webp)
-![图片3](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2023.11.27-28：苏州太湖西山岛+灵白线团建1.wikzljvdf.webp)
+![图片1](https://www.helloimg.com/i/2024/11/18/673af885d2c96.jpg)
+![图片2](https://www.helloimg.com/i/2024/11/18/673af885df528.jpg)
+![图片3](https://www.helloimg.com/i/2024/11/18/673af885dc79b.jpg)

@@ -1,5 +1,5 @@
 ---
-title: n、实验室部分老师同学北京开会期间聚餐
+title: 实验室部分老师同学北京开会期间聚餐
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -56,4 +56,4 @@ projects:
 ---
 实验室活动
 <br>
-![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2018.06.08：实验室部分老师同学北京开会期间聚餐.99tdliz70r.webp)
+![图片1](https://www.helloimg.com/i/2024/11/18/673af7090ed60.jpg)

@@ -1,5 +1,5 @@
 ---
-title: e、19级研究生毕业合影
+title: 19级研究生毕业合影
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -56,6 +56,6 @@ projects:
 ---
 毕业生合影
 <br>
-![图片1](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2022.06.19：19级研究生毕业合影3.4uayg9g844.webp)
-![图片2](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2022.06.19：19级研究生毕业合影2.3gofc85635.webp)
-![图片3](https://github.com/DEMI-Research/picx-images-hosting/raw/master/2022.06.19：19级研究生毕业合影1.9kg7eo7uhb.webp)
+![图片1](https://www.helloimg.com/i/2024/11/18/673af8221b1c4.jpg)
+![图片2](https://www.helloimg.com/i/2024/11/18/673af822202ae.jpg)
+![图片3](https://www.helloimg.com/i/2024/11/18/673af8222e6ad.jpg)
