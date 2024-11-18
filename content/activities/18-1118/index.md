@@ -13,6 +13,7 @@ event_url: https://example.org
 #   country: United States
 
 summary: '2018年11月18日'
+date: 20181118
 abstract: ''
 
 # Talk start and end times.

@@ -10,7 +10,7 @@ sections:
       subtitle: ''
       text: 'Check out my recent blog posts below!'
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 100
       # Filter on criteria
       filters:
         # The folders to display content from
@@ -28,7 +28,7 @@ sections:
       # Useful if you wish to show the first item in the Featured widget
       offset: 0
       # Field to sort by, such as Date or Title
-      sort_by: 'Date'
+      sort_by: Params.date
       sort_ascending: false
     design:
       # Choose a listing view
