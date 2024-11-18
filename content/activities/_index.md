@@ -6,9 +6,9 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: 团队活动
       subtitle: ''
-      text: 'Check out my recent blog posts below!'
+      text: 'DEMI开展的一些精彩活动和毕业瞬间！'
       # Choose how many pages you would like to display (0 = all pages)
       count: 100
       # Filter on criteria
@@ -34,14 +34,3 @@ sections:
       # Choose a listing view
       view: compact
 ---
-<!-- ---
-title: 团队活动
-
-# Listing view
-view: compact
-
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
---- -->
