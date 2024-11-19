@@ -10,7 +10,7 @@ last_name: 郑
 superuser: false
 
 # Role/position
-role: 21级研究生<br><br>宿迁电信
+role: 21级研究生<br><br>中国电信宿迁分公司
 grade: 21
 
 # Organizations/Affiliations
@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 毕业研究生毕业研究生
+  - 毕业研究生
 ---
 
 略
