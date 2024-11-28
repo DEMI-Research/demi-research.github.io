@@ -43,7 +43,8 @@ sections:
         {{% cta cta_link="./people/" cta_text="团队成员 →" %}}
     design:
       columns: '1'
-   - block: markdown
+    
+  - block: markdown
      content:
        title: 研究方向
        subtitle: Research Directions
