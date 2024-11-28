@@ -43,5 +43,12 @@ sections:
         {{% cta cta_link="./people/" cta_text="团队成员 →" %}}
     design:
       columns: '1'
+    
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="团队成员 →" %}}
 
 ---
