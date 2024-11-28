@@ -49,6 +49,6 @@ sections:
       title:
       subtitle:
       text: |
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EQlzbYG8AHpo0ulfHm23padGhx0xu5Ffpj981o6hJSo&cl=ffffff&w=a"></script>
+        <a href='https://clustrmaps.com/site/1c2rz'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=EQlzbYG8AHpo0ulfHm23padGhx0xu5Ffpj981o6hJSo'/></a>
 
 ---
