@@ -34,15 +34,6 @@ sections:
       view: showcase
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="团队成员 →" %}}
-    design:
-      columns: '1'
     
   - block: markdown
     content:
