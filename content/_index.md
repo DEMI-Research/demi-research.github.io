@@ -48,6 +48,6 @@ sections:
      content:
        title: 研究方向
        subtitle: Research Directions
-       text: "<script type=\"text/javascript\" id=\"clustrmaps\" src=\"//clustrmaps.com/map_v2.js?d=EQlzbYG8AHpo0ulfHm23padGhx0xu5Ffpj981o6hJSo&cl=ffffff&w=a\"></script>"
+       text: "abc"
 ---
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EQlzbYG8AHpo0ulfHm23padGhx0xu5Ffpj981o6hJSo&cl=ffffff&w=a"></script>
