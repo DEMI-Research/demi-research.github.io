@@ -13,7 +13,7 @@ title: 'Knowledge Enhanced Sports Game Summarization dataset (K-SportsSum)'
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-# date: '2013-07-01T00:00:00Z'
+date: '2022-02-15T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
