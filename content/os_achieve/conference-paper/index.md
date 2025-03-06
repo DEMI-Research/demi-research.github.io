@@ -33,13 +33,7 @@ publication_short: In *ICW*
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-Name of the Dataset: Compact and Fragmented Query challenge dataset (Flickr30K-CFQ)
-
-Dataset Introduction: Flickr30K-CFQ was created to improve text-image retrieval research by modeling realistic user queries that are concise and fragmented (e.g., "family gathering" or "children bundled up"), unlike verbose captions in traditional datasets. It extends the original Flickr30K dataset with four new query types: Imagery Tags (305 abstract labels), Phrases (111,240 noun phrases), Triples (133,540 entity-relation pairs), and Fragments (139,607 multi-triple descriptions), totaling over three times the original corpus.
-
-Download Link: https://www.dropbox.com/scl/fi/m80yf919dgezulht90k6n/Flickr30K-CFQ.zip?rlkey=5xzt8vat6tj1vdmtntmpkdeel&st=rf6ww7b1&dl=0
-
-Relevant Paper: Haoyu Liu, Yaoxian Song, Xuwu Wang, Xiangru Zhu, Zhixu Li "Flickr30K-CFQ: A Compact and Fragmented Query Dataset for Text-image Retrieval."
+content: nihao
 
 tags: []
 
@@ -77,13 +71,10 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+Name of the Dataset: Compact and Fragmented Query challenge dataset (Flickr30K-CFQ)
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+Dataset Introduction: Flickr30K-CFQ was created to improve text-image retrieval research by modeling realistic user queries that are concise and fragmented (e.g., "family gathering" or "children bundled up"), unlike verbose captions in traditional datasets. It extends the original Flickr30K dataset with four new query types: Imagery Tags (305 abstract labels), Phrases (111,240 noun phrases), Triples (133,540 entity-relation pairs), and Fragments (139,607 multi-triple descriptions), totaling over three times the original corpus.
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+Download Link: https://www.dropbox.com/scl/fi/m80yf919dgezulht90k6n/Flickr30K-CFQ.zip?rlkey=5xzt8vat6tj1vdmtntmpkdeel&st=rf6ww7b1&dl=0
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Relevant Paper: Haoyu Liu, Yaoxian Song, Xuwu Wang, Xiangru Zhu, Zhixu Li "Flickr30K-CFQ: A Compact and Fragmented Query Dataset for Text-image Retrieval."
