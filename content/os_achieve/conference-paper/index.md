@@ -1,5 +1,5 @@
 ---
-# title: 'An example conference paper'
+# title: 'Compact and Fragmented Query challenge dataset (Flickr30K-CFQ)'
 title: ''
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
