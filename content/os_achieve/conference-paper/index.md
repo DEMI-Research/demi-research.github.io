@@ -1,13 +1,13 @@
 ---
-# title: 'Compact and Fragmented Query challenge dataset (Flickr30K-CFQ)'
-title: ''
+title: 'Compact and Fragmented Query challenge dataset (Flickr30K-CFQ)'
+# title: ''
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 
-# authors:
-#   - admin
-#   - Robert Ford
+authors:
+  - admin
+  - Robert Ford
 
 # Author notes (optional)
 # author_notes:
@@ -47,7 +47,6 @@ featured: false
 
 url_pdf: ''
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
