@@ -1,5 +1,5 @@
 ---
-title: 'ClidSum: Cross-Lingual Dialogue Summarization dataset'
+title: 'CONSTRUCTURE: Benchmarking CONcept STRUCTUre REasoning for Multimodal Large Language Models'
 # title: ''
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ title: 'ClidSum: Cross-Lingual Dialogue Summarization dataset'
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-10-16T00:00:00Z'
+date: '2024-10-21T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -43,8 +43,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2202.05599'
-url_dataset: 'https://github.com/krystalan/ClidSum'
+url_pdf: 'https://aclanthology.org/2024.findings-emnlp.285.pdf'
+url_dataset: 'https://aclanthology.org/2024.findings-emnlp.285/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -68,11 +68,11 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-**Name of the Dataset:** ClidSum: Cross-Lingual Dialogue Summarization dataset
+**Name of the Dataset:** CONSTRUCTURE: Benchmarking CONcept STRUCTUre REasoning for Multimodal Large Language Models
 
-**Dataset Introduction:** ClidSum is the first cross-lingual dialogue summarization dataset which includes 56.4K English-to-German and 56.4K English-to-Chinese cross-lingual dialogue summarization samples, covering both short and long texts. The dataset includes real-world or manually annotated monolingual dialogue-summary pairs across various life scenarios.
+**Dataset Introduction:** To evaluate the hierarchical concept understanding and reasoning abilities of Multimodal Large Language Models (MLLMs), we introduce CONSTRUCTURE, a novel concept-level benchmark. It aims to assess MLLMs across four key aspects: understanding atomic concepts, performing upward abstraction reasoning, achieving downward concretization reasoning, and conducting multi-hop reasoning. Initial findings show that even state-of-the-art models struggle with these tasks (e.g., GPT-4o scores 62.1%). 
+The CONSTRUCTURE benchmark contains 10,329 samples, split into training (7,234), validation (1,031), and test (2,064) sets in a 7:1:2 ratio.
 
+**Download Link:** https://aclanthology.org/2024.findings-emnlp.285/
 
-**Download Link:** https://github.com/krystalan/ClidSum
-
-**Relevant Paper:** Jiaan Wang, Fandong Meng, Ziyao Lu, Duo Zheng, Zhixu Li, Jianfeng Qu, Jie Zhou "ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization"
+**Relevant Paper:** https://aclanthology.org/2024.findings-emnlp.285.pdf

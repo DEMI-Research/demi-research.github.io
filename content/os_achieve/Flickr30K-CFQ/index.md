@@ -1,5 +1,5 @@
 ---
-title: 'Compact and Fragmented Query challenge dataset (Flickr30K-CFQ)'
+title: 'Flickr30K-CFQ: Compact and Fragmented Query challenge dataset'
 # title: ''
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -68,7 +68,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-**Name of the Dataset:** Compact and Fragmented Query challenge dataset (Flickr30K-CFQ)
+**Name of the Dataset:** Flickr30K-CFQ: Compact and Fragmented Query challenge dataset
 
 **Dataset Introduction:** Flickr30K-CFQ was created to improve text-image retrieval research by modeling realistic user queries that are concise and fragmented (e.g., "family gathering" or "children bundled up"), unlike verbose captions in traditional datasets. It extends the original Flickr30K dataset with four new query types: Imagery Tags (305 abstract labels), Phrases (111,240 noun phrases), Triples (133,540 entity-relation pairs), and Fragments (139,607 multi-triple descriptions), totaling over three times the original corpus.
 

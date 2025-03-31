@@ -1,5 +1,5 @@
 ---
-title: 'A Multimodal Entity Linking Dataset (WidiDiverse)'
+title: 'WidiDiverse: A Multimodal Entity Linking dataset'
 # title: ''
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -68,7 +68,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-**Name of the Dataset:** A Multimodal Entity Linking Dataset (WidiDiverse)
+**Name of the Dataset:** WidiDiverse: A Multimodal Entity Linking Dataset
 
 **Dataset Introduction:** WIKIDiverse is a high-quality multimodal entity linking (MEL) dataset created to address the limitations of existing MEL datasets, which suffer from limited contextual topics, restricted entity types, simplified mention ambiguity, and poor availability. The dataset consists of 8K image-caption pairs collected from Wikinews, covering over 10 diverse topics including sports, politics, entertainment, disaster, and education. WIKIDiverse contains approximately 16K entity mentions with an average of 2.02 mentions per pair and about 10 words per caption. It includes seven common entity types (Person, Organization, Location, Country, Event, Works, Misc) and uses Wikipedia (~16M entities) as its knowledge base. The dataset was manually annotated with high consistency (Cohen's Kappa of 88.98% for Mention Detection and 83.75% for Entity Linking), providing a more comprehensive and challenging benchmark for MEL research.
 

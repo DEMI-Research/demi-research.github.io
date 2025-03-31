@@ -1,5 +1,5 @@
 ---
-title: 'Knowledge Enhanced Sports Game Summarization dataset (K-SportsSum)'
+title: 'K-SportsSum: Knowledge Enhanced Sports Game Summarization dataset'
 # title: ''
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -68,7 +68,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-**Name of the Dataset:** Knowledge Enhanced Sports Game Summarization dataset (K-SportsSum)
+**Name of the Dataset:** K-SportsSum: Knowledge Enhanced Sports Game Summarization dataset
 
 **Dataset Introduction:** K-SportsSum contains 7,854 pairs of live sports commentaries and corresponding news reports, making it one of the largest datasets in this domain. The dataset was compiled from live commentaries and news reports of various sports games, with a focus on soccer matches from 2019 to 2020. Unlike previous datasets, K-SportsSum includes a large-scale knowledge corpus with information on 523 sports teams and over 14,000 athletes. This corpus is designed to bridge the knowledge gap between live commentaries and sports news.
 
