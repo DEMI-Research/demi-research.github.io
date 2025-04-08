@@ -1,5 +1,5 @@
 ---
-title: 'M2ConceptBase: The first concept-centric multimodal concept knowledge base'
+title: 'HOTVCOM: A large-scale Chinese short video comment dataset'
 # title: ''
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ title: 'M2ConceptBase: The first concept-centric multimodal concept knowledge ba
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-10-21T00:00:00Z'
+date: '2024-09-23T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
-publication_short: In *CIKM*
+publication_short: In *ACL*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -43,8 +43,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3627673.3679852'
-url_dataset: 'https://github.com/AwellmanZha/M2ConceptBase'
+url_pdf: 'https://arxiv.org/pdf/2409.15196'
+url_dataset: 'https://drive.google.com/drive/folders/188JvK41Z3PL9lEzjSu8-B4fl_HKGXb5N?usp=drive_link'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -68,10 +68,10 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-**Name of the Dataset:** M2ConceptBase: the first concept-centric multimodal concept knowledge base
+**Name of the Dataset:** HOTVCOM: A large-scale Chinese short video comment dataset
 
-**Dataset Introduction:** Traditional multimodal knowledge bases are typically entity-centric. To address the limitations of existing multimodal knowledge bases in aligning visual semantics with language concepts and to provide multimodal concept knowledge resources for the fine-grained long-tail concept understanding of multimodal large models, we introduce the first concept-centric multimodal concept knowledge base, M2ConceptBase. By employing a concept modeling strategy and achieving high-precision alignment with relevant images and textual descriptions, M2ConceptBase offers fine-grained cross-modal knowledge. Specifically, M2ConceptBase encompasses 152K concepts and 951K images, with an average of 6.27 images and corresponding descriptions associated with each concept, ensuring comprehensive coverage of visual and textual semantics.
+**Dataset Introduction:** HOTVCOM is a large-scale Chinese short video comment dataset including 94k short videos from Douyin with 137 million comments.
 
-**Download Link:** https://github.com/AwellmanZha/M2ConceptBase
+**Download Link:** https://drive.google.com/drive/folders/188JvK41Z3PL9lEzjSu8-B4fl_HKGXb5N?usp=drive_link
 
-**Relevant Paper:** https://dl.acm.org/doi/abs/10.1145/3627673.3679852
+**Relevant Paper:** HOTVCOM: Generating Buzzworthy Comments for Videos.
