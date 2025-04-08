@@ -13,7 +13,7 @@ title: 'ESC-Eval: Evaluate LLMs in Emotion Support Dialogue'
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-6-21T00:00:00Z'
+date: '2024-06-21T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
