@@ -9,6 +9,18 @@ banner:
   caption: ''
   image: ''
 ---
+**2025**
+
+Jipeng Cen, Jiaxin Liu, **Zhixu Li**, Jingjing Wang*: SQLFixAgent: Towards Semantic-Accurate Text-to-SQL Parsing via Consistency-Enhanced Multi-Agent Collaboration. **AAAI 2025**
+
+Jiajie Chen, Yu Sang, Peng-Fei Zhang, Jiaan Wang, Jianfeng Qu*, **Zhixu Li**: Enhancing Long-and Short-Term Representations for Next POI Recommendations via Frequency and Hierarchical Contrastive Learning. **AAAI 2025**
+
+Haiquan Zhao, Xuwu Wang, Shisong Chen, **Zhixu Li***, Xin Zheng, Yanghua Xiao: OVEL: Online Video Entity Linking. **COLING 2025**
+
+Yuyan Chen, Qingpei Guo, Shuangjie You, **Zhixu Li***: MedTransTab: Advancing Medical Cross-Table Tabular Data Generation. **WSDM 2025**
+
+Zihan Qiu, Xiaoling Zhou, Chunyan An*, Qiang Yang*, **Zhixu Li**: Neo-TKGC: Enhancing Temporal Knowledge Graph Completion with Integrated Node Weights and Future Information. **WSDM 2025**
+
 **2024**
 
 1. Yaoxian Song, Penglei Sun, Haoyu Liu, **Zhixu Li***, Wei Song*, Yanghua Xiao, Xiaofang Zhou: Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI, **Accepted by TKDE**
