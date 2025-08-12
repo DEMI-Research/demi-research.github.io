@@ -10,16 +10,21 @@ banner:
   image: ''
 ---
 **2025**
+1. Yaoxian Song, Penglei Sun, Piaopiao Jin, Yi Ren, Yu Zheng, **Zhixu Li**, Xiaowen Chu, Yue Zhang, Tiefeng Li, Jason Gu: Learning 6-DoF Fine-Grained Grasp Detection Based on Part Affordance Grounding. **IEEE Trans Autom. Sci. Eng. 2025**
 
-1. Jipeng Cen, Jiaxin Liu, **Zhixu Li**, Jingjing Wang*: SQLFixAgent: Towards Semantic-Accurate Text-to-SQL Parsing via Consistency-Enhanced Multi-Agent Collaboration. **AAAI 2025**
+2. Xiangru Zhu, Penglei Sun, Yaoxian Song, Yanghua Xiao, **Zhixu Li**, Chengyu Wang, Jun Huang, Bei Yang, Xiaoxiao Xu: Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective. **ICLR 2025**
 
-2. Jiajie Chen, Yu Sang, Peng-Fei Zhang, Jiaan Wang, Jianfeng Qu*, **Zhixu Li**: Enhancing Long-and Short-Term Representations for Next POI Recommendations via Frequency and Hierarchical Contrastive Learning. **AAAI 2025**
+3. Kaichen Zhao, Mingming Li, Haiquan Zhao, Kuien Liu, **Zhixu Li***, Xueying Li*. MotiR: Motivation-aware Retrieval for Long-Tail Recommendation. **ACL 2025 (Industry)**
 
-3. Haiquan Zhao, Xuwu Wang, Shisong Chen, **Zhixu Li***, Xin Zheng, Yanghua Xiao: OVEL: Online Video Entity Linking. **COLING 2025**
+4. Jipeng Cen, Jiaxin Liu, **Zhixu Li**, Jingjing Wang*: SQLFixAgent: Towards Semantic-Accurate Text-to-SQL Parsing via Consistency-Enhanced Multi-Agent Collaboration. **AAAI 2025**
 
-4. Yuyan Chen, Qingpei Guo, Shuangjie You, **Zhixu Li***: MedTransTab: Advancing Medical Cross-Table Tabular Data Generation. **WSDM 2025**
+5. Jiajie Chen, Yu Sang, Peng-Fei Zhang, Jiaan Wang, Jianfeng Qu*, **Zhixu Li**: Enhancing Long-and Short-Term Representations for Next POI Recommendations via Frequency and Hierarchical Contrastive Learning. **AAAI 2025**
 
-5. Zihan Qiu, Xiaoling Zhou, Chunyan An*, Qiang Yang*, **Zhixu Li**: Neo-TKGC: Enhancing Temporal Knowledge Graph Completion with Integrated Node Weights and Future Information. **WSDM 2025**
+6. Haiquan Zhao, Xuwu Wang, Shisong Chen, **Zhixu Li***, Xin Zheng, Yanghua Xiao: OVEL: Online Video Entity Linking. **COLING 2025**
+
+7. Yuyan Chen, Qingpei Guo, Shuangjie You, **Zhixu Li***: MedTransTab: Advancing Medical Cross-Table Tabular Data Generation. **WSDM 2025**
+
+8. Zihan Qiu, Xiaoling Zhou, Chunyan An*, Qiang Yang*, **Zhixu Li**: Neo-TKGC: Enhancing Temporal Knowledge Graph Completion with Integrated Node Weights and Future Information. **WSDM 2025**
 
 **2024**
 
