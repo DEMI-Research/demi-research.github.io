@@ -14,7 +14,7 @@ role: 讲师、硕士生导师
 grade: 4
 
 # Organizations/Affiliations
-# organizations:
+organizations:
 #   - name: 苏州大学
 #     url: 'https://www.suda.edu.cn/'
 

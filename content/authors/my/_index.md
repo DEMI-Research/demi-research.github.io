@@ -14,7 +14,7 @@ role: 常务副主任、产研负责人
 grade: 4
 
 # Organizations/Affiliations
-# organizations:
+organizations:
 #   - name: 苏州大学
 #     url: 'https://www.suda.edu.cn/'
 
