@@ -10,7 +10,7 @@ last_name: 李
 superuser: false
 
 # Role/position
-role: 25级博士
+role: 26级博士
 grade: 0
 
 # Organizations/Affiliations
