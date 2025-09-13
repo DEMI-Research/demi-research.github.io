@@ -28,10 +28,10 @@ interests:
   - 人工智能
 
 education:
-    - course: 
-      institution: 西交利物浦大学
-      year: 2022
-  # courses:
+  courses:
+      - course: 硕士学位
+        institution: 西交利物浦大学
+        year: 2022
   #   - course: PhD in Computer Science
   #     institution: The University of Queensland
   #     year: 2013
