@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: 讲师、硕士生导师
-grade: 4
+grade: 3
 
 # Organizations/Affiliations
 organizations:

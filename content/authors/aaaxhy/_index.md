@@ -1,22 +1,23 @@
 ---
 # Display name
-title: 赵凯辰
+title: 谢昊阳
 
 # Full Name (for SEO)
-first_name: 凯辰
-last_name: 赵
+first_name: 昊阳
+last_name: 谢
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: 22级专硕
-grade: 3
+role: 25级专硕
+grade: 2
 
 # Organizations/Affiliations
 organizations:
-  - name: 复旦大学
-    url: 'https://www.fudan.edu.cn/'
+  - name: 中国人民大学
+    college: 智慧治理学院
+    url: 'https://www.ruc.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
@@ -27,9 +28,9 @@ interests:
 
 education:
   courses:
-    # - course: 软件工程 学士学位
-    #   institution: 中国地质大学（武汉）
-    #   year: 2024
+    - course: 人工智能 学士学位
+      institution: 武汉大学
+      year: 2025
 
 
 # Social/Academic Networking
@@ -39,13 +40,13 @@ education:
 social:
   # - icon: envelope
   #   icon_pack: fas
-  #   link: 'zhixuli@ruc.edu.cn'
+  #   link: '24210240261@m.fudan.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=P1N6z0oAAAAJ&hl=zh-CN&oi=ao
+  #   link: https://scholar.google.com/xxx
   # - icon: github
   #   icon_pack: fab
-  #   link: https://github.com/gcushen
+  #   link: https://github.com/xxx
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

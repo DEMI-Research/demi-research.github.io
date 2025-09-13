@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 杜辉廉
+title: 赵凯辰
 
 # Full Name (for SEO)
-first_name: 辉廉
-last_name: 杜
+first_name: 凯辰
+last_name: 赵
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: 22级专硕
-grade: 3
+grade: 22
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 在读硕士生
+  - 毕业研究生
 ---
 
 略

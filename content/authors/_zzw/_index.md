@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 许渊轶
+title: 查志伟
 
 # Full Name (for SEO)
-first_name: 渊轶
-last_name: 许
+first_name: 志伟
+last_name: 查
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 24级学硕
-grade: 2
+role: 22级专硕
+grade: 22
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 在读硕士生
+  - 毕业研究生
 ---
 
 略

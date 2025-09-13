@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: 24级学硕
-grade: 1
+grade: 2
 # Organizations/Affiliations
 organizations:
   - name: 复旦大学

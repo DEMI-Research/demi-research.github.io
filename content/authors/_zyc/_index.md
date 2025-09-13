@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: 22级专硕
-grade: 3
+grade: 22
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 在读硕士生
+  - 毕业研究生
 ---
 
 略

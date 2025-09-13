@@ -1,23 +1,22 @@
 ---
 # Display name
-title: 谢昊阳
+title: 赵海全
 
 # Full Name (for SEO)
-first_name: 昊阳
-last_name: 谢
+first_name: 海全
+last_name: 赵
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 25级专硕
-grade: 1
+role: 22级专硕
+grade: 22
 
 # Organizations/Affiliations
 organizations:
-  - name: 中国人民大学
-    college: 智慧治理学院
-    url: 'https://www.ruc.edu.cn'
+  - name: 复旦大学
+    url: 'https://www.fudan.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
@@ -28,9 +27,9 @@ interests:
 
 education:
   courses:
-    - course: 人工智能 学士学位
-      institution: 武汉大学
-      year: 2025
+    # - course: 软件工程 学士学位
+    #   institution: 中国地质大学（武汉）
+    #   year: 2024
 
 
 # Social/Academic Networking
@@ -40,13 +39,13 @@ education:
 social:
   # - icon: envelope
   #   icon_pack: fas
-  #   link: '24210240261@m.fudan.edu.cn'
+  #   link: 'zhixuli@ruc.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
-  #   link: https://scholar.google.com/xxx
+  #   link: https://scholar.google.com/citations?user=P1N6z0oAAAAJ&hl=zh-CN&oi=ao
   # - icon: github
   #   icon_pack: fab
-  #   link: https://github.com/xxx
+  #   link: https://github.com/gcushen
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 在读硕士生
+  - 毕业研究生
 ---
 
 略

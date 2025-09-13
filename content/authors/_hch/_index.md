@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 查志伟
+title: 黄城华
 
 # Full Name (for SEO)
-first_name: 志伟
-last_name: 查
+first_name: 城华
+last_name: 黄
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: 22级专硕
-grade: 3
+grade: 22
 
 # Organizations/Affiliations
 organizations:
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 在读硕士生
+  - 合作研究者
 ---
 
 略
