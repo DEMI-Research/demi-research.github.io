@@ -1,36 +1,41 @@
 ---
 # Display name
-title: 周子羽
+title: 谢之坚
 
 # Full Name (for SEO)
-first_name: 子羽
-last_name: 周
+first_name: 之坚
+last_name: 谢
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 21级本科生
-grade: 21
+role: 24级本科生
+grade: 24
 
 # Organizations/Affiliations
 organizations:
-  - name: 复旦大学
-    url: 'https://www.fudan.edu.cn/'
+  - name: 中国人民大学
+    url: 'https://www.ruc.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
 interests:
-  - 大语言模型（LLMs）
-  - 人工智能
+  # - 大语言模型（LLMs）
+  # - 人工智能
 
 education:
   # courses:
-  #   - course: Bachelor in Software Engineering
-  #     institution: China University of Geosciences
-  #     year: 2024
-
+  #   - course: PhD in Computer Science
+  #     institution: The University of Queensland
+  #     year: 2013
+  #   - course: Master in Computer Science
+  #     institution: Renmin University of China
+  #     year: 2009
+  #   - course: Bachelor in Computer Science
+  #     institution: Renmin University of China
+  #     year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
