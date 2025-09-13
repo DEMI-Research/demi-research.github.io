@@ -15,8 +15,7 @@ grade: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: 中国人民大学
-    college: 智慧治理学院
+  - name: 中国人民大学<br><br>智慧治理学院
     url: 'https://www.ruc.edu.cn'
 
 

@@ -15,8 +15,7 @@ grade: 4
 
 # Organizations/Affiliations
 organizations:
-  - name: 华东师范大学
-    college: 智慧教育学院
+  - name: 华东师范大学<br><br>智慧教育学院
     url: 'https://www.ecnu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)

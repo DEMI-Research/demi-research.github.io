@@ -15,7 +15,7 @@ grade: 2
 
 # Organizations/Affiliations
 organizations:
-  - name: 中国人民大学
+  - name: 中国人民大学<br><br>智慧治理学院
     url: 'https://www.ruc.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
