@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 谢昊阳
+title: 晁振轩
 
 # Full Name (for SEO)
-first_name: 昊阳
-last_name: 谢
+first_name: 振轩
+last_name: 晁
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: 25级专硕
@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-    - course: 人工智能 学士学位
-      institution: 武汉大学
-      year: 2025
+    - course: 
+      institution: 合肥工业大学
+      year: 
 
 
 # Social/Academic Networking

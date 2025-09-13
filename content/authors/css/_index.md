@@ -11,11 +11,12 @@ superuser: true
 
 # Role/position
 role: 22级博士
-grade: 3
+grade: 4
 
 # Organizations/Affiliations
 organizations:
   - name: 华东师范大学
+    college: 智慧教育学院
     url: 'https://www.ecnu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)

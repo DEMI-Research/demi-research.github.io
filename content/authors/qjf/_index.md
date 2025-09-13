@@ -10,13 +10,13 @@ last_name: 瞿
 superuser: false
 
 # Role/position
-role: 副教授<br><br>苏州大学
+role: 副主任、副教授、硕士生导师
 grade: 4
 
 # Organizations/Affiliations
-organizations:
-  - name: 苏州大学
-    url: 'https://www.suda.edu.cn/'
+# organizations:
+#   - name: 苏州大学
+#     url: 'https://www.suda.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 合作研究者
+  - 实验室教师
 ---
 
 <p style="font-size: 18px;">瞿剑峰，男，副教授，硕士生导师，江苏省“双创博士”，苏州大学优秀青年学者。2019年6月于吉林大学计算机科学与技术学院获得博士学位，2017年至2019年澳大利亚昆士兰大学（U.S News 世界大学排名Top50）联合培养博士研究生，2019年至2020年在昆士兰大学从事博士后研究。目前研究方向为信息抽取、知识图谱、深度学习、数据挖掘。在TKDE, AAAI，ICDE， WSDM, CIKM, Neural Networks等高水平期刊会议上(CCF A/B类)发表40余篇。指导硕士生在国际顶级数据挖掘会议CIKM’22上获得Best Paper Honorable Mention（0.5%），担任各类CCF A/B会议期刊（如TOIS等）审稿人。目前主持国家自然科学基金项目1项，江苏省自然科学基金1项。</p>

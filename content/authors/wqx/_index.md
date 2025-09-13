@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 谢昊阳
+title: 武秋侠
 
 # Full Name (for SEO)
-first_name: 昊阳
-last_name: 谢
+first_name: 秋侠
+last_name: 武
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: 25级专硕
@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-    - course: 人工智能 学士学位
-      institution: 武汉大学
-      year: 2025
+    - course: 
+      institution: 华南理工大学
+      year: 
 
 
 # Social/Academic Networking

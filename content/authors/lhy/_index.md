@@ -10,13 +10,15 @@ last_name: 刘
 superuser: false
 
 # Role/position
-role: 22级硕士
-grade: 4
+role: 25级博士
+grade: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: 西交利物浦大学
-    url: 'https://www.xjtlu.edu.cn/zh/'
+  - name: 中国人民大学
+    college: 智慧治理学院
+    url: 'https://www.ruc.edu.cn'
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
@@ -26,6 +28,9 @@ interests:
   - 人工智能
 
 education:
+    - course: 
+      institution: 西交利物浦大学
+      year: 2022
   # courses:
   #   - course: PhD in Computer Science
   #     institution: The University of Queensland
@@ -67,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 助理工程师
+  - 在读博士生
 ---
 
 略

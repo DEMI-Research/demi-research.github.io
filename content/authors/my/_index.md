@@ -1,37 +1,46 @@
 ---
 # Display name
-title: 谢昊阳
+title: 闵宇
 
 # Full Name (for SEO)
-first_name: 昊阳
-last_name: 谢
+first_name: 宇
+last_name: 闵
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 25级专硕
-grade: 1
+role: 常务副主任、产研负责人
+grade: 4
 
 # Organizations/Affiliations
-organizations:
-  - name: 中国人民大学
-    college: 智慧治理学院
-    url: 'https://www.ruc.edu.cn'
+# organizations:
+#   - name: 苏州大学
+#     url: 'https://www.suda.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
 interests:
-  - 大语言模型（LLMs）
-  - 人工智能
+  # - 信息抽取
+  # - 知识图谱
+  # - 深度学习
+  # - 数据挖掘
 
 education:
-  courses:
-    - course: 人工智能 学士学位
-      institution: 武汉大学
-      year: 2025
-
+  # courses:
+  #   - course: 计算机科学，博士学位
+  #     institution: 昆士兰大学
+  #     year: 2019
+  #   - course: 计算机软件与理论，博士学位
+  #     institution: 吉林大学
+  #     year: 2019
+  #   - course: 计算机软件与理论，硕士学位
+  #     institution: 吉林大学
+  #     year: 2016
+  #   - course: 软件学院，学士学位
+  #     institution: 吉林大学
+  #     year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -40,13 +49,13 @@ education:
 social:
   # - icon: envelope
   #   icon_pack: fas
-  #   link: '24210240261@m.fudan.edu.cn'
+  #   link: 'jfqu@suda.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
-  #   link: https://scholar.google.com/xxx
+  #   link: https://scholar.google.com/citations?user=P1N6z0oAAAAJ&hl=zh-CN&oi=ao
   # - icon: github
   #   icon_pack: fab
-  #   link: https://github.com/xxx
+  #   link: https://github.com/gcushen
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,7 +72,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 在读硕士生
+  - 实验室管理
 ---
 
-略

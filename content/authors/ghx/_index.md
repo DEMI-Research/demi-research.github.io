@@ -1,22 +1,23 @@
 ---
 # Display name
-title: 张竞丹
+title: 葛珩璇
 
 # Full Name (for SEO)
-first_name: 竞丹
-last_name: 张
+first_name: 珩璇
+last_name: 葛
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 22级专硕
-grade: 3
+role: 25级专硕
+grade: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: 复旦大学
-    url: 'https://www.fudan.edu.cn/'
+  - name: 中国人民大学
+    college: 智慧治理学院
+    url: 'https://www.ruc.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
@@ -27,9 +28,9 @@ interests:
 
 education:
   courses:
-    # - course: 软件工程 学士学位
-    #   institution: 中国地质大学（武汉）
-    #   year: 2024
+    - course: 
+      institution: 苏州大学
+      year: 2025
 
 
 # Social/Academic Networking
@@ -39,13 +40,13 @@ education:
 social:
   # - icon: envelope
   #   icon_pack: fas
-  #   link: 'zhixuli@ruc.edu.cn'
+  #   link: '24210240261@m.fudan.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=P1N6z0oAAAAJ&hl=zh-CN&oi=ao
+  #   link: https://scholar.google.com/xxx
   # - icon: github
   #   icon_pack: fab
-  #   link: https://github.com/gcushen
+  #   link: https://github.com/xxx
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

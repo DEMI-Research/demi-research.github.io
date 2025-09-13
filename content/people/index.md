@@ -15,7 +15,8 @@ sections:
           - 合作研究者
           - 在读博士生
           - 在读硕士生
-          - 助理工程师
+          - 实验室教师
+          - 实验室管理
           - 本科先锋队
       sort_by: Params.grade
       sort_ascending: false
