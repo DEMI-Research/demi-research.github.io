@@ -10,7 +10,7 @@ last_name: 刘
 superuser: false
 
 # Role/position
-role: 副教授、硕导
+role: 副教授、硕导<br><br>中山大学
 grade: 4
 
 # Organizations/Affiliations
@@ -50,9 +50,9 @@ social:
   # - icon: envelope
   #   icon_pack: fas
   #   link: 'jfqu@suda.edu.cn'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=P1N6z0oAAAAJ&hl=zh-CN&oi=ao
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=GqALZFIAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
