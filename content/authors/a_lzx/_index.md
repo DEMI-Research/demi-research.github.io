@@ -107,7 +107,7 @@ user_groups:
 
 <p style="font-size: 20px;font-weight: bold;">科研成果</p>
 
-已发表论文200+篇，Google Citation 3000+次。详细论文列表见：[https://dblp.uni-trier.de/pid/38/3988.html](https://dblp.uni-trier.de/pid/38/3988.html)
+已发表论文200+篇，Google Citation 5000+次。详细论文列表见：[https://dblp.uni-trier.de/pid/38/3988.html](https://dblp.uni-trier.de/pid/38/3988.html)
 
 <p style="font-size: 20px;font-weight: bold;">社会兼职</p>
 
