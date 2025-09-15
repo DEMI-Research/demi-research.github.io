@@ -10,7 +10,7 @@ last_name: 张
 superuser: false
 
 # Role/position
-role: 21级研究生<br><br>苏州上海银行
+role: 21级研究生<br><br>苏州外国语学校
 grade: 21
 
 # Organizations/Affiliations

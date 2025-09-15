@@ -17,7 +17,7 @@ grade: 1
 organizations:
   - name: 中国人民大学
     url: 'https://www.ruc.edu.cn'
-  - name: 智慧治理学院
+  - name: 信息学院
 
 
 # Short bio (displayed in user profile at end of posts)

@@ -10,7 +10,7 @@ last_name: 黄
 superuser: false
 
 # Role/position
-role: 22级专硕
+role: 22级专硕<br><br>智谱华章
 grade: 22
 
 # Organizations/Affiliations

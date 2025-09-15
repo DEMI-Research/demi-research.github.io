@@ -10,7 +10,7 @@ last_name: 李
 superuser: false
 
 # Role/position
-role: 20级研究生<br><br>光明食品集团上海农场
+role: 20级研究生<br><br>苏州市公安局
 grade: 20
 
 # Organizations/Affiliations
