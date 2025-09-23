@@ -26,6 +26,14 @@ banner:
 
 8. Zihan Qiu, Xiaoling Zhou, Chunyan An*, Qiang Yang*, **Zhixu Li**: Neo-TKGC: Enhancing Temporal Knowledge Graph Completion with Integrated Node Weights and Future Information. **WSDM 2025**
 
+9. Yuyan Chen, Lei Xia, Jinghan Cao, Zhendong Hou, Weinan Dai and **Zhixu Li**: High-Context Empathy in Conversations for Large Language Models. **CIKM 2025**
+
+10. Yicong Zhao, Shisong Chen, Jiacheng Zhang and **Zhixu Li** : ReCode: Improving LLM-based Code Repair with Fine-Grained Retrieval-Augmented Generation. **CIKM 2025**
+
+11. Mingyang Li, Shisong Chen, Shengkun Tu, Ziyi Du, Jinghao Zhang, **Zhixu Li** and Yanghua Xiao: KUG: Joint Enhancement of Internal and External Knowledge for Retrieval-Augmented Generation. **CIKM 2025**
+
+12. Chunyan An, Yuying Huang, Qiang Yang*, Siyu Yuan and **Zhixu Li**: LLM-Powered Information Extraction for the Dairy Financial Domain: Tackling Data Scarcity and Ambiguity. **CIKM 2025**
+
 **2024**
 
 1. Yaoxian Song, Penglei Sun, Haoyu Liu, **Zhixu Li***, Wei Song*, Yanghua Xiao, Xiaofang Zhou: Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI, **Accepted by TKDE**
