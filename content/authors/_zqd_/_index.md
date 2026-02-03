@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 兰昊睿
+title: 曾庆典
 
 # Full Name (for SEO)
-first_name: 昊睿
-last_name: 兰
+first_name: 庆典
+last_name: 曾
 
 # Is this the primary user of the site?
 superuser: false
