@@ -56,8 +56,3 @@ projects:
 ---
 年初调研团建
 <br>
-![a1210df3a5faad4188d0a761434cb24e.jpg](https://youke.xn--y7xa690gmna.cn/s1/2026/02/03/69820afd4cf6e.webp)
-![68eea7cbd69096357fa79c415aba6f14.jpg](https://youke.xn--y7xa690gmna.cn/s1/2026/02/03/69820b0fc4ca3.webp)
-![cc0042a931b2ba58375af491e552db35.jpg](https://youke.xn--y7xa690gmna.cn/s1/2026/02/03/69820b0cb453d.webp)
-![333de6f673e6ecc3b82218cb97b6fa71.jpg](https://youke.xn--y7xa690gmna.cn/s1/2026/02/03/69820b4209b3a.webp)
-![4cccdda207fef81fe69335464bb87702.jpg](https://youke.xn--y7xa690gmna.cn/s1/2026/02/03/69820ade93a89.webp)
