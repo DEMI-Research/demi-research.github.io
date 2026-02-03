@@ -1,23 +1,23 @@
 ---
 # Display name
-title: 上官依柯
+title: 丁月
 
 # Full Name (for SEO)
-first_name: 依柯
-last_name: 上官
+first_name: 月
+last_name: 丁
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 26级博士
-grade: 0
+role: 25级本科
+grade: 1
 
 # Organizations/Affiliations
 organizations:
   - name: 中国人民大学
     url: 'https://www.ruc.edu.cn'
-  - name: 信息学院
+  - name: 中法学院
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 在读博士生
+  - 本科先锋队
 ---
 
 略
