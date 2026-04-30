@@ -29,7 +29,7 @@ banner:
 
 4. Jipeng Cen, Jiaxin Liu, Zhixu Li, Jingjing Wang*: SQLFixAgent: Towards Semantic-Accurate Text-to-SQL Parsing via Consistency-Enhanced Multi-Agent Collaboration. 2025.02，**AAAI 2025**
 
-5. Jiajie Chen, Yu Sang, Peng-Fei Zhang, Jiaan Wang, Jianfeng Qu*, **Zhixu Li**: Enhancing Long-and Short-Term Representations for Next POI Recommendations via Frequency and Hierarchical Contrastive Learning. 2025.02，**AAAI 2025**
+5. Jiajie Chen, Yu Sang, Peng-Fei Zhang, Jiaan Wang, Jianfeng Qu*, Zhixu Li: Enhancing Long-and Short-Term Representations for Next POI Recommendations via Frequency and Hierarchical Contrastive Learning. 2025.02，**AAAI 2025**
 
 6. Haiquan Zhao, Xuwu Wang, Shisong Chen, Zhixu Li, Xin Zheng, Yanghua Xiao: OVEL: Online Video Entity Linking. 2025.07，**COLING 2025**
 
@@ -41,7 +41,7 @@ banner:
 
 10. Yicong Zhao, Shisong Chen, Jiacheng Zhang and Zhixu Li: ReCode: Improving LLM-based Code Repair with Fine-Grained Retrieval-Augmented Generation. 2025.10，**CIKM 2025**
 
-11. Mingyang Li, Shisong Chen, Shengkun Tu, Ziyi Du, Jinghao Zhang, **Zhixu Li** and Yanghua Xiao: KUG: Joint Enhancement of Internal and External Knowledge for Retrieval-Augmented Generation. 2025.10，**CIKM 2025**
+11. Mingyang Li, Shisong Chen, Shengkun Tu, Ziyi Du, Jinghao Zhang, Zhixu Li and Yanghua Xiao: KUG: Joint Enhancement of Internal and External Knowledge for Retrieval-Augmented Generation. 2025.10，**CIKM 2025**
 
 12. Chunyan An, Yuying Huang, Qiang Yang*, Siyu Yuan and Zhixu Li: LLM-Powered Information Extraction for the Dairy Financial Domain: Tackling Data Scarcity and Ambiguity. 2025.10，**CIKM 2025**
 
@@ -71,7 +71,7 @@ banner:
 
 12. Zhiwei Zha, Jian Wang, Zhixu Li, Xiangru Zhu, Wei Song, Yanghua Xiao: M^2ConceptBase: A Fine-Grained Aligned Concept-Centric Multi-modal Knowledge Base. 2024.10，**CIKM 2024**
 
-13. Kaicheng Zhao, Yaoxian Song, Haiquan Zhao, Haoyu Liu, Tiefeng Li and **Zhixu Li**: Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph. 2024.10，**CIKM 2024**
+13. Kaicheng Zhao, Yaoxian Song, Haiquan Zhao, Haoyu Liu, Tiefeng Li and Zhixu Li: Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph. 2024.10，**CIKM 2024**
 
 14. Yuyan Chen, Jin Zhao, Zhihao Wen, Zhixu Li, Yanghua Xiao: TemporalMed: Advancing Medical Dialogues with Time-Aware Responses. 2024.03，**WSDM 2024**
 
@@ -79,7 +79,7 @@ banner:
 
 16. Jin Zhao, Jian Xie, Tinghui Zhu, Qian Guo, Yanghua Xiao* and **Zhixu Li***. Empowering BioNER through Multi-Tagger Collaboration. 2024.10，**ECAI 2024**
 
-17. Anting Li, Shisong Chen, **Zhixu Li**, Jianfeng Qu*, Zhiang Yue, Jingping Liu: A Hierarchy-aware Entity Alignment Method for Educational Knowledge Graphs, 2024.07，**DASFAA 2024**
+17. Anting Li, Shisong Chen, Zhixu Li, Jianfeng Qu*, Zhiang Yue, Jingping Liu: A Hierarchy-aware Entity Alignment Method for Educational Knowledge Graphs, 2024.07，**DASFAA 2024**
 
 18. Haoyu Liu, Yaoxian Song, Xuwu Wang, Zhu Xiangru, Zhixu Li, Wei Song*, Tiefeng Li, Flickr30K-CFQ: A Compact and Fragmented Query Dataset for Text-image Retrieval, 2024.07，**DASFAA 2024**
 
@@ -123,11 +123,11 @@ banner:
 
 2. Jiaan Wang, Fandong Meng, Ziyao Lu, Duo Zheng, Zhixu Li, Jianfeng Qu and Jie Zhou: ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization. 2022.12，**EMNLP 2022**
 
-3. Siyu Yuan, Deqing Yang*, Jiaqing Liang, **Zhixu Li**, Jinxi Liu, Jingyue Huang and Yanghua Xiao*: Generative Entity Typing with Curriculum Learning. 2022.12，**EMNLP 2022**
+3. Siyu Yuan, Deqing Yang*, Jiaqing Liang, Zhixu Li, Jinxi Liu, Jingyue Huang and Yanghua Xiao*: Generative Entity Typing with Curriculum Learning. 2022.12，**EMNLP 2022**
 
 4. Tianyu Xu, Wen Hua, Jianfeng Qu*, Zhixu Li, Jiajie Xu, An Liu and Lei Zhao: Evidence-aware Document-level Relation Extraction. 2022.10，**CIKM 2022 (Best Paper Candidate, Honorable Mention)**
 
-5. Yu Hong, **Zhixu Li, Jianfeng Qu, Jiaqing Liang, Yi Luo, Miyu Zhang, Yanghua Xiao*, Wei Wang: Can We Have Both Fish and Bear's Paw? Improving Performance, Reliability, and both of them for Relation Extraction under Label Shift. 2022.10，**CIKM 2022**
+5. Yu Hong, Zhixu Li, Jianfeng Qu, Jiaqing Liang, Yi Luo, Miyu Zhang, Yanghua Xiao*, Wei Wang: Can We Have Both Fish and Bear's Paw? Improving Performance, Reliability, and both of them for Relation Extraction under Label Shift. 2022.10，**CIKM 2022**
 
 6. Kexin Wang, Zhixu Li, Jiaan Wang, Jianfeng Qu, Ying He, An Liu and Lei Zhao:   RT-KGD: Relation Transition Aware Knowledge-Grounded Dialogue Generation. 2022.10，**ISWC 2022**
 
