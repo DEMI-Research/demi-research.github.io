@@ -10,20 +10,20 @@ banner:
   image: ''
 ---
 **2026**
-1. Yuanyi Xu, Xiangru Zhu, Sihang Jiang, **Zhixu Li**, Bei Yang, Xiaoxiao Xu, Yanghua Xiao, Wei Wang: Adaptive Hallucination Alleviation in Multimodal Large Language Models: From Strategic Data Selection to Severity-Guided Training. 2026.02，**AAAI 2026**
+1. Yuanyi Xu, Xiangru Zhu, Sihang Jiang, Zhixu Li, Bei Yang, Xiaoxiao Xu, Yanghua Xiao, Wei Wang: Adaptive Hallucination Alleviation in Multimodal Large Language Models: From Strategic Data Selection to Severity-Guided Training. 2026.02，**AAAI 2026**
 
-2. Shisong Chen, Jiaan Wang, Chengyi Yang, Yanghua Xiao, **Zhixu Li**, Xin Lin: Large Language Model Judged Self-Training for Named Entity Recognition. 2026.03，**WSDM 2026**
+2. Shisong Chen, Jiaan Wang, Chengyi Yang, Yanghua Xiao, Zhixu Li, Xin Lin: Large Language Model Judged Self-Training for Named Entity Recognition. 2026.03，**WSDM 2026**
 
-3. Shisong Chen, Ziyu Zhou, Yicong Zhao, Chengyi Yang, **Zhixu Li**, Yanghua Xiao, Xin Lin, Xiaojun Meng, Jiansheng Wei, Kuien Liu: Code LLMs Still Fall Short of Top Programmers: Evaluating Algorithmic Code Generation Through Computational Thinking. 2026.03，**WSDM 2026**
+3. Shisong Chen, Ziyu Zhou, Yicong Zhao, Chengyi Yang, Zhixu Li, Yanghua Xiao, Xin Lin, Xiaojun Meng, Jiansheng Wei, Kuien Liu: Code LLMs Still Fall Short of Top Programmers: Evaluating Algorithmic Code Generation Through Computational Thinking. 2026.03，**WSDM 2026**
 
-4. Lei Xia, Yuyan Chen, Xiangqin Chen, Jixiang Fan, Weinan Dai, Xiaomei Li, **Zhixu Li**: Constructing Commonsense Knowledge Graph for Persona Consistency. 2026.03，**WSDM 2026**
+4. Lei Xia, Yuyan Chen, Xiangqin Chen, Jixiang Fan, Weinan Dai, Xiaomei Li, Zhixu Li: Constructing Commonsense Knowledge Graph for Persona Consistency. 2026.03，**WSDM 2026**
 
-5. Peng Liu, Peng-Fei Zhang, Jianfeng Qu, Ximing Li, **Zhixu Li**, Pengpeng Zhao: Towards Practical LLM Unlearning: Efficient, Modular, and Retain-Free. 2026.04，**WWW 2026**
+5. Peng Liu, Peng-Fei Zhang, Jianfeng Qu, Ximing Li, Zhixu Li, Pengpeng Zhao: Towards Practical LLM Unlearning: Efficient, Modular, and Retain-Free. 2026.04，**WWW 2026**
 
 **2025**
 1. Yaoxian Song, Penglei Sun, Piaopiao Jin, Yi Ren, Yu Zheng, Zhixu Li, Xiaowen Chu, Yue Zhang, Tiefeng Li, Jason Gu: Learning 6-DoF Fine-Grained Grasp Detection Based on Part Affordance Grounding. 2025.06，**IEEE Trans. Autom. Sci. Eng. 2025**
 
-2. Xiangru Zhu, Penglei Sun, Yaoxian Song, Yanghua Xiao*, **Zhixu Li**, Chengyu Wang, Jun Huang, Bei Yang, Xiaoxiao Xu: Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective. 2025.04，**ICLR 2025**
+2. Xiangru Zhu, Penglei Sun, Yaoxian Song, Yanghua Xiao*, Zhixu Li, Chengyu Wang, Jun Huang, Bei Yang, Xiaoxiao Xu: Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective. 2025.04，**ICLR 2025**
 
 3. Kaichen Zhao, Mingming Li, Haiquan Zhao, Kuien Liu, Zhixu Li, Xueying Li*. MotiR: Motivation-aware Retrieval for Long-Tail Recommendation. 2025.07，**ACL 2025 (Industry)**
 
@@ -31,7 +31,7 @@ banner:
 
 5. Jiajie Chen, Yu Sang, Peng-Fei Zhang, Jiaan Wang, Jianfeng Qu*, **Zhixu Li**: Enhancing Long-and Short-Term Representations for Next POI Recommendations via Frequency and Hierarchical Contrastive Learning. 2025.02，**AAAI 2025**
 
-6. Haiquan Zhao, Xuwu Wang, Shisong Chen, **Zhixu Li**, Xin Zheng, Yanghua Xiao: OVEL: Online Video Entity Linking. 2025.07，**COLING 2025**
+6. Haiquan Zhao, Xuwu Wang, Shisong Chen, Zhixu Li, Xin Zheng, Yanghua Xiao: OVEL: Online Video Entity Linking. 2025.07，**COLING 2025**
 
 7. Yuyan Chen, Qingpei Guo, Shuangjie You, **Zhixu Li***: MedTransTab: Advancing Medical Cross-Table Tabular Data Generation. 2025.03，**WSDM 2025**
 
@@ -39,11 +39,11 @@ banner:
 
 9. Yuyan Chen, Lei Xia, Jinghan Cao, Zhendong Hou, Weinan Dai and **Zhixu Li***: High-Context Empathy in Conversations for Large Language Models. 2025.10，**CIKM 2025**
 
-10. Yicong Zhao, Shisong Chen, Jiacheng Zhang and **Zhixu Li**: ReCode: Improving LLM-based Code Repair with Fine-Grained Retrieval-Augmented Generation. 2025.10，**CIKM 2025**
+10. Yicong Zhao, Shisong Chen, Jiacheng Zhang and Zhixu Li: ReCode: Improving LLM-based Code Repair with Fine-Grained Retrieval-Augmented Generation. 2025.10，**CIKM 2025**
 
 11. Mingyang Li, Shisong Chen, Shengkun Tu, Ziyi Du, Jinghao Zhang, **Zhixu Li** and Yanghua Xiao: KUG: Joint Enhancement of Internal and External Knowledge for Retrieval-Augmented Generation. 2025.10，**CIKM 2025**
 
-12. Chunyan An, Yuying Huang, Qiang Yang*, Siyu Yuan and **Zhixu Li**: LLM-Powered Information Extraction for the Dairy Financial Domain: Tackling Data Scarcity and Ambiguity. 2025.10，**CIKM 2025**
+12. Chunyan An, Yuying Huang, Qiang Yang*, Siyu Yuan and Zhixu Li: LLM-Powered Information Extraction for the Dairy Financial Domain: Tackling Data Scarcity and Ambiguity. 2025.10，**CIKM 2025**
 
 **2024**
 
@@ -57,15 +57,15 @@ banner:
 
 5. Penglei Sun, Yaoxian Song, Xinglin Pan, Peijie Dong, Xiaofei Yang, Qiang Wang*, Zhixu Li, Tiefeng Li, and Xiaowen Chu: Multi-Task Domain Adaptation for Language Grounding with 3D Objects. 2024.09，**ECCV 2024**
 
-6. Chenghua Huang, Shisong Chen, **Zhixu Li**, Jianfeng Qu*, Yanghua Xiao, Jiaxin Liu, Zhigang Chen: GeoAgent: To Empower LLMs using Geospatial Tools for Address Standardization, 2024.07，**ACL Findings 2024**
+6. Chenghua Huang, Shisong Chen, Zhixu Li, Jianfeng Qu*, Yanghua Xiao, Jiaxin Liu, Zhigang Chen: GeoAgent: To Empower LLMs using Geospatial Tools for Address Standardization, 2024.07，**ACL Findings 2024**
 
-7. Tingyi Zhang, Jiaan Wang, **Zhixu Li**, Jianfeng Qu*, An Liu, Zhigang Chen, Hongping Zhi: MusTQ: A Temporal Knowledge Graph Question Answering Dataset for Multi-Step Temporal Reasoning, 2024.07，**ACL Findings 2024**
+7. Tingyi Zhang, Jiaan Wang, Zhixu Li, Jianfeng Qu*, An Liu, Zhigang Chen, Hongping Zhi: MusTQ: A Temporal Knowledge Graph Question Answering Dataset for Multi-Step Temporal Reasoning, 2024.07，**ACL Findings 2024**
 
 8. Yuyan Chen, Yiwen Qian, Songzhou Yan, Jiyuan Jia, Zhixu Li, Yanghua Xiao, Xiaobo Li, Aaron Xuxiang Tian, Ming Yang, Qingpei Guo*: HOTVCOM: Generating Buzzworthy Comments for Videos, 2024.07，**ACL Findings 2024**
 
-9. Minghen Zhang, Jian Wang, Jianfeng Qu*, **Zhixu Li**, An Liu, Lei Zhao, Zhigang Chen, Xiaofang Zhou: A Coarse-to-Fine Framework for Entity-Relation Joint Extraction. 2024.04，**ICDE 2024**
+9. Minghen Zhang, Jian Wang, Jianfeng Qu*, Zhixu Li, An Liu, Lei Zhao, Zhigang Chen, Xiaofang Zhou: A Coarse-to-Fine Framework for Entity-Relation Joint Extraction. 2024.04，**ICDE 2024**
 
-10. Jian Wang, Jianfeng Qu*, Kexin Wang, **Zhixu Li**, Wen Hua, Ximing Li: Improving the Robustness of Knowledge-Grounded Dialogue via Contrastive Learning. 2024.02，**AAAI 2024**
+10. Jian Wang, Jianfeng Qu*, Kexin Wang, Zhixu Li, Wen Hua, Ximing Li: Improving the Robustness of Knowledge-Grounded Dialogue via Contrastive Learning. 2024.02，**AAAI 2024**
 
 11. Yuyan Chen, Yichen Yuan, Panjun Liu, Xinyu Wang, Ge Fan, Zhixu Li, Bang Liu, Yanghua Xiao: Talk Funny! A Large-scale Humor Response Dataset with Chain-of-Humor Interpretation. 2024.02，**AAAI 2024**
 
@@ -75,7 +75,7 @@ banner:
 
 14. Yuyan Chen, Jin Zhao, Zhihao Wen, Zhixu Li, Yanghua Xiao: TemporalMed: Advancing Medical Dialogues with Time-Aware Responses. 2024.03，**WSDM 2024**
 
-15. Jin Zhao, Jiaqing Liang, Chao Wang, Jingping Liu, Sihang Jiang, Lihan Chen, **Zhixu Li**, Yanghua Xiao: A Novel Cascade Instruction Tuning Method For Biomedical NER. 2024.05，**ICASSP 2024**
+15. Jin Zhao, Jiaqing Liang, Chao Wang, Jingping Liu, Sihang Jiang, Lihan Chen, Zhixu Li, Yanghua Xiao: A Novel Cascade Instruction Tuning Method For Biomedical NER. 2024.05，**ICASSP 2024**
 
 16. Jin Zhao, Jian Xie, Tinghui Zhu, Qian Guo, Yanghua Xiao* and **Zhixu Li***. Empowering BioNER through Multi-Tagger Collaboration. 2024.10，**ECAI 2024**
 
@@ -101,9 +101,9 @@ banner:
 
 7. Jiaan Wang, Fandong Meng, Yunlong Liang, Tingyi Zhang, Jiarong Xu, Zhixu Li and Jie Zhou: Understanding Translationese in Cross-Lingual Summarization. 2023.12，**EMNLP 2023**
 
-8. Jiaan Wang, Yunlong Liang, Fandong Meng, Zengkui Sun, Haoxiang Shi, **Zhixu Li**, Jinan Xu, Jianfeng Qu and Jie Zhou: Is ChatGPT a Good NLG Evaluator? A Preliminary Study. 2023.12，**NewSumm@EMNLP 2023 (workshop paper)**
+8. Jiaan Wang, Yunlong Liang, Fandong Meng, Zengkui Sun, Haoxiang Shi, Zhixu Li, Jinan Xu, Jianfeng Qu and Jie Zhou: Is ChatGPT a Good NLG Evaluator? A Preliminary Study. 2023.12，**NewSumm@EMNLP 2023 (workshop paper)**
 
-9. Xiaodan Wang, Lei Li, **Zhixu Li**, Xuwu Wang, Xiangru Zhu, Chengyu Wang, Jun Huang and Yanghua Xiao*: AGREE: Aligning Cross-Modal Entities for Image-Text Retrieval Upon Vision-Language Pre-trained Models. 2023.03，**WSDM 2023**
+9. Xiaodan Wang, Lei Li, Zhixu Li, Xuwu Wang, Xiangru Zhu, Chengyu Wang, Jun Huang and Yanghua Xiao*: AGREE: Aligning Cross-Modal Entities for Image-Text Retrieval Upon Vision-Language Pre-trained Models. 2023.03，**WSDM 2023**
 
 10. Yuyan Chen, **Zhixu Li***, Jiaqing Liang, Yanghua Xiao*, Bang Liu* and Yunwen Chen: Can Pre-trained Language Models Understand Chinese Humor? 2023.03，**WSDM 2023**
 
@@ -151,7 +151,7 @@ banner:
 
 16. Xueyao Jiang, Ailisi Li, Jiaqing Liang, Bang Liu, Rui Xie, Wei Wu, **Zhixu Li***, Yanghua Xiao: Visualizable or Non-visualizable? Exploring the Visualizability of Concepts in Multi-modal Knowledge Graph. 2022.07，**DASFAA 2022**
 
-17. Xuwu Wang, Junfeng Tian, Min Gui, **Zhixu Li**, Jiabo Ye, Ming Yan, Yanghua Xiao: PromptMNER: Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition. 2022.07，**DASFAA 2022**
+17. Xuwu Wang, Junfeng Tian, Min Gui, Zhixu Li, Jiabo Ye, Ming Yan, Yanghua Xiao: PromptMNER: Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition. 2022.07，**DASFAA 2022**
 
 **2021**
 
