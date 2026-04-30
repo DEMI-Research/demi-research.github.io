@@ -37,13 +37,13 @@ banner:
 
 8. Zihan Qiu, Xiaoling Zhou, Chunyan An*, Qiang Yang*, **Zhixu Li**: Neo-TKGC: Enhancing Temporal Knowledge Graph Completion with Integrated Node Weights and Future Information. 2025.03， WSDM 2025
 
-9. Yuyan Chen, Lei Xia, Jinghan Cao, Zhendong Hou, Weinan Dai and: . **Zhixu Li**: High-Context Empathy in Conversations for Large Language Models. 2025.10， CIKM 2025
+9. Yuyan Chen, Lei Xia, Jinghan Cao, Zhendong Hou, Weinan Dai and **Zhixu Li**: High-Context Empathy in Conversations for Large Language Models. 2025.10， CIKM 2025
 
-10. Yicong Zhao, Shisong Chen, Jiacheng Zhang and: . **Zhixu Li** : ReCode: Improving LLM-based Code Repair with Fine-Grained Retrieval-Augmented Generation. 2025.10， CIKM 2025
+10. Yicong Zhao, Shisong Chen, Jiacheng Zhang and **Zhixu Li** : ReCode: Improving LLM-based Code Repair with Fine-Grained Retrieval-Augmented Generation. 2025.10， CIKM 2025
 
 11. Mingyang Li, Shisong Chen, Shengkun Tu, Ziyi Du, Jinghao Zhang, **Zhixu Li** and Yanghua Xiao: KUG: Joint Enhancement of Internal and External Knowledge for Retrieval-Augmented Generation. 2025.10， CIKM 2025
 
-12. Chunyan An, Yuying Huang, Qiang Yang*, Siyu Yuan and: . **Zhixu Li**: LLM-Powered Information Extraction for the Dairy Financial Domain: Tackling Data Scarcity and Ambiguity. 2025.10， CIKM 2025
+12. Chunyan An, Yuying Huang, Qiang Yang*, Siyu Yuan and **Zhixu Li**: LLM-Powered Information Extraction for the Dairy Financial Domain: Tackling Data Scarcity and Ambiguity. 2025.10， CIKM 2025
 
 **2024**
 
@@ -71,13 +71,13 @@ banner:
 
 12. Zhiwei Zha, Jian Wang, **Zhixu Li***, Xiangru Zhu, Wei Song, Yanghua Xiao: M^2ConceptBase: A Fine-Grained Aligned Concept-Centric Multi-modal Knowledge Base. 2024.10， CIKM 2024
 
-13. Kaicheng Zhao, Yaoxian Song, Haiquan Zhao, Haoyu Liu, Tiefeng Li and: . **Zhixu Li***: Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph. 2024.10， CIKM 2024
+13. Kaicheng Zhao, Yaoxian Song, Haiquan Zhao, Haoyu Liu, Tiefeng Li and **Zhixu Li***: Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph. 2024.10， CIKM 2024
 
 14. Yuyan Chen, Jin Zhao, Zhihao Wen, **Zhixu Li***, Yanghua Xiao: TemporalMed: Advancing Medical Dialogues with Time-Aware Responses. 2024.03， WSDM 2024
 
 15. Jin Zhao, Jiaqing Liang, Chao Wang, Jingping Liu, Sihang Jiang, Lihan Chen, **Zhixu Li***, Yanghua Xiao: A Novel Cascade Instruction Tuning Method For Biomedical NER. 2024.05， ICASSP 2024
 
-16. Jin Zhao, Jian Xie, Tinghui Zhu, Qian Guo, Yanghua Xiao* *and: . **Zhixu Li***. Empowering BioNER through Multi-Tagger Collaboration. **ECAI 2024.（10月）**
+16. Jin Zhao, Jian Xie, Tinghui Zhu, Qian Guo, Yanghua Xiao* and **Zhixu Li***. Empowering BioNER through Multi-Tagger Collaboration. **ECAI 2024.（10月）**
 
 17. Anting Li, Shisong Chen, **Zhixu Li***, JIanfeng Qu*, Zhiang Yue, Jingping Liu: A Hierarchy-aware Entity Alignment Method for Educational Knowledge Graphs, 2024.07， DASFAA 2024
 
@@ -221,13 +221,13 @@ banner:
 
 **Eearlier than 2018**
 
-1. : . **Zhixu Li**, Ying He, Binbin Gu, An Liu, Hongsong Li, Haixun Wang, Xiaofang Zhou: Diagnosing and Minimizing Semantic Drift in Iterative Bootstrapping Extraction. **IEEE TKDE 2018**
+1. **Zhixu Li**, Ying He, Binbin Gu, An Liu, Hongsong Li, Haixun Wang, Xiaofang Zhou: Diagnosing and Minimizing Semantic Drift in Iterative Bootstrapping Extraction. **IEEE TKDE 2018**
 
 2. Guanfeng Liu, Yi Liu, Kai Zheng, An Liu, **Zhixu Li**, Yan Wang, Xiaofang Zhou: MCS-GPM: Multi-Constrained Simulation Based Graph Pattern Matching in Contextual Social Graphs. **IEEE TKDE 2018**
 
 3. Binbin Gu, **Zhixu Li***, Qiang Yang, Qing Xie, An Liu, Guanfeng Liu, Kai Zheng, Xiangliang Zhang: Web-ADARE: A web-aided data repairing system. **Neurocomputing 2017**
 
-4. : . **Zhixu Li**, Qiang Yang, An Liu, Guanfeng Liu, Jia Zhu, Jia-Jie Xu, Kai Zheng, Min Zhang: Crowd-Guided Entity Matching with Consolidated Textual Data. **JCST 2017**
+4. **Zhixu Li**, Qiang Yang, An Liu, Guanfeng Liu, Jia Zhu, Jia-Jie Xu, Kai Zheng, Min Zhang: Crowd-Guided Entity Matching with Consolidated Textual Data. **JCST 2017**
 
 5. Binbin Gu, **Zhixu Li***, Xiangliang Zhang, An Liu, Guanfeng Liu, Kai Zheng, Lei Zhao, Xiaofang Zhou: The Interaction Between Schema Matching and Record Matching in Data Integration. **IEEE TKDE 2017**
 
@@ -241,21 +241,21 @@ banner:
 
 10. Qiang Yang, **Zhixu Li***, Binbin Gu, An Liu, Guanfeng Liu, Pengpeng Zhao, Lei Zhao: CTextEM: Using Consolidated Textual Data for Entity Matching. 2016.07， DASFAA 2016
 
-11. : . **Zhixu Li**, Lu Qin, Hong Cheng, Xiangliang Zhang, Xiaofang Zhou: TRIP: An interactive retrieving-inferring data imputation approach. 2016.04， ICDE 2016
+11. **Zhixu Li**, Lu Qin, Hong Cheng, Xiangliang Zhang, Xiaofang Zhou: TRIP: An interactive retrieving-inferring data imputation approach. 2016.04， ICDE 2016
 
-12. : . **Zhixu Li**, Lu Qin, Hong Cheng, Xiangliang Zhang, Xiaofang Zhou: TRIP: An Interactive Retrieving-Inferring Data Imputation Approach. **IEEE TKDE 2015**
+12. **Zhixu Li**, Lu Qin, Hong Cheng, Xiangliang Zhang, Xiaofang Zhou: TRIP: An Interactive Retrieving-Inferring Data Imputation Approach. **IEEE TKDE 2015**
 
-13. : . **Zhixu Li**, Xiangliang Zhang, Hai Huang, Qing Xie, Jia Zhu, Xiaofang Zhou: Addressing Instance Ambiguity in Web Harvesting. 2015.06， WebDB 2015
+13. **Zhixu Li**, Xiangliang Zhang, Hai Huang, Qing Xie, Jia Zhu, Xiaofang Zhou: Addressing Instance Ambiguity in Web Harvesting. 2015.06， WebDB 2015
 
 14. **Zhixu Li**, Hongsong Li, Haixun Wang, Yi Yang, Xiangliang Zhang, Xiaofang Zhou: Overcoming Semantic Drift in Information Extraction, EDBT 2014
 
-15. : . **Zhixu Li**, Laurianne Sitbon, Liwei Wang, Xiaofang Zhou, Xiaoyong Du: AML: Efficient Approximate Membership Localization within a Web-Based Join Framework. **IEEE TKDE 2013**
+15. **Zhixu Li**, Laurianne Sitbon, Liwei Wang, Xiaofang Zhou, Xiaoyong Du: AML: Efficient Approximate Membership Localization within a Web-Based Join Framework. **IEEE TKDE 2013**
 
-16. : . **Zhixu Li**, Mohamed A. Sharaf, Laurianne Sitbon, Xiaoyong Du, Xiaofang Zhou: CoRE: A Context-Aware Relation Extraction Method for Relation Completion. **IEEE TKDE 2012**
+16. **Zhixu Li**, Mohamed A. Sharaf, Laurianne Sitbon, Xiaoyong Du, Xiaofang Zhou: CoRE: A Context-Aware Relation Extraction Method for Relation Completion. **IEEE TKDE 2012**
 
-17. : . **Zhixu Li**, Mohamed A. Sharaf, Laurianne Sitbon, Shazia Wasim Sadiq, Marta Indulska, Xiaofang Zhou: WebPut: Efficient Web-Based Data Imputation. **WISE 2012 (Best Paper Award)（10月）**
+17. **Zhixu Li**, Mohamed A. Sharaf, Laurianne Sitbon, Shazia Wasim Sadiq, Marta Indulska, Xiaofang Zhou: WebPut: Efficient Web-Based Data Imputation. **WISE 2012 (Best Paper Award)（10月）**
 
-18. : . **Zhixu Li**, Laurianne Sitbon, Xiaofang Zhou: Learning-based relevance feedback for web-based relation completion. 2011.10， CIKM 2011
+18. **Zhixu Li**, Laurianne Sitbon, Xiaofang Zhou: Learning-based relevance feedback for web-based relation completion. 2011.10， CIKM 2011
 
-19. : . **Zhixu Li**, Laurianne Sitbon, Liwei Wang, Xiaofang Zhou, Xiaoyong Du: Approximate membership localization (AML) for web-based join. 2010.10， CIKM 2010
+19. **Zhixu Li**, Laurianne Sitbon, Liwei Wang, Xiaofang Zhou, Xiaoyong Du: Approximate membership localization (AML) for web-based join. 2010.10， CIKM 2010
 
