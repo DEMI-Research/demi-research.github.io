@@ -25,7 +25,7 @@ banner:
 
 2. Xiangru Zhu, Penglei Sun, Yaoxian Song, Yanghua Xiao*, **Zhixu Li**, Chengyu Wang, Jun Huang, Bei Yang, Xiaoxiao Xu: Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective. 2025.04，**ICLR 2025**
 
-3. Kaichen Zhao, Mingming Li, Haiquan Zhao, Kuien Liu, **Zhixu Li***, Xueying Li*. MotiR: Motivation-aware Retrieval for Long-Tail Recommendation. **ACL 2025 (Industry)（7月）**
+3. Kaichen Zhao, Mingming Li, Haiquan Zhao, Kuien Liu, **Zhixu Li***, Xueying Li*. MotiR: Motivation-aware Retrieval for Long-Tail Recommendation. 2025.07，**ACL 2025 (Industry)**
 
 4. Jipeng Cen, Jiaxin Liu, **Zhixu Li**, Jingjing Wang*: SQLFixAgent: Towards Semantic-Accurate Text-to-SQL Parsing via Consistency-Enhanced Multi-Agent Collaboration. 2025.02，**AAAI 2025**
 
@@ -77,7 +77,7 @@ banner:
 
 15. Jin Zhao, Jiaqing Liang, Chao Wang, Jingping Liu, Sihang Jiang, Lihan Chen, **Zhixu Li***, Yanghua Xiao: A Novel Cascade Instruction Tuning Method For Biomedical NER. 2024.05，**ICASSP 2024**
 
-16. Jin Zhao, Jian Xie, Tinghui Zhu, Qian Guo, Yanghua Xiao* and **Zhixu Li***. Empowering BioNER through Multi-Tagger Collaboration. **ECAI 2024.（10月）**
+16. Jin Zhao, Jian Xie, Tinghui Zhu, Qian Guo, Yanghua Xiao* and **Zhixu Li***. Empowering BioNER through Multi-Tagger Collaboration. 2024.10，**ECAI 2024.**
 
 17. Anting Li, Shisong Chen, **Zhixu Li***, JIanfeng Qu*, Zhiang Yue, Jingping Liu: A Hierarchy-aware Entity Alignment Method for Educational Knowledge Graphs, 2024.07，**DASFAA 2024**
 
@@ -101,7 +101,7 @@ banner:
 
 7. Jiaan Wang, Fandong Meng, Yunlong Liang, Tingyi Zhang, Jiarong Xu, **Zhixu Li*** and Jie Zhou: Understanding Translationese in Cross-Lingual Summarization. 2023.12，**EMNLP 2023**
 
-8. Jiaan Wang, Yunlong Liang, Fandong Meng, Zengkui Sun, Haoxiang Shi, **Zhixu Li**, Jinan Xu, Jianfeng Qu and Jie Zhou: Is ChatGPT a Good NLG Evaluator? A Preliminary Study. **NewSumm@EMNLP 2023 (workshop paper)（12月）**
+8. Jiaan Wang, Yunlong Liang, Fandong Meng, Zengkui Sun, Haoxiang Shi, **Zhixu Li**, Jinan Xu, Jianfeng Qu and Jie Zhou: Is ChatGPT a Good NLG Evaluator? A Preliminary Study. 2023.12，**NewSumm@EMNLP 2023 (workshop paper)**
 
 9. Xiaodan Wang, Lei Li, **Zhixu Li***, Xuwu Wang, Xiangru Zhu, Chengyu Wang, Jun Huang and Yanghua Xiao*: AGREE: Aligning Cross-Modal Entities for Image-Text Retrieval Upon Vision-Language Pre-trained Models. 2023.03，**WSDM 2023**
 
@@ -125,7 +125,7 @@ banner:
 
 3. Siyu Yuan, Deqing Yang*, Jiaqing Liang, **Zhixu Li**, Jinxi Liu, Jingyue Huang and Yanghua Xiao*: Generative Entity Typing with Curriculum Learning. 2022.12，**EMNLP 2022**
 
-4. Tianyu Xu, Wen Hua, Jianfeng Qu*, **Zhixu Li***, Jiajie Xu, An Liu and Lei Zhao: Evidence-aware Document-level Relation Extraction. **CIKM 2022 (Best Paper Candidate, Honorable Mention)（10月）**
+4. Tianyu Xu, Wen Hua, Jianfeng Qu*, **Zhixu Li***, Jiajie Xu, An Liu and Lei Zhao: Evidence-aware Document-level Relation Extraction. 2022.10，**CIKM 2022 (Best Paper Candidate, Honorable Mention)**
 
 5. Yu Hong, **Zhixu Li***, Jianfeng Qu, Jiaqing Liang, Yi Luo, Miyu Zhang, Yanghua Xiao*, Wei Wang: Can We Have Both Fish and Bear's Paw? Improving Performance, Reliability, and both of them for Relation Extraction under Label Shift. 2022.10，**CIKM 2022**
 
@@ -203,13 +203,13 @@ banner:
 
 2. Pengpeng Zhao, Haifeng Zhu, **Zhixu Li**, Fuzhen Zhuang, Victor S. Sheng, Xiaofang Zhou: Where to Go Next: A Spatio-Temporal Gated Network for Next POI Recommendation. 2019.02，**AAAI 2019**
 
-3. Shuangli Shan, **Zhixu Li***, Qiang Yang, An Liu, Jiajie Xu, Zhigang Chen: DeepAM: Deep Semantic Address Representation for Address Matching. **APWeb/WAIM 2019 (Best Paper Award)（9月）**
+3. Shuangli Shan, **Zhixu Li***, Qiang Yang, An Liu, Jiajie Xu, Zhigang Chen: DeepAM: Deep Semantic Address Representation for Address Matching. 2019.09，**APWeb/WAIM 2019 (Best Paper Award)**
 
 4. Fuzhen He, **Zhixu Li***, Qiang Yang, An Liu, Guanfeng Liu, Pengpeng Zhao, Lei Zhao, Min Zhang, Zhigang Chen: Unsupervised Entity Alignment Using Attribute Triples and Relation Triples. 2019.07，**DASFAA 2019**
 
 5. Jiapeng Li, Wei Chen, **Zhixu Li**, Lei Zhao: Measuring Semantic Relatedness with Knowledge Association Network. 2019.07，**DASFAA 2019**
 
-6. Hongzhi Yin, Qinyong Wang, Kai Zheng, **Zhixu Li**, Jiali Yang, Xiaofang Zhou: Social Influence-Based Group Representation Learning for Group Recommendation. **ICDE 2019 (Best Paper Award)（4月）**
+6. Hongzhi Yin, Qinyong Wang, Kai Zheng, **Zhixu Li**, Jiali Yang, Xiaofang Zhou: Social Influence-Based Group Representation Learning for Group Recommendation. 2019.04，**ICDE 2019 (Best Paper Award)**
 
 7. Shuangli Shan, **Zhixu Li***, Yang Li, Qiang Yang, Jia Zhu, Mohamed A. Sharaf, Xiaofang Zhou: WebPut: A Web-Aided Data Imputation System for the General Type of Missing String Attribute Values. 2019.04，**ICDE 2019**
 
@@ -253,7 +253,7 @@ banner:
 
 16. **Zhixu Li**, Mohamed A. Sharaf, Laurianne Sitbon, Xiaoyong Du, Xiaofang Zhou: CoRE: A Context-Aware Relation Extraction Method for Relation Completion. 2012.10，**IEEE TKDE 2012**
 
-17. **Zhixu Li**, Mohamed A. Sharaf, Laurianne Sitbon, Shazia Wasim Sadiq, Marta Indulska, Xiaofang Zhou: WebPut: Efficient Web-Based Data Imputation. **WISE 2012 (Best Paper Award)（10月）**
+17. **Zhixu Li**, Mohamed A. Sharaf, Laurianne Sitbon, Shazia Wasim Sadiq, Marta Indulska, Xiaofang Zhou: WebPut: Efficient Web-Based Data Imputation. 2012.10，**WISE 2012 (Best Paper Award)**
 
 18. **Zhixu Li**, Laurianne Sitbon, Xiaofang Zhou: Learning-based relevance feedback for web-based relation completion. 2011.10，**CIKM 2011**
 
