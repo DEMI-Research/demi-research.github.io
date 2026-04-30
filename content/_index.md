@@ -13,28 +13,23 @@ sections:
         filename: 人大照片.png
       text: |
         <font size="4">
-        中国人民大学数据工程与多模态智能实验室（简称DEMI Lab），实验室主任为李直旭教授，现为中国人民大学信息学院、智慧治理学院双聘教授，博士生导师。实验室主要从事大语言模型、知识图谱、数据工程与知识工程、数据治理、自然语言处理、多模态智能等方面的研究工作。多年来，实验室在国家自然科学基金、省部委基金和各类校企联合项目的支持下，发表了大量高水平学术论文，其中包括中国计算机学会推荐的A/B类国际会议和期刊论文(TKDE、ICDE、ACL、AAAI、IJCAI等)200余篇，拥有专利60余项，与科大讯飞、华为、阿里等公司保持长期校企合作。已为国家与社会培养研究生30余人。</font>
-  
+        中国人民大学数据工程与多模态智能实验室（简称DEMI Lab），实验室主任为李直旭，中国人民大学信息学院、智慧治理学院双聘教授，博士生导师，中国人民大学社会治理研究院（杭研院）副院长，中国人民大学社会管理与发展大数据中心主任，中国人民大学数据工程与多模态智能实验室主任。主要研究方向为大语言模型与智能体、知识图谱、知识工程与认知智能、数据治理、自然语言处理、智慧治理等。实验室主要从事大语言模型、知识图谱、数据工程与知识工程、数据治理、自然语言处理、多模态智能等方面的研究工作。多年来，实验室在国家自然科学基金、省部委基金和各类校企联合项目的支持下，发表了大量高水平学术论文，其中包括中国计算机学会推荐的A/B类国际会议和期刊论文(TKDE、ICDE、ACL、AAAI、IJCAI等)200余篇，拥有专利60余项，与科大讯飞、华为、阿里等公司保持长期校企合作。已为国家与社会培养研究生30余人。</font>
+
   - block: collection
     id: section-1
     content:
       title: 研究方向
       subtitle: Research Directions
-      # text: 
-      # Display content from the `content/post/` folder
       filters:
         folders:
           - post
       sort_by: Params.priority
       sort_ascending: true
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
-      # Choose your content listing view - here we use the `showcase` view
       view: showcase
-      # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
-    
+
   - block: markdown
     content:
       title:
