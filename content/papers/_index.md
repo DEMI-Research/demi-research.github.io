@@ -51,7 +51,7 @@ banner:
 
 2. Yuyan Chen, Yanghua Xiao*, Zhixu Li, Bang Liu*: XMQAs: Constructing Complex-Modified Question-Answering Dataset for Robust Question Understanding. 2024.09，**TKDE 2024**
 
-3. Xiangru Zhu, **Zhixu Li**, Xiaodan Wang, Xueyao Jiang, Penglei Sun, Xuwu Wang, Yanghua Xiao*, Nicholas Jing Yuan: Multi-Modal Knowledge Graph Construction and Application: A Survey. 2024.07，**TKDE 2024**
+3. Xiangru Zhu, Zhixu Li, Xiaodan Wang, Xueyao Jiang, Penglei Sun, Xuwu Wang, Yanghua Xiao*, Nicholas Jing Yuan: Multi-Modal Knowledge Graph Construction and Application: A Survey. 2024.07，**TKDE 2024**
 
 4. Yuyan Chen, Songzhou Yan, Zhihong Zhu, Zhixu Li, Yanghua Xiao*: XMeCap: Meme Caption Generation with Sub-Image Adaptability. 2024.10，**MM 2024**
 
@@ -67,9 +67,9 @@ banner:
 
 10. Jian Wang, Jianfeng Qu*, Kexin Wang, **Zhixu Li**, Wen Hua, Ximing Li: Improving the Robustness of Knowledge-Grounded Dialogue via Contrastive Learning. 2024.02，**AAAI 2024**
 
-11. Yuyan Chen, Yichen Yuan, Panjun Liu, Xinyu Wang, Ge Fan, **Zhixu Li**, Bang Liu, Yanghua Xiao: Talk Funny! A Large-scale Humor Response Dataset with Chain-of-Humor Interpretation. 2024.02，**AAAI 2024**
+11. Yuyan Chen, Yichen Yuan, Panjun Liu, Xinyu Wang, Ge Fan, Zhixu Li, Bang Liu, Yanghua Xiao: Talk Funny! A Large-scale Humor Response Dataset with Chain-of-Humor Interpretation. 2024.02，**AAAI 2024**
 
-12. Zhiwei Zha, Jian Wang, **Zhixu Li**, Xiangru Zhu, Wei Song, Yanghua Xiao: M^2ConceptBase: A Fine-Grained Aligned Concept-Centric Multi-modal Knowledge Base. 2024.10，**CIKM 2024**
+12. Zhiwei Zha, Jian Wang, Zhixu Li, Xiangru Zhu, Wei Song, Yanghua Xiao: M^2ConceptBase: A Fine-Grained Aligned Concept-Centric Multi-modal Knowledge Base. 2024.10，**CIKM 2024**
 
 13. Kaicheng Zhao, Yaoxian Song, Haiquan Zhao, Haoyu Liu, Tiefeng Li and **Zhixu Li**: Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph. 2024.10，**CIKM 2024**
 
@@ -81,7 +81,7 @@ banner:
 
 17. Anting Li, Shisong Chen, **Zhixu Li**, Jianfeng Qu*, Zhiang Yue, Jingping Liu: A Hierarchy-aware Entity Alignment Method for Educational Knowledge Graphs, 2024.07，**DASFAA 2024**
 
-18. Haoyu Liu, Yaoxian Song, Xuwu Wang, Zhu Xiangru, **Zhixu Li**, Wei Song*, Tiefeng Li, Flickr30K-CFQ: A Compact and Fragmented Query Dataset for Text-image Retrieval, 2024.07，**DASFAA 2024**
+18. Haoyu Liu, Yaoxian Song, Xuwu Wang, Zhu Xiangru, Zhixu Li, Wei Song*, Tiefeng Li, Flickr30K-CFQ: A Compact and Fragmented Query Dataset for Text-image Retrieval, 2024.07，**DASFAA 2024**
 
 19. 赵海全, 王续武, 李金亮, **李直旭***, 肖仰华: 面向视频的细粒度多模态实体链接. 2024.12，**软件学报 2024**
 
@@ -89,9 +89,9 @@ banner:
 
 1. Jiaan Wang, Fandong Meng, Duo Zheng, Yunlong Liang, **Zhixu Li***, Jianfeng Qu* and Jie Zhou: Towards Unifying Multi-Lingual and Cross-Lingual Summarization. 2023.07，**ACL 2023**
 
-2. Xiaodan Wang, Chengyu Wang, Lei Li, **Zhixu Li**, Ben Chen, Linbo Jin, Jun Huang, Yanghua Xiao* and Ming Gao: FashionKLIP: Enhancing E-Commerce Image-Text Retrieval with Fashion Multi-Modal Conceptual Knowledge Graph. 2023.07，**ACL (Industry Track) 2023**
+2. Xiaodan Wang, Chengyu Wang, Lei Li, Zhixu Li, Ben Chen, Linbo Jin, Jun Huang, Yanghua Xiao* and Ming Gao: FashionKLIP: Enhancing E-Commerce Image-Text Retrieval with Fashion Multi-Modal Conceptual Knowledge Graph. 2023.07，**ACL (Industry Track) 2023**
 
-3. Wenhao Huang, Jiaqing Liang*, **Zhixu Li**, Yanghua Xiao* and Chuanjun Ji: Adaptive Ordered Information Extraction with Deep Reinforcement Learning. 2023.07，**ACL Findings 2023**
+3. Wenhao Huang, Jiaqing Liang*, Zhixu Li, Yanghua Xiao* and Chuanjun Ji: Adaptive Ordered Information Extraction with Deep Reinforcement Learning. 2023.07，**ACL Findings 2023**
 
 4. Yu Hong, Jiahang Li, Jianchuan Feng, Chenghua Huang, **Zhixu Li***, Jianfeng Qu, Yanghua Xiao*, Wei Wang: Competition or Cooperation? Exploring Unlabeled Data via Challenging Minimax Game for Semi-Supervised Relation Extraction. 2023.02，**AAAI 2023**
 
@@ -107,7 +107,7 @@ banner:
 
 10. Yuyan Chen, **Zhixu Li***, Jiaqing Liang, Yanghua Xiao*, Bang Liu* and Yunwen Chen: Can Pre-trained Language Models Understand Chinese Humor? 2023.03，**WSDM 2023**
 
-11. Shaohui Zheng, **Zhixu Li**, Jiaan Wang, Jianfeng Qu*, An Liu, Lei Zhao and Zhigang Chen: Long-Document Cross-Lingual Summarization. 2023.03，**WSDM 2023**
+11. Shaohui Zheng, Zhixu Li, Jiaan Wang, Jianfeng Qu*, An Liu, Lei Zhao and Zhigang Chen: Long-Document Cross-Lingual Summarization. 2023.03，**WSDM 2023**
 
 12. Jin Zhao, Zhixu Li, Yanghua Xiao*, Jiaqing Liang and Jingping Liu: HTMapper: Bidirectional Head-Tail Mapping for Nested Named Entity Recognition. 2023.10，**CIKM 2023**
 
@@ -131,11 +131,11 @@ banner:
 
 6. Kexin Wang, Zhixu Li, Jiaan Wang, Jianfeng Qu, Ying He, An Liu and Lei Zhao:   RT-KGD: Relation Transition Aware Knowledge-Grounded Dialogue Generation. 2022.10，**ISWC 2022**
 
-7. An Liu, Yifan Zhang, Xiangliang Zhang, **Zhixu Li**, Lei Zhao, Qing Li, Xiaofang Zhou: Representation Learning With Multi-Level Attention for Activity Trajectory Similarity Computation. 2022.05，**IEEE TKDE 2022**
+7. An Liu, Yifan Zhang, Xiangliang Zhang, Zhixu Li, Lei Zhao, Qing Li, Xiaofang Zhou: Representation Learning With Multi-Level Attention for Activity Trajectory Similarity Computation. 2022.05，**IEEE TKDE 2022**
 
-8. Pengpeng Zhao, Anjing Luo, **Zhixu Li**, Fuzhen Zhuang, Victor S. Sheng, Xiaofang Zhou: Where to Go Next: A Spatio-Temporal Gated Network for Next POI Recommendation. 2022.10，**IEEE TKDE 2022**
+8. Pengpeng Zhao, Anjing Luo, Zhixu Li, Fuzhen Zhuang, Victor S. Sheng, Xiaofang Zhou: Where to Go Next: A Spatio-Temporal Gated Network for Next POI Recommendation. 2022.10，**IEEE TKDE 2022**
 
-9. Hongzhi Yin, Qinyong Wang, Kai Zheng, **Zhixu Li**, Xiaofang Zhou: Overcoming Data Sparsity in Group Recommendation. 2022.10，**IEEE TKDE 2022**
+9. Hongzhi Yin, Qinyong Wang, Kai Zheng, Zhixu Li, Xiaofang Zhou: Overcoming Data Sparsity in Group Recommendation. 2022.10，**IEEE TKDE 2022**
 
 10. Xuwu Wang, Junfeng Tian, Min Gui, Zhixu Li*, Rui Wang, Ming Yan, Lihan Chen, Yanghua Xiao: WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types. 2022.07，**ACL 2022**
 
