@@ -9,6 +9,17 @@ banner:
   caption: ''
   image: ''
 ---
+**2026**
+1. Yuanyi Xu, Xiangru Zhu, Sihang Jiang, **Zhixu Li**, Bei Yang, Xiaoxiao Xu, Yanghua Xiao, Wei Wang: Adaptive Hallucination Alleviation in Multimodal Large Language Models: From Strategic Data Selection to Severity-Guided Training. **AAAI 2026**
+
+2. Shisong Chen, Jiaan Wang, Chengyi Yang, Yanghua Xiao, **Zhixu Li**, Xin Lin: Large Language Model Judged Self-Training for Named Entity Recognition. **WSDM 2026**
+
+3. Shisong Chen, Ziyu Zhou, Yicong Zhao, Chengyi Yang, **Zhixu Li**, Yanghua Xiao, Xin Lin, Xiaojun Meng, Jiansheng Wei, Kuien Liu: Code LLMs Still Fall Short of Top Programmers: Evaluating Algorithmic Code Generation Through Computational Thinking. **WSDM 2026**
+
+4. Lei Xia, Yuyan Chen, Xiangqin Chen, Jixiang Fan, Weinan Dai, Xiaomei Li, **Zhixu Li**: Constructing Commonsense Knowledge Graph for Persona Consistency. **WSDM 2026**
+
+5. Peng Liu, Peng-Fei Zhang, Jianfeng Qu, Ximing Li, **Zhixu Li**, Pengpeng Zhao: Towards Practical LLM Unlearning: Efficient, Modular, and Retain-Free. **WWW 2026**
+
 **2025**
 1. Yaoxian Song, Penglei Sun, Piaopiao Jin, Yi Ren, Yu Zheng, **Zhixu Li**, Xiaowen Chu, Yue Zhang, Tiefeng Li, Jason Gu: Learning 6-DoF Fine-Grained Grasp Detection Based on Part Affordance Grounding. **IEEE Trans Autom. Sci. Eng. 2025**
 
