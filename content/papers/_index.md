@@ -55,13 +55,13 @@ banner:
 
 4. Yuyan Chen, Songzhou Yan, Zhihong Zhu, Zhixu Li, Yanghua Xiao*: XMeCap: Meme Caption Generation with Sub-Image Adaptability. 2024.10，**MM 2024**
 
-5. Penglei Sun, Yaoxian Song, Xinglin Pan, Peijie Dong, Xiaofei Yang, Qiang Wang*, **Zhixu Li**, Tiefeng Li, and Xiaowen Chu: Multi-Task Domain Adaptation for Language Grounding with 3D Objects. 2024.09，**ECCV 2024**
+5. Penglei Sun, Yaoxian Song, Xinglin Pan, Peijie Dong, Xiaofei Yang, Qiang Wang*, Zhixu Li, Tiefeng Li, and Xiaowen Chu: Multi-Task Domain Adaptation for Language Grounding with 3D Objects. 2024.09，**ECCV 2024**
 
 6. Chenghua Huang, Shisong Chen, **Zhixu Li**, Jianfeng Qu*, Yanghua Xiao, Jiaxin Liu, Zhigang Chen: GeoAgent: To Empower LLMs using Geospatial Tools for Address Standardization, 2024.07，**ACL Findings 2024**
 
 7. Tingyi Zhang, Jiaan Wang, **Zhixu Li**, Jianfeng Qu*, An Liu, Zhigang Chen, Hongping Zhi: MusTQ: A Temporal Knowledge Graph Question Answering Dataset for Multi-Step Temporal Reasoning, 2024.07，**ACL Findings 2024**
 
-8. Yuyan Chen, Yiwen Qian, Songzhou Yan, Jiyuan Jia, **Zhixu Li**, Yanghua Xiao, Xiaobo Li, Aaron Xuxiang Tian, Ming Yang, Qingpei Guo*: HOTVCOM: Generating Buzzworthy Comments for Videos, 2024.07，**ACL Findings 2024**
+8. Yuyan Chen, Yiwen Qian, Songzhou Yan, Jiyuan Jia, Zhixu Li, Yanghua Xiao, Xiaobo Li, Aaron Xuxiang Tian, Ming Yang, Qingpei Guo*: HOTVCOM: Generating Buzzworthy Comments for Videos, 2024.07，**ACL Findings 2024**
 
 9. Minghen Zhang, Jian Wang, Jianfeng Qu*, **Zhixu Li**, An Liu, Lei Zhao, Zhigang Chen, Xiaofang Zhou: A Coarse-to-Fine Framework for Entity-Relation Joint Extraction. 2024.04，**ICDE 2024**
 
@@ -95,7 +95,7 @@ banner:
 
 4. Yu Hong, Jiahang Li, Jianchuan Feng, Chenghua Huang, **Zhixu Li***, Jianfeng Qu, Yanghua Xiao*, Wei Wang: Competition or Cooperation? Exploring Unlabeled Data via Challenging Minimax Game for Semi-Supervised Relation Extraction. 2023.02，**AAAI 2023**
 
-5. Zhouhong Gu, Sihang Jiang, Jingping Liu, Yanghua Xiao*, Hongwei Feng, **Zhixu Li**, Jiaqing Liang, Jian Zhong: GANTEE: Generative Adversarial Network for Taxonomy Entering Evaluation. 2023.02，**AAAI 2023**
+5. Zhouhong Gu, Sihang Jiang, Jingping Liu, Yanghua Xiao*, Hongwei Feng, Zhixu Li, Jiaqing Liang, Jian Zhong: GANTEE: Generative Adversarial Network for Taxonomy Entering Evaluation. 2023.02，**AAAI 2023**
 
 6. Yuyan Chen, Zhihao Wen, Ge Fan, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li, Bang Liu, Yanghua Xiao: MAPO: Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization. 2023.12，**EMNLP 2023**
 
