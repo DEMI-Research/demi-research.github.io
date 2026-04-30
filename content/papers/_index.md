@@ -25,7 +25,7 @@ banner:
 
 2. Xiangru Zhu, Penglei Sun, Yaoxian Song, Yanghua Xiao*, **Zhixu Li**, Chengyu Wang, Jun Huang, Bei Yang, Xiaoxiao Xu: Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective. 2025.04，**ICLR 2025**
 
-3. Kaichen Zhao, Mingming Li, Haiquan Zhao, Kuien Liu, **Zhixu Li***, Xueying Li*. MotiR: Motivation-aware Retrieval for Long-Tail Recommendation. 2025.07，**ACL 2025 (Industry)**
+3. Kaichen Zhao, Mingming Li, Haiquan Zhao, Kuien Liu, Zhixu Li, Xueying Li*. MotiR: Motivation-aware Retrieval for Long-Tail Recommendation. 2025.07，**ACL 2025 (Industry)**
 
 4. Jipeng Cen, Jiaxin Liu, **Zhixu Li**, Jingjing Wang*: SQLFixAgent: Towards Semantic-Accurate Text-to-SQL Parsing via Consistency-Enhanced Multi-Agent Collaboration. 2025.02，**AAAI 2025**
 
@@ -35,11 +35,11 @@ banner:
 
 7. Yuyan Chen, Qingpei Guo, Shuangjie You, **Zhixu Li***: MedTransTab: Advancing Medical Cross-Table Tabular Data Generation. 2025.03，**WSDM 2025**
 
-8. Zihan Qiu, Xiaoling Zhou, Chunyan An*, Qiang Yang*, **Zhixu Li**: Neo-TKGC: Enhancing Temporal Knowledge Graph Completion with Integrated Node Weights and Future Information. 2025.03，**WSDM 2025**
+8. Zihan Qiu, Xiaoling Zhou, Chunyan An*, Qiang Yang*, Zhixu Li: Neo-TKGC: Enhancing Temporal Knowledge Graph Completion with Integrated Node Weights and Future Information. 2025.03，**WSDM 2025**
 
 9. Yuyan Chen, Lei Xia, Jinghan Cao, Zhendong Hou, Weinan Dai and **Zhixu Li**: High-Context Empathy in Conversations for Large Language Models. 2025.10，**CIKM 2025**
 
-10. Yicong Zhao, Shisong Chen, Jiacheng Zhang and **Zhixu Li** : ReCode: Improving LLM-based Code Repair with Fine-Grained Retrieval-Augmented Generation. 2025.10，**CIKM 2025**
+10. Yicong Zhao, Shisong Chen, Jiacheng Zhang and **Zhixu Li**, ReCode: Improving LLM-based Code Repair with Fine-Grained Retrieval-Augmented Generation. 2025.10，**CIKM 2025**
 
 11. Mingyang Li, Shisong Chen, Shengkun Tu, Ziyi Du, Jinghao Zhang, **Zhixu Li** and Yanghua Xiao: KUG: Joint Enhancement of Internal and External Knowledge for Retrieval-Augmented Generation. 2025.10，**CIKM 2025**
 
@@ -73,13 +73,13 @@ banner:
 
 13. Kaicheng Zhao, Yaoxian Song, Haiquan Zhao, Haoyu Liu, Tiefeng Li and **Zhixu Li***: Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph. 2024.10，**CIKM 2024**
 
-14. Yuyan Chen, Jin Zhao, Zhihao Wen, **Zhixu Li***, Yanghua Xiao: TemporalMed: Advancing Medical Dialogues with Time-Aware Responses. 2024.03，**WSDM 2024**
+14. Yuyan Chen, Jin Zhao, Zhihao Wen, **Zhixu Li**, Yanghua Xiao: TemporalMed: Advancing Medical Dialogues with Time-Aware Responses. 2024.03，**WSDM 2024**
 
 15. Jin Zhao, Jiaqing Liang, Chao Wang, Jingping Liu, Sihang Jiang, Lihan Chen, **Zhixu Li***, Yanghua Xiao: A Novel Cascade Instruction Tuning Method For Biomedical NER. 2024.05，**ICASSP 2024**
 
 16. Jin Zhao, Jian Xie, Tinghui Zhu, Qian Guo, Yanghua Xiao* and **Zhixu Li***. Empowering BioNER through Multi-Tagger Collaboration. 2024.10，**ECAI 2024.**
 
-17. Anting Li, Shisong Chen, **Zhixu Li***, JIanfeng Qu*, Zhiang Yue, Jingping Liu: A Hierarchy-aware Entity Alignment Method for Educational Knowledge Graphs, 2024.07，**DASFAA 2024**
+17. Anting Li, Shisong Chen, **Zhixu Li***, Jianfeng Qu*, Zhiang Yue, Jingping Liu: A Hierarchy-aware Entity Alignment Method for Educational Knowledge Graphs, 2024.07，**DASFAA 2024**
 
 18. Haoyu Liu, Yaoxian Song, Xuwu Wang, Zhu Xiangru, **Zhixu Li***, Wei Song*, Tiefeng Li, Flickr30K-CFQ: A Compact and Fragmented Query Dataset for Text-image Retrieval, 2024.07，**DASFAA 2024**
 
