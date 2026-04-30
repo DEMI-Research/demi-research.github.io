@@ -137,7 +137,7 @@ banner:
 
 9. Hongzhi Yin, Qinyong Wang, Kai Zheng, **Zhixu Li**, Xiaofang Zhou: Overcoming Data Sparsity in Group Recommendation. 2022.10，**IEEE TKDE 2022**
 
-10. Xuwu Wang, Junfeng Tian, Min Gui, Zhixu Li, Rui Wang, Ming Yan, Lihan Chen, Yanghua Xiao: WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types. 2022.07，**ACL 2022**
+10. Xuwu Wang, Junfeng Tian, Min Gui, Zhixu Li*, Rui Wang, Ming Yan, Lihan Chen, Yanghua Xiao: WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types. 2022.07，**ACL 2022**
 
 11. Qianyu He, Sijie Cheng, Zhixu Li, Rui Xie, Yanghua Xiao: Can Pre-trained Language Models Interpret Similes as Smart as Human? 2022.07，**ACL 2022**
 
