@@ -33,11 +33,11 @@ banner:
 
 6. Haiquan Zhao, Xuwu Wang, Shisong Chen, **Zhixu Li**, Xin Zheng, Yanghua Xiao: OVEL: Online Video Entity Linking. 2025.07，**COLING 2025**
 
-7. Yuyan Chen, Qingpei Guo, Shuangjie You, **Zhixu Li**: MedTransTab: Advancing Medical Cross-Table Tabular Data Generation. 2025.03，**WSDM 2025**
+7. Yuyan Chen, Qingpei Guo, Shuangjie You, **Zhixu Li***: MedTransTab: Advancing Medical Cross-Table Tabular Data Generation. 2025.03，**WSDM 2025**
 
 8. Zihan Qiu, Xiaoling Zhou, Chunyan An*, Qiang Yang*, Zhixu Li: Neo-TKGC: Enhancing Temporal Knowledge Graph Completion with Integrated Node Weights and Future Information. 2025.03，**WSDM 2025**
 
-9. Yuyan Chen, Lei Xia, Jinghan Cao, Zhendong Hou, Weinan Dai and **Zhixu Li**: High-Context Empathy in Conversations for Large Language Models. 2025.10，**CIKM 2025**
+9. Yuyan Chen, Lei Xia, Jinghan Cao, Zhendong Hou, Weinan Dai and **Zhixu Li***: High-Context Empathy in Conversations for Large Language Models. 2025.10，**CIKM 2025**
 
 10. Yicong Zhao, Shisong Chen, Jiacheng Zhang and **Zhixu Li**: ReCode: Improving LLM-based Code Repair with Fine-Grained Retrieval-Augmented Generation. 2025.10，**CIKM 2025**
 
@@ -77,7 +77,7 @@ banner:
 
 15. Jin Zhao, Jiaqing Liang, Chao Wang, Jingping Liu, Sihang Jiang, Lihan Chen, **Zhixu Li**, Yanghua Xiao: A Novel Cascade Instruction Tuning Method For Biomedical NER. 2024.05，**ICASSP 2024**
 
-16. Jin Zhao, Jian Xie, Tinghui Zhu, Qian Guo, Yanghua Xiao* and **Zhixu Li**. Empowering BioNER through Multi-Tagger Collaboration. 2024.10，**ECAI 2024**
+16. Jin Zhao, Jian Xie, Tinghui Zhu, Qian Guo, Yanghua Xiao* and **Zhixu Li***. Empowering BioNER through Multi-Tagger Collaboration. 2024.10，**ECAI 2024**
 
 17. Anting Li, Shisong Chen, **Zhixu Li**, Jianfeng Qu*, Zhiang Yue, Jingping Liu: A Hierarchy-aware Entity Alignment Method for Educational Knowledge Graphs, 2024.07，**DASFAA 2024**
 
