@@ -47,7 +47,7 @@ banner:
 
 **2024**
 
-1. Yaoxian Song, Penglei Sun, Haoyu Liu, **Zhixu Li**, Wei Song*, Yanghua Xiao, Xiaofang Zhou: Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI, **Accepted by TKDE**
+1. Yaoxian Song, Penglei Sun, Haoyu Liu, **Zhixu Li**, Wei Song*, Yanghua Xiao, Xiaofang Zhou: Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI. 2024.11，**IEEE TKDE 2024**
 
 2. Yuyan Chen, Yanghua Xiao*, Zhixu Li, Bang Liu*: XMQAs: Constructing Complex-Modified Question-Answering Dataset for Robust Question Understanding. 2024.09，**TKDE 2024**
 
