@@ -173,13 +173,13 @@ banner:
 
 **2020**
 
-1. Yanan Zhang, Guanfeng Liu, An Liu, Yifan Zhang, **Zhixu Li**, Xiangliang Zhang, Qing Li: Personalized Geographical Influence Modeling for POI Recommendation. IEEE Intell. 2020.10，**Syst. 2020**
+1. Yanan Zhang, Guanfeng Liu, An Liu, Yifan Zhang, **Zhixu Li**, Xiangliang Zhang, Qing Li: Personalized Geographical Influence Modeling for POI Recommendation. IEEE Intell. Syst. 2020.10，**IEEE Intell. Syst. 2020**
 
 2. Yi-Ting Wang, Jie Shen, **Zhixu Li***, Qiang Yang, An Liu, Pengpeng Zhao, Jia-Jie Xu, Lei Zhao, Xun-Jie Yang: Enriching Context Information for Entity Linking with Web Data. 2020.03，**JCST 2020**
 
-3. An Liu, Xindi Shen, Haoran Xie, Zhixu Li, Guanfeng Liu, Jia-Jie Xu, Lei Zhao, Fu Lee Wang: Privacy-preserving shared collaborative web services QoS prediction. J. Intell. Inf. 2020.10，**Syst. 2020**
+3. An Liu, Xindi Shen, Haoran Xie, Zhixu Li, Guanfeng Liu, Jia-Jie Xu, Lei Zhao, Fu Lee Wang: Privacy-preserving shared collaborative web services QoS prediction. J. Intell. Inf. Syst. 2020.10，**J. Intell. Inf. Syst. 2020**
 
-4. Guanfeng Liu, Yurong Wang, Bolong Zheng, **Zhixu Li**, Kai Zheng: Strong Social Graph Based Trust-Oriented Graph Pattern Matching With Multiple Constraints. IEEE Trans. Emerg. Top. Comput. 2020.10，**IEEE Trans. Emerg. Top. Comput. Intell. 2020**
+4. Guanfeng Liu, Yurong Wang, Bolong Zheng, **Zhixu Li**, Kai Zheng: Strong Social Graph Based Trust-Oriented Graph Pattern Matching With Multiple Constraints. IEEE Trans. Emerg. Top. Comput. Intell. 2020.10，**IEEE Trans. Emerg. Top. Comput. Intell. 2020**
 
 5. Mingjun Xiao, Kai Ma, An Liu, Hui Zhao, **Zhixu Li**, Kai Zheng, Xiaofang Zhou: SRA: Secure Reverse Auction for Task Assignment in Spatial Crowdsourcing. 2020.03，**IEEE TKDE 2020**
 
