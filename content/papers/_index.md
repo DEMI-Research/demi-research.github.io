@@ -23,7 +23,7 @@ banner:
 **2025**
 1. Yaoxian Song, Penglei Sun, Piaopiao Jin, Yi Ren, Yu Zheng,: . **Zhixu Li**, Xiaowen Chu, Yue Zhang, Tiefeng Li, Jason Gu: Learning 6-DoF Fine-Grained Grasp Detection Based on Part Affordance Grounding. **IEEE Trans Autom. Sci. Eng. 2025**
 
-2. Xiangru Zhu, Penglei Sun, Yaoxian Song, Yanghua Xiao,: . **Zhixu Li**, Chengyu Wang, Jun Huang, Bei Yang, Xiaoxiao Xu: Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective. **ICLR 2025（4月）**
+2. Xiangru Zhu, Penglei Sun, Yaoxian Song, Yanghua Xiao*,: . **Zhixu Li**, Chengyu Wang, Jun Huang, Bei Yang, Xiaoxiao Xu: Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective. **ICLR 2025（4月）**
 
 3. Kaichen Zhao, Mingming Li, Haiquan Zhao, Kuien Liu,: . **Zhixu Li***, Xueying Li*. MotiR: Motivation-aware Retrieval for Long-Tail Recommendation. **ACL 2025 (Industry)（7月）**
 
@@ -63,9 +63,9 @@ banner:
 
 8. Yuyan Chen, Yiwen Qian, Songzhou Yan, Jiyuan Jia,: . **Zhixu Li**, Yanghua Xiao, Xiaobo Li, Aaron Xuxiang Tian, Ming Yang, Qingpei Guo*: HOTVCOM: Generating Buzzworthy Comments for Videos, **ACL Findings 2024（7月）**
 
-9. Minghen Zhang, Jian Wang, Jianfeng Qu,: . **Zhixu Li***, An Liu, Lei Zhao, Zhigang Chen, Xiaofang Zhou: A Coarse-to-Fine Framework for Entity-Relation Joint Extraction. **ICDE 2024（4月）**
+9. Minghen Zhang, Jian Wang, Jianfeng Qu*,: . **Zhixu Li***, An Liu, Lei Zhao, Zhigang Chen, Xiaofang Zhou: A Coarse-to-Fine Framework for Entity-Relation Joint Extraction. **ICDE 2024（4月）**
 
-10. Jian wang, Jianfeng Qu, Kexin Wang,: . **Zhixu Li***, Wen Hua, Ximing Li: Improving the Robustness of Knowledge-Grounded Dialogue via Contrastive Learning. **AAAI 2024（2月）**
+10. Jian wang, Jianfeng Qu*, Kexin Wang,: . **Zhixu Li***, Wen Hua, Ximing Li: Improving the Robustness of Knowledge-Grounded Dialogue via Contrastive Learning. **AAAI 2024（2月）**
 
 11. Yuyan Chen, Yichen Yuan, Panjun Liu, Xinyu Wang, Ge Fan,: . **Zhixu Li***, Bang Liu, Yanghua Xiao: Talk Funny! A Large-scale Humor Response Dataset with Chain-of-Humor Interpretation. **AAAI 2024（2月）**
 
@@ -77,7 +77,7 @@ banner:
 
 15. Jin Zhao, Jiaqing Liang, Chao Wang, Jingping Liu, Sihang Jiang, Lihan Chen,: . **Zhixu Li***, Yanghua Xiao: A Novel Cascade Instruction Tuning Method For Biomedical NER. **ICASSP 2024（5月）**
 
-16. Jin Zhao, Jian Xie, Tinghui Zhu, Qian Guo, Yanghua Xiao *and: . **Zhixu Li***. Empowering BioNER through Multi-Tagger Collaboration. **ECAI 2024.（10月）**
+16. Jin Zhao, Jian Xie, Tinghui Zhu, Qian Guo, Yanghua Xiao* *and: . **Zhixu Li***. Empowering BioNER through Multi-Tagger Collaboration. **ECAI 2024.（10月）**
 
 17. Anting Li, Shisong Chen,: . **Zhixu Li***, JIanfeng Qu*, Zhiang Yue, Jingping Liu: A Hierarchy-aware Entity Alignment Method for Educational Knowledge Graphs, **DASFAA 2024（7月）**
 
