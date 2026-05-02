@@ -21,11 +21,11 @@ banner:
 5. Peng Liu, Peng-Fei Zhang, Jianfeng Qu, Ximing Li, **Zhixu Li**, Pengpeng Zhao: Towards Practical LLM Unlearning: Efficient, Modular, and Retain-Free. 2026.04，**WWW 2026**
 
 **2025**
-1. Yaoxian Song, Penglei Sun, Piaopiao Jin, Yi Ren, Yu Zheng, **Zhixu Li**, Xiaowen Chu, Yue Zhang, Tiefeng Li, Jason Gu: Learning 6-DoF Fine-Grained Grasp Detection Based on Part Affordance Grounding. 2025.06，**IEEE Trans. Autom. Sci. Eng. 2025**
+1. Yaoxian Song, Penglei Sun, Piaopiao Jin, Yi Ren, Yu Zheng, **Zhixu Li***, Xiaowen Chu, Yue Zhang, Tiefeng Li, Jason Gu: Learning 6-DoF Fine-Grained Grasp Detection Based on Part Affordance Grounding. 2025.06，**IEEE Trans. Autom. Sci. Eng. 2025**
 
-2. Xiangru Zhu, Penglei Sun, Yaoxian Song, Yanghua Xiao*, **Zhixu Li**, Chengyu Wang, Jun Huang, Bei Yang, Xiaoxiao Xu: Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective. 2025.04，**ICLR 2025**
+2. Xiangru Zhu, Penglei Sun, Yaoxian Song, Yanghua Xiao*, **Zhixu Li***, Chengyu Wang, Jun Huang, Bei Yang, Xiaoxiao Xu: Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective. 2025.04，**ICLR 2025**
 
-3. Kaichen Zhao, Mingming Li, Haiquan Zhao, Kuien Liu, **Zhixu Li**, Xueying Li*. MotiR: Motivation-aware Retrieval for Long-Tail Recommendation. 2025.07，**ACL 2025 (Industry)**
+3. Kaichen Zhao, Mingming Li, Haiquan Zhao, Kuien Liu, **Zhixu Li***, Xueying Li*. MotiR: Motivation-aware Retrieval for Long-Tail Recommendation. 2025.07，**ACL 2025 (Industry)**
 
 4. Jipeng Cen, Jiaxin Liu, **Zhixu Li**, Jingjing Wang*: SQLFixAgent: Towards Semantic-Accurate Text-to-SQL Parsing via Consistency-Enhanced Multi-Agent Collaboration. 2025.02，**AAAI 2025**
 
