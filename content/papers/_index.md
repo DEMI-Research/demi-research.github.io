@@ -105,7 +105,7 @@ banner:
 
 9. Xiaodan Wang, Lei Li, **Zhixu Li***, Xuwu Wang, Xiangru Zhu, Chengyu Wang, Jun Huang, Yanghua Xiao*: AGREE: Aligning Cross-Modal Entities for Image-Text Retrieval Upon Vision-Language Pre-trained Models. 2023.03**，，WSDM 2023**
 
-10. Yuyan Chen, **Zhixu Li**， Jiaqing Liang, Yanghua Xiao*, Bang Liu* and Yunwen Chen: Can Pre-trained Language Models Understand Chinese Humor? 2023.03，WSDM 2023
+10. Yuyan Chen, **Zhixu Li**， Jiaqing Liang, Yanghua Xiao*, Bang Liu* and Yunwen Chen: Can Pre-trained Language Models Understand Chinese Humor? 2023.03**，，WSDM 2023**
 
 11. Shaohui Zheng, **Zhixu Li***, Jiaan Wang, Jianfeng Qu*, An Liu, Lei Zhao, Zhigang Chen: Long-Document Cross-Lingual Summarization. 2023.03**，，WSDM 2023**
 
