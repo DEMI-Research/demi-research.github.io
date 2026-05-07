@@ -20,6 +20,12 @@ banner:
 
 5. Peng Liu, Peng-Fei Zhang, Jianfeng Qu*, Ximing Li, **Zhixu Li**, Pengpeng Zhao: Towards Practical LLM Unlearning: Efficient, Modular, and Retain-Free. 2026.04，**WWW 2026**
 
+6. Qi Wu, Jianfeng Qu*, Ximing Li, **Zhixu Li**: Expert Heads: Robust Evidence Identification for Large Language Models. 2026，**ICLR 2026**
+
+7. Ying He, Zhouhong Gu, Zhecheng Hu, Yubo Zhou, Hao Shen, Jiaqing Liang, Zhaoqian Dai, Shuguang Ma, Fei Yu, Yanghua Xiao*, **Zhixu Li***: Are Large Language Models Reliable Reviewers? A Benchmark for Error Detection in Financial Documents. 2026，**ACL 2026**
+
+8. Yuyan Chen, Zhendong Hou, Lei Xia, Jiahao Li, Zhuolin Ji, **Zhixu Li***: AesX: Enhance Your Images with Stunning Aesthetic Beauty. 2026，**ACM MM 2026**
+
 2025
 1. Yaoxian Song, Penglei Sun, Piaopiao Jin, Yi Ren, Yu Zheng, **Zhixu Li**, Xiaowen Chu, Yue Zhang, Tiefeng Li*, Jason Gu*: Learning 6-DoF Fine-Grained Grasp Detection Based on Part Affordance Grounding. 2025.06，**IEEE Trans. Autom. Sci. Eng. 2025**
 
