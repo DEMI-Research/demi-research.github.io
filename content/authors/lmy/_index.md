@@ -10,12 +10,13 @@ last_name: 李
 superuser: false
 
 # Role/position
-role: 23级专硕
-grade: 3
+role: 2023届毕业硕士
+grade: 23
 
 # Organizations/Affiliations
 organizations:
-  - name: 复旦大学
+  - name: 天津市政府机关
+    url: '#'  - name: 复旦大学
     url: 'https://www.fudan.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
