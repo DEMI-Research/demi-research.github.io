@@ -10,8 +10,8 @@ last_name: 杜
 superuser: false
 
 # Role/position
-role: 23级专硕
-grade: 1
+role: 23级专硕<br><br>上海某科创公司
+grade: 23
 
 # Organizations/Affiliations
 organizations:
