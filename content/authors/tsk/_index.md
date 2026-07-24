@@ -17,9 +17,9 @@ grade: 24
 organizations:
   - name: 百度
     url: '#'
-  - name: 复旦大学
-    url: 'https://www.fudan.edu.cn/'
-
+  - name: 中国人民大学
+    url: 'https://www.ruc.edu.cn'
+  - name: 智慧治理学院
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
