@@ -10,8 +10,8 @@ last_name: 杜
 superuser: false
 
 # Role/position
-role: 2023届毕业硕士
-grade: 23
+role: 23级专硕
+grade: 1
 
 # Organizations/Affiliations
 organizations:
