@@ -10,8 +10,8 @@ last_name: 涂
 superuser: false
 
 # Role/position
-role: 2024届毕业硕士
-grade: 24
+role: 24级专硕
+grade: 2
 
 # Organizations/Affiliations
 organizations:
