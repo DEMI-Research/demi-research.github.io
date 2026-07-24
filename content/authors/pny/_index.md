@@ -16,7 +16,8 @@ grade: 24
 # Organizations/Affiliations
 organizations:
   - name: 武汉公安局
-    url: '#'  - name: 中国人民大学
+    url: '#'
+  - name: 中国人民大学
     url: 'https://www.ruc.edu.cn'
   - name: 智慧治理学院
 
