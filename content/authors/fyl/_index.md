@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 付雅丽
+title: 付亚丽
 
 # Full Name (for SEO)
-first_name: 雅丽
+first_name: 亚丽
 last_name: 付
 
 # Is this the primary user of the site?
