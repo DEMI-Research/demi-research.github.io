@@ -19,7 +19,6 @@ organizations:
     url: '#'
   - name: 复旦大学
     url: 'https://www.fudan.edu.cn/'
-
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
