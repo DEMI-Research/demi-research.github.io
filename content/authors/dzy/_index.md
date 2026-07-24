@@ -16,7 +16,8 @@ grade: 23
 # Organizations/Affiliations
 organizations:
   - name: 上海某科创公司
-    url: '#'  - name: 复旦大学
+    url: '#'
+  - name: 复旦大学
     url: 'https://www.fudan.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
