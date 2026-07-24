@@ -10,12 +10,13 @@ last_name: 涂
 superuser: false
 
 # Role/position
-role: 23级专硕
-grade: 3
+role: 2024届毕业硕士
+grade: 24
 
 # Organizations/Affiliations
 organizations:
-  - name: 复旦大学
+  - name: 百度
+    url: '#'  - name: 复旦大学
     url: 'https://www.fudan.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
