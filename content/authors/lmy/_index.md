@@ -17,9 +17,9 @@ grade: 23
 organizations:
   - name: 天津市政府机关
     url: '#'
-  - name: 复旦大学
-    url: 'https://www.fudan.edu.cn/'
-
+  - name: 中国人民大学
+    url: 'https://www.ruc.edu.cn'
+  - name: 智慧治理学院
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
