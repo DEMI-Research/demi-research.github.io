@@ -10,12 +10,13 @@ last_name: 彭
 superuser: false
 
 # Role/position
-role: 24级专硕
-grade: 2
+role: 2024届毕业硕士
+grade: 24
 
 # Organizations/Affiliations
 organizations:
-  - name: 中国人民大学
+  - name: 武汉公安局
+    url: '#'  - name: 中国人民大学
     url: 'https://www.ruc.edu.cn'
   - name: 智慧治理学院
 
