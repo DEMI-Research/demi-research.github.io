@@ -10,8 +10,8 @@ last_name: 杨
 superuser: false
 
 # Role/position
-role: 24级专硕
-grade: 2
+role: 24级专硕<br><br>南方电网（云南）
+grade: 24
 
 # Organizations/Affiliations
 organizations:
