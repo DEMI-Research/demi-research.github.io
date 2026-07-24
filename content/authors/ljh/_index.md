@@ -10,8 +10,8 @@ last_name: 罗
 superuser: false
 
 # Role/position
-role: 24级专硕
-grade: 2
+role: 24级专硕<br><br>合肥市政府机关
+grade: 24
 
 # Organizations/Affiliations
 organizations:
