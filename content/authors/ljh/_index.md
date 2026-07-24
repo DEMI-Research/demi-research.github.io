@@ -16,7 +16,8 @@ grade: 24
 # Organizations/Affiliations
 organizations:
   - name: 合肥市政府机关
-    url: '#'  - name: 中国人民大学
+    url: '#'
+  - name: 中国人民大学
     url: 'https://www.ruc.edu.cn'
   - name: 智慧治理学院
 
