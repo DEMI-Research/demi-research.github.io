@@ -4,7 +4,7 @@ first_name: 培硕
 last_name: 李
 superuser: false
 role: 26级专硕
-grade: 25
+grade: 26
 organizations:
   - name: 中国人民大学
     url: https://www.ruc.edu.cn
