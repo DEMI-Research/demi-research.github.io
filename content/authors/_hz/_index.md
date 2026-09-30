@@ -4,7 +4,7 @@ first_name: 真
 last_name: 韩
 superuser: false
 role: 26级专硕
-grade: 25.5
+grade: 25
 organizations:
   - name: 中国人民大学
     url: https://www.ruc.edu.cn
