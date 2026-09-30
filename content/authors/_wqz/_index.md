@@ -4,7 +4,7 @@ first_name: 泽权
 last_name: 王
 superuser: false
 role: 26级专硕
-grade: 25
+grade: 26
 organizations:
   - name: 中国人民大学
     url: https://www.ruc.edu.cn
