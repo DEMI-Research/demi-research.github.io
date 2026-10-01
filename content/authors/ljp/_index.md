@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: 副教授、硕导<br><br>中山大学
-grade: 5
+grade: 1
 
 # Organizations/Affiliations
 organizations:
