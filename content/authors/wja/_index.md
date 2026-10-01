@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: 研究员<br><br>微信研究院
-grade: 2
+grade: 4
 
 # Organizations/Affiliations
 organizations:
