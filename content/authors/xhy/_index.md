@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 role: 25级专硕
-grade: 2
+grade: 25
 
 # Organizations/Affiliations
 organizations:
