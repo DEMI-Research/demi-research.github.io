@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: 副主任、副教授、硕士生导师
-grade: 4
+grade: 1
 
 # Organizations/Affiliations
 organizations:
