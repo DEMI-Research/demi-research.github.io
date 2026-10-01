@@ -19,7 +19,7 @@ sections:
           - 在读硕士生
           - 本科先锋队
       sort_by: Params.grade
-      sort_ascending: false
+      sort_ascending: true
     design:
       show_interests: false
       show_role: true
