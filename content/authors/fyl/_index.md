@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: 26级博士
-grade: 2
+grade: 26
 
 # Organizations/Affiliations
 organizations:
