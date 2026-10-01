@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: 26级学硕
-grade: 0
+grade: 25.5
 
 # Organizations/Affiliations
 organizations:
