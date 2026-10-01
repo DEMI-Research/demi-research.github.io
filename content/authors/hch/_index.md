@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: 算法工程师<br><br>智谱华章
-grade: 1
+grade: 5
 
 # Organizations/Affiliations
 organizations:
