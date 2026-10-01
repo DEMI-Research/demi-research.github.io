@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: 研究员<br><br>字节
-grade: 2
+grade: 3
 
 # Organizations/Affiliations
 organizations:
